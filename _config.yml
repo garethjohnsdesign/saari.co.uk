@@ -1,0 +1,69 @@
+---
+title: Saari
+timezone: UTC
+collections:
+  projects:
+    title: Projects
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: projects
+  values:
+    image: 
+    video: 
+    company: 
+    runtime: 
+    director: 
+    producers: 
+    role: 
+    is-featured: 
+url: http://saari.co.uk
+description: A digital marketing, brand development and digital strategy consultancy, with the aim to reach increased market awareness and growth
+permalink: pretty
+exclude:
+- Gemfile
+- Gemfile.lock
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: Saari Ltd
+email: hello@saari.co.uk
+google_site_verification: bimZlwQSqEf956Dz_fr3y-sBxxgQ_fJ9PL-eoBNju0k
+analytics: UA-97427522-1
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/
+  instagram: https://www.instagram.com/
+  twitter: https://www.twitter.com/
+  linkedin: https://www.linkedin.com/in/
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false

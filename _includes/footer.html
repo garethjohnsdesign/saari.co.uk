@@ -1,0 +1,15 @@
+<div class="top-bar row small-collapse expanded align-middle align-justify">
+  
+  <div class="shrink columns top-bar-title">
+      <a href="/#about">{{site.title}}</a>
+  </div>
+  
+  <div class="shrink columns top-bar-menu show-for-large">
+    <ul class="menu align-right">
+        {% for link in site.data.footer %}
+          <li><a href="{{link.url}}">{{link.title}}</a></li>
+        {% endfor %}
+    </ul>
+  </div>
+  
+</div>

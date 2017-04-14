@@ -1,0 +1,42 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include head.html %}
+<!-- End Head -->
+
+<body>
+  
+<!-- Overlay Menu -->  
+{% include overlay-menu.html %}
+<!-- End Overlay Menu --> 
+
+{{ content }}
+
+<!-- Footer -->  
+{% include footer.html %}
+<!-- End Footer --> 
+
+<!-- Scripts -->
+{% include scripts.html %}
+<!-- End Scripts -->
+
+<!-- Google Analytics -->
+{% if site.analytics %}
+{% include analytics.html %}
+{% endif %}
+<!-- End Google Analytics -->
+
+</body>
+
+</html>
+
+
+
+
+
+
