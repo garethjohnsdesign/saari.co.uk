@@ -2,11 +2,11 @@
 title: Saari
 timezone: UTC
 collections:
-  projects:
-    title: Projects
-    output: true
   posts:
     title: Posts
+    output: true
+  projects:
+    title: Projects
     output: true
   uploads:
     title: Uploads
@@ -25,7 +25,8 @@ defaults:
     role: 
     is-featured: 
 url: http://saari.co.uk
-description: A digital marketing, brand development and digital strategy consultancy, with the aim to reach increased market awareness and growth
+description: A digital marketing, brand development and digital strategy consultancy,
+  with the aim to reach increased market awareness and growth
 permalink: pretty
 exclude:
 - Gemfile
