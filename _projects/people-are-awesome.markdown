@@ -3,7 +3,8 @@ title: People are Awesome
 date: 2013-03-04 00:00:00 Z
 position: 16
 image: "/uploads/people-are-awesome-feature.jpg"
-lead: Group strategy, digital marketing campaigns for London-based music management company
+lead: Group strategy, digital marketing campaigns for London-based music management
+  company
 layout: project
 ---
 
