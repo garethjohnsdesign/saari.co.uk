@@ -1,0 +1,21 @@
+<!-- Navigation -->
+<div class="navigation navigation--dark top-bar row small-collapse expanded align-middle align-justify">
+  <div class="shrink columns top-bar-menu show-for-large">
+    <ul class="menu align-right">
+        {% for link in site.data.navigation %}
+          <li><a href="{{link.url}}">{{link.title}}</a></li>
+        {% endfor %}
+    </ul>
+  </div>
+  
+  <div class="shrink columns top-bar-title">
+      <a href="/">{{site.title}}</a>
+  </div>
+  
+  <div class="shrink columns hide-for-large top-bar-menu-mobile">
+    <button class="hamburger hamburger--slider" data-toggler=".is-active" id="toggle" type="button" data-toggle="overlay-mobile toggle">
+      <span class="hamburger-box"><span class="hamburger-inner"></span></span>
+    </button>
+  </div> 
+</div>
+<!-- End Navigation -->

@@ -1,6 +1,6 @@
 # Saari
 
-Website for Jamal Benmiloud. Please go to [www.saari.co.uk](http://saari.co.uk) in case you want to take a look at the website.
+Website for Saari. Please go to [www.saari.co.uk](http://saari.co.uk) in case you want to take a look at the website.
 
 * * *
 

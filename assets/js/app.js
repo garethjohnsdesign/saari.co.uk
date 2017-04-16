@@ -1,17 +1,5 @@
 $(document).foundation();
 
-$('body').smoothScroll({
-  delegateSelector: '.top-bar a',
-  offset: -64
-});
-
-$('.top-bar').on('sticky.zf.stuckto:top', function(){
-  $(this).addClass('shrink');
-}).on('sticky.zf.unstuckfrom:top', function(){
-  $(this).removeClass('shrink');
-})
-
-
 wow = new WOW(
   {
   boxClass:     'wow',      // default
@@ -23,11 +11,14 @@ wow = new WOW(
 )
 wow.init();
 
-
-$(window).scroll(function() {
-	if ($(window).scrollTop() > 100 ){
- 		$('.top-bar').addClass('show');
-  } else {
-    $('.top-bar').removeClass('show');
- 	};   	
+// Carousel
+$('.carousel').flickity({
+  // options
+  contain: true,
+  setGallerySize: false,
+  wrapAround: true,
+  autoPlay: false,
+  prevNextButtons: false,
+  pageDots: false,
+  arrowShape: 'M100,46.875H11.9688l17.4688-17.4688L25,25L0,50l25,25l4.4062-4.4062L11.9688,53.125H100V46.875z'
 });

@@ -13,6 +13,7 @@ services-text: Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Mor
   vel scelerisque nisl consectetur et2
 contact-text: Saari is open for business, please contact us for enquiries, to discuss
   projects or collaborations
+navigation-light: true
 layout: index
 ---
 
