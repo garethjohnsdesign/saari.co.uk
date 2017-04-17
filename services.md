@@ -57,6 +57,9 @@ services:
     both offline and online PR approaching their work from a digital first point of
     view. Again an international focus and coordination can help deliver one message
     across a number of markets that drive core brand benefit.
+outro-text: Our team has broad capabilities across traditional and digital mediums
+  and we’re always happy to help. Visit our contact us page or drop us a line to see
+  how
 layout: services
 ---
 
