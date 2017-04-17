@@ -23,6 +23,26 @@ partners-text: Cum sociis natoque penatibus et magnis dis parturient montes, nas
   ridiculus mus. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque
   penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus
   eget urna mollis ornare vel eu leo.
+services-list:
+- Responsive Website
+- Webdesign
+- Research
+- Brand Positioning
+- Content Strategy
+- Logo
+- Identity and Naming
+- Social Media
+- Front-end Development
+- Brand Guidelines
+- Content Development
+- Multi-channel Strategies
+- Integrated Campaigns
+- User Interaction & Experience
+- Digital Design
+- Prototyping
+- Content Management
+- SEO & Analytics
+- E-Commerce
 layout: profile
 ---
 
