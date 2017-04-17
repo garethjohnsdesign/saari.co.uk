@@ -3,6 +3,10 @@ title: ATC Management
 date: 2013-03-04 00:00:00 Z
 position: 16
 image: "/uploads/atc-management-feature.jpg"
+services:
+- Digital Marketing
+- Advertising
+- Strategy
 lead: Group strategy, digital marketing campaigns for London-based music management
   company
 is-hero: true
@@ -30,10 +34,6 @@ details:
     mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
     sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
     id ligula porta felis euismod semper.
-services:
-- Digital Marketing
-- Advertising
-- Strategy
 layout: project
 ---
 

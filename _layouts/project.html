@@ -6,21 +6,36 @@ layout: default
 {% include navigation-dark.html %}
 <!-- End Navigation -->
 
-<!-- Details -->
-<!--
-<div class="row align-center">
-  <div class="small-12 medium-10 large-8 columns text-center">
-		<h4>{{ page.title }}</h4>
-	</div>
-</div>
--->
-<!-- End Details -->
+<!-- Profile Image -->
+<section class="project__image">
+  <div class="row">
+    <div class="columns">
+    	<img src="{{page.image}}">
+    </div>
+  </div>
+</section>
+<!-- End Profile Image -->
+
+<!-- Overview -->
+<section class="project__overview">
+  <div class="row">
+    <div class="small-12 medium-6 columns">
+    {% for service in page.services %}
+      <p>{{ service }}</p>
+    {% endfor %}
+    </div>
+    <div class="small-12 medium-6 columns">
+      <p class="lead">{{ page.lead }}</p>
+    </div>
+  </div>
+</section>
+<!-- End Overview -->
 
 <!-- Details -->
-<section class="services__services">
+<section class="project__details">
     <div class="row small-up-1 medium-up-2 large-up-4">
       {% for detail in page.details %}
-      <div class="columns services__service">
+      <div class="columns project__detail">
         <h3>{{ detail.title }}</h3>
         <p>{{ detail.text }}</p>
       </div>

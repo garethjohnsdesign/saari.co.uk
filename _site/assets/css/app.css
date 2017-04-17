@@ -3360,7 +3360,7 @@ pre {
   display: none !important; }
 
 .row {
-  max-width: 64rem;
+  max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
   display: flex;
@@ -4286,13 +4286,13 @@ h2 {
   margin-bottom: 0.5rem; }
 
 h3 {
-  font-size: 1.1875rem;
+  font-size: 1.5rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h4 {
-  font-size: 1.125rem;
+  font-size: 1rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
@@ -4349,7 +4349,7 @@ a {
 
 hr {
   clear: both;
-  max-width: 64rem;
+  max-width: 75rem;
   height: 0;
   margin: 1.25rem auto;
   border-top: 0;
@@ -6231,7 +6231,7 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal {
       width: 600px;
-      max-width: 64rem; } }
+      max-width: 75rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal .reveal {
       right: auto;
@@ -6242,15 +6242,15 @@ html.is-reveal-open body {
   @media print, screen and (min-width: 40em) {
     .reveal.tiny {
       width: 30%;
-      max-width: 64rem; } }
+      max-width: 75rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.small {
       width: 50%;
-      max-width: 64rem; } }
+      max-width: 75rem; } }
   @media print, screen and (min-width: 40em) {
     .reveal.large {
       width: 90%;
-      max-width: 64rem; } }
+      max-width: 75rem; } }
   .reveal.full {
     top: 0;
     left: 0;
@@ -7635,7 +7635,7 @@ h4 {
 
 .top-bar {
   font-family: "GTWalsheimProMedium", Helvetica, Roboto, Arial, sans-serif;
-  padding: 2rem 3rem; }
+  padding: 1rem 3rem 2rem 3rem; }
   .top-bar a {
     transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
     color: #FFFFFF; }
@@ -7647,7 +7647,7 @@ h4 {
       color: #3A5EE9; }
   @media screen and (max-width: 39.9375em) {
     .top-bar {
-      padding: 1.5625rem; } }
+      padding: 1rem 1.5625rem; } }
 
 .top-bar-title {
   text-transform: lowercase;
@@ -7746,7 +7746,19 @@ h4 {
     color: #3A5EE9; }
 
 .projects__intro {
+  margin-bottom: 2rem; }
+
+.project section {
   padding-bottom: 3rem; }
+
+.project__overview {
+  padding-bottom: 3rem; }
+
+.project__overview p {
+  margin-bottom: 0rem; }
+
+.project__detail h3 {
+  padding-bottom: 1rem; }
 
 .profile section {
   padding-bottom: 3rem; }

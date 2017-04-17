@@ -108,9 +108,9 @@ h4 {
 .top-bar {
   font-family: $header-font-family;
   @include links($color--white, $color--white, $color--royal-blue, $color--royal-blue);
-  padding: 2rem 3rem;
+  padding: 1rem 3rem 2rem 3rem;
   @include breakpoint(small only) {
-  padding: 1.5625rem;
+  padding: 1rem 1.5625rem;
   }
 }
 
@@ -218,17 +218,37 @@ h4 {
 // -----------
 
 .projects__intro {
+  margin-bottom: 2rem;
+}
+
+// 8. Project
+// -----------
+
+.project section {
   @include padding;
 }
 
-// 8. Profile
+
+.project__overview {
+  @include padding;
+}
+
+.project__overview p {
+  margin-bottom: 0rem;
+}
+
+.project__detail h3 {
+  padding-bottom: 1rem;  
+}
+
+// 9. Profile
 // -----------
 
 .profile section {
   @include padding;
 }
 
-// 9. Services
+// 10. Services
 // -----------
 
 .services section {
@@ -247,7 +267,7 @@ h4 {
   padding-bottom: 0rem;
 }
 
-// 10. Contact
+// 11. Contact
 // -----------
 
 .contact section {

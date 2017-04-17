@@ -87,12 +87,6 @@
 		"oAP": "\/_includes\/overlay-menu.html",
 		"oF": 0
 		},
-	"\/_includes\/pagination.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/pagination.html",
-		"oF": 0
-		},
 	"\/_includes\/scripts.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -151,6 +145,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/services.html",
+		"oF": 0
+		},
+	"\/_projects\/atc-management.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/atc-management.markdown",
 		"oF": 0
 		},
 	"\/_projects\/battersea-pie.markdown": {
