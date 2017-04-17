@@ -16,13 +16,13 @@ defaults:
     path: ''
     type: projects
   values:
-    image:  
-    lead:  
-    is-featured:  
-    is-hero:  
-    layout: project  
+    image: 
+    lead: 
+    is-featured: 
+    is-hero: 
+    layout: project
     services:
-      - 
+    - 
 url: http://saari.co.uk
 description: A digital marketing, brand development and digital strategy consultancy,
   with the aim to reach increased market awareness and growth
