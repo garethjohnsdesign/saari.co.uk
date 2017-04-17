@@ -6,10 +6,11 @@ layout: default
 {% include navigation-dark.html %}
 <!-- End Navigation -->
 
+
 <!-- Intro -->
 <section class="services__intro">
-  <div class="row">
-    <div class="columns">
+  <div class="row align-center">
+    <div class="medium-10 columns">
     	<h2>{{page.lead-text}}</h2>
     </div>
   </div>
@@ -18,13 +19,19 @@ layout: default
 
 <!-- Services -->
 <section class="services__services">
-<div class="row">
-  <div class="small-3 columns">
-  	<h3>Profile</h3>
+  <div class="row align-center">
+    <div class="medium-10 columns">
+    
+    <div class="row small-up-1 medium-up-2">
+      {% for service in page.services %}
+      <div class="columns services__service">
+        <h3>{{ service.service-title }}</h3>
+        <p>{{ service.service-text }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    
+    </div>
   </div>
-  <div class="small-9 columns">
-  	<p>{{page.profile-text}}</p>
-  </div>
-</div>
 </section>
 <!-- End Services -->

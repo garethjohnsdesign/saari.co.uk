@@ -7738,6 +7738,12 @@ h3 {
 .services section {
   padding-bottom: 3rem; }
 
+.services__service {
+  padding-bottom: 3rem; }
+
+.services__service h3 {
+  padding-bottom: 1rem; }
+
 .contact section {
   padding-bottom: 3rem; }
 

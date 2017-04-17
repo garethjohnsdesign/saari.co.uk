@@ -216,6 +216,13 @@ h3 {
   @include padding;
 }
 
+.services__service {
+  @include padding;
+}
+
+.services__service h3 {
+  padding-bottom: 1rem;
+}
 
 // 10. Contact
 // -----------
