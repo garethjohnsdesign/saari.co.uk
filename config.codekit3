@@ -135,12 +135,6 @@
 		"oAP": "\/_layouts\/profile.html",
 		"oF": 0
 		},
-	"\/_layouts\/project.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/project.html",
-		"oF": 0
-		},
 	"\/_layouts\/projects.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -5460,24 +5454,6 @@
 		"oF": 0,
 		"oS": 0,
 		"sC": 1
-		},
-	"\/contact.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/contact.md",
-		"oF": 1,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/Gemfile": {
 		"ft": 8192,
