@@ -11,7 +11,7 @@ enquiries:
   name: Matthew Green
   contact: matthew@saari.co.uk
 - title: General Enquiries
-  name:
+  name: 
   contact: hello@saari.co.uk
 layout: contact
 ---
