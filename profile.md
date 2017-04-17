@@ -1,6 +1,6 @@
 ---
 title: Profile
-position: 0
+position: 2
 image: "/uploads/profile.jpg"
 profile-text: Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur
   purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere

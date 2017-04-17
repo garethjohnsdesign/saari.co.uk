@@ -1,6 +1,6 @@
 ---
 title: Services
-position: 0
+position: 4
 lead-text: A digital marketing, brand development and digital strategy consultancy,
   with the aim to reach increased market awareness and growth
 approach-text: Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis
