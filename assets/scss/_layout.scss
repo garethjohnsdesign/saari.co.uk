@@ -85,6 +85,10 @@ h3 {
   color: $color--licorice;
 }
 
+h4 {
+  color: $color--licorice;
+}
+
 .more {
   padding-top: 1rem;
 }
@@ -104,6 +108,10 @@ h3 {
 .top-bar {
   font-family: $header-font-family;
   @include links($color--white, $color--white, $color--royal-blue, $color--royal-blue);
+  padding: 2rem 3rem;
+  @include breakpoint(small only) {
+  padding: 1.5625rem;
+  }
 }
 
 .top-bar-title {
@@ -148,8 +156,11 @@ h3 {
 
 .index__carousel__cell__text {
   font-family: $header-font-family;
-  padding: 2rem 3rem 3rem 3rem;
   height: 100%;
+  padding: 2rem 3rem;
+  @include breakpoint(small only) {
+  padding: 1.5625rem;
+  }
 }
 
 .index__about {
@@ -183,6 +194,14 @@ h3 {
 
 .excerpt__image {
   padding-bottom: 1rem;
+}
+
+.excerpt__image img {
+  transition: $primary-transition;
+}
+
+.excerpt__image img:hover {
+  opacity: 0.8;
 }
 
 .excerpt__text {
@@ -224,6 +243,10 @@ h3 {
   padding-bottom: 1rem;
 }
 
+.services__services {
+  padding-bottom: 0rem;
+}
+
 // 10. Contact
 // -----------
 
@@ -239,6 +262,9 @@ h3 {
 .footer {
   font-family: $header-font-family;
   padding: 2rem 3rem;
+  @include breakpoint(small only) {
+  padding: 1.5625rem;
+  }
 }
 
 .footer {
