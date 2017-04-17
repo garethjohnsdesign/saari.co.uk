@@ -6,22 +6,30 @@ image: "/uploads/atc-management-feature.jpg"
 lead: Group strategy, digital marketing campaigns for London-based music management
   company
 is-hero: true
-brief-text: |-
-  Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-  Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Donec sed odio dui.
-approach-text: |-
-  Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-  Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Donec sed odio dui.
-outcome-text: |-
-  Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-  Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Donec sed odio dui.
-testimonial-text: |-
-  Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-  Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Donec sed odio dui.
+details:
+- title: Brief
+  text: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
+    lacinia bibendum nulla sed consectetur. Nullam quis risus eget urna mollis ornare
+    vel eu leo. Donec sed odio dui. Donec sed odio dui. Nullam id dolor id nibh ultricies
+    vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+- title: Approach
+  text: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo
+    cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec sed
+    odio dui. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor
+    sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Praesent
+    commodo cursus magna, vel scelerisque nisl consectetur et.
+- title: Outcome
+  text: Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum
+    nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Duis
+    mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
+    sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+    id ligula porta felis euismod semper.
+- title: Testimonial
+  text: Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum
+    nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Duis
+    mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
+    sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+    id ligula porta felis euismod semper.
 layout: project
 ---
 
