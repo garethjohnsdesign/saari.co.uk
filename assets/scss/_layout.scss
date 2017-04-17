@@ -205,19 +205,22 @@ h3 {
 // 8. Profile
 // -----------
 
-.profile__image {
+.profile section {
   @include padding;
 }
 
-.profile__profile {
+// 9. Services
+// -----------
+
+.services section {
   @include padding;
 }
 
-.profile__approach {
-  @include padding;
-}
 
-.profile__partners {
+// 10. Contact
+// -----------
+
+.contact section {
   @include padding;
 }
 

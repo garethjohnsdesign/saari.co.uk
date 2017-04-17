@@ -54,3 +54,41 @@ layout: default
 </div>
 </section>
 <!-- End Partners -->
+
+<!-- Services -->
+<section class="profile__services">
+<div class="row">
+  <div class="small-3 columns">
+  	<h3>Services</h3>
+  </div>
+  <div class="small-9 columns">
+    <div class="row small-up-2 medium-up-3"> 
+    {% for service in page.services-list %}
+        <div class="collapse columns">
+          <p>{{ service }}</p>
+        </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
+</section>
+<!-- End Services -->
+
+<!-- Services -->
+<section class="profile__clients">
+<div class="row">
+  <div class="small-3 columns">
+  	<h3>Clients</h3>
+  </div>
+  <div class="small-9 columns">
+    <div class="row small-up-2 medium-up-3"> 
+    {% for client in page.clients-list %}
+        <div class="collapse columns">
+          <p>{{ client }}</p>
+        </div>
+    {% endfor %}
+    </div>
+  </div>
+</div>
+</section>
+<!-- End Services -->

@@ -147,6 +147,12 @@
 		"oAP": "\/_layouts\/projects.html",
 		"oF": 0
 		},
+	"\/_layouts\/services.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/services.html",
+		"oF": 0
+		},
 	"\/_projects\/atc-management.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -5594,6 +5600,24 @@
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
+		},
+	"\/services.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/services.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		}
 	},
 "hooks": [

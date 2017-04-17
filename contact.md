@@ -7,12 +7,12 @@ enquiries:
 - title: New Business
   name: Nikke Osterback
   contact: info@saari.co.uk
-- title: New Business
-  name: Nikke Osterback
-  contact: info@saari.co.uk
-- title: New Business
-  name: Nikke Osterback
-  contact: info@saari.co.uk
+- title: Internships
+  name: Matthew Green
+  contact: matthew@saari.co.uk
+- title: General Enquiries
+  name:
+  contact: hello@saari.co.uk
 layout: contact
 ---
 

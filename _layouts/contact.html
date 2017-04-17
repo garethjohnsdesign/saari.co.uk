@@ -6,54 +6,73 @@ layout: default
 {% include navigation-dark.html %}
 <!-- End Navigation -->
 
-<!-- Profile Image -->
-<div class="row">
-  <div class="columns">
-  	<img src="{{page.image}}">
+<!-- Contact Image -->
+<section class="contact__image">
+  <div class="row">
+    <div class="columns">
+    	<img src="{{page.image}}">
+    </div>
   </div>
-</div>
+</section>
 <!-- End Profile Image -->
 
 <!-- Contact -->
-<div class="row">
-  <div class="small-3 columns">
-  	<h2>Contact</h2>
+<section class="contact__contact">
+  <div class="row">
+    <div class="small-3 columns">
+    	<h2>Contact</h2>
+    </div>
+    <div class="small-9 columns">
+    	<p>{{page.contact-text}}</p>
+    </div>
   </div>
-  <div class="small-9 columns">
-  	<p>{{page.contact-text}}</p>
-  </div>
-</div>
+</section>
 <!-- End Contact -->
 
 <!-- Enquiries -->
+<section class="contact__enquiries">
 <div class="row">
-  
   <div class="small-3 columns">
     <h2>Enquiries</h2>
   </div>
   
   <div class="small-9 columns">
-    <div class="row small-up-1 medium-up-2">
+    <div class="row small-up-1 medium-up-3">
       {% for enquiry in page.enquiries %}
       <div class="columns contact__enquiry">
+        <h4>{{ enquiry.title }}</h4>
         <h4>{{ enquiry.name }}</h4>
-        <p>{{ enquiry.text }}</p>
         <a href="mailto:{{ enquiry.contact }}">{{ enquiry.contact }}</a>
       </div>
       {% endfor %}
     </div>
   </div> 
-
 </div>
+</section>
 <!-- End Enquiries -->
 
-<!-- Approach -->
+<!-- Additional -->
+<section class="contact__additional">
 <div class="row">
   <div class="small-3 columns">
-  	<h2>Partners</h2>
+  	<h2>Additional</h2>
   </div>
   <div class="small-9 columns">
   	<p>{{page.partners-text}}</p>
   </div>
 </div>
-<!-- End Profile -->
+</section>
+<!-- End Additional -->
+
+<!-- Legal -->
+<section class="contact__legal">
+<div class="row">
+  <div class="small-3 columns">
+  	<h2>Legal</h2>
+  </div>
+  <div class="small-9 columns">
+  	<p>{{page.legal-text}}</p>
+  </div>
+</div>
+</section>
+<!-- End Additional -->

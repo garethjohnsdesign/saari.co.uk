@@ -7732,16 +7732,13 @@ h3 {
 .projects__intro {
   padding-bottom: 3rem; }
 
-.profile__image {
+.profile section {
   padding-bottom: 3rem; }
 
-.profile__profile {
+.services section {
   padding-bottom: 3rem; }
 
-.profile__approach {
-  padding-bottom: 3rem; }
-
-.profile__partners {
+.contact section {
   padding-bottom: 3rem; }
 
 .footer {

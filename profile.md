@@ -37,7 +37,7 @@ services-list:
 - Content Development
 - Multi-channel Strategies
 - Integrated Campaigns
-- User Interaction & Experience
+- User Interaction
 - Digital Design
 - Prototyping
 - Content Management
