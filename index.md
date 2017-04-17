@@ -10,7 +10,7 @@ services-text: Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Mor
   felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Nullam quis
   risus eget urna mollis ornare vel eu leo. Duis mollis, est non commodo luctus, nisi
   erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna,
-  vel scelerisque nisl consectetur et2
+  vel scelerisque nisl consectetur et
 contact-text: Saari is open for business, please contact us for enquiries, to discuss
   projects or collaborations
 navigation-light: true

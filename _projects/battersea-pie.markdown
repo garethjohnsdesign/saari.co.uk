@@ -5,7 +5,7 @@ position: 16
 image: "/uploads/battersea-pie-feature.jpg"
 lead: Group strategy, digital marketing campaigns for London-based music management
   company
-is-home: true
+is-home: false
 layout: project
 ---
 

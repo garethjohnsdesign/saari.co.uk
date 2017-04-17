@@ -31,14 +31,43 @@ img {
 }
 
 :focus {
-outline: 0;
+  outline: 0;
 }
 
 [data-sticky] {
   width: 100%;
 }
 
-// 2. Typography
+a {
+  transition: $primary-transition;
+}
+
+// 2. Mixins
+// ---------
+
+
+@mixin padding {
+  padding-bottom: 3rem;
+}
+
+@mixin links ($link, $visit, $hover, $active) {
+  a {
+    transition: $primary-transition;
+    color: $link;
+    &:visited {
+      color: $visit;
+    }
+    &:hover {
+      color: $hover;   
+    }
+    &:active {
+      color: $active;
+    }
+  }
+}
+
+// 3. Typography
+// -------------
 
 .uppercase {
   text-transform: uppercase;
@@ -48,316 +77,43 @@ i, cite, em, var, address, dfn {
   font-style: normal;
 }
 
-.italic {
-//   font-family: $body-font-family-italic;
+h2 {
+  color: $color--licorice;
 }
 
-.callout p {
-  margin-top: 1rem;
-  line-height: 1.2;
+h3 {
+  color: $color--licorice;
 }
 
-.section__title {
-  text-transform: uppercase;
-  letter-spacing: 0.15rem;
-  padding-bottom: 1rem;
+.more {
+  padding-top: 1rem;
 }
 
-// 3. 404
+// 4. 404
+// ------
+
 
 .missing {
-	margin-top: 3rem;
-	margin-bottom: 3rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
-// Navigation
+// 5. Navigation
+// -------------
 
 .top-bar {
- margin-top: 0rem !important; 
- padding: 0.5rem 1.5rem 0.75rem 1.5rem;
- transition: background-color 0.5s ease;
- top: 0px !important;
- @include breakpoint(small only) {
-    padding: 0.75rem 1.5rem 0.75rem 1.5rem;
-  }
-}
-
-.show {
-  .top-bar-title {
-  font-size: 2rem;
-  }
-  background-color: $color--black-pearl;
- @include breakpoint(small only) {
-  background-color: transparent;
-  }
+  font-family: $header-font-family;
+  @include links($color--white, $color--white, $color--royal-blue, $color--royal-blue);
 }
 
 .top-bar-title {
-  font-family: $header-font-family;
   text-transform: lowercase;
-  font-size: 2rem;
-  a {
-    color: $color--white;
-    transition: $primary-transition;
-  }
-  a:hover {
-    color: $color--royal-blue;
-  }
-}
-
-.top-bar-menu {
-  font-family: $header-font-family;
-  a {
-    color: $color--white;
-    transition: $primary-transition;
-  }
-  a:hover {
-    color: $color--royal-blue;
-  }
+  font-size: 2.25rem;
 }
 
 .top-bar-menu-mobile {
   z-index: 1001;
 }
-
-// Colors
-
-h2 {
-  color: $color--licorice;
-}
-
-// Section
-
-/*
-section {
-  padding: 4rem 0rem;
-}
-*/
-
-// 4. Hero
-
-
-.hero {
-  padding-top: 0rem;
-  padding-bottom: 2rem;
-  background-position: center top;
-  background-size: cover;
-  p {
-    color: $color--white;
-  }
-  h1 {
-    color: $color--white;
-    padding-bottom: 0.5rem;
-  }
-}
-
-.hero__text {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-}
-
-
-.hero-images {
-  background-color: $color--black-pearl;
-}
-
-.hero-images h2 {
-  color: $color--white;
-  padding-bottom: 2rem;
-}
-
-.hero-images img {
-  border-radius: 50%;
-  margin-bottom: 2rem;
-}
-
-// 5. About
-
-.about h4 {
-  color: $color--royal-blue;
-}
-
-.about__intro {
-  padding-bottom: 2rem;
-}
-
-.about__intro h2 {
-  padding-bottom: 1rem;
-}
-
-.about__qualities h4 {
-  padding-top: 0.5rem;
-}
-
-
-// 5. Speaking
-
-.speaking {
-  background-color: $color--licorice;
-  color: $color--aqua-haze;
-}
-
-.speaking h4 {
-  color: $color--alluminium;
-}
-
-.speaking__extra {
-  padding-top: 1rem;
-}
-
-.speaking__intro {
-  padding-bottom: 2rem;
-}
-
-.speaking__intro h2 {
-  color: $color--white;
-  padding-bottom: 1rem;
-}
-
-.speaking__companies {
-  padding-top: 2rem;
-}
-
-.speaking__companies a {
-  color: $color--aqua-haze;
-}
-
-.speaking__qualities p {
-    font-size: 1.25rem;
-    font-family: $header-font-family;
-    line-height: 1.2;
-}
-
-.speaking__qualities ul li {
-    padding-bottom: 1rem;
-    color: $color--white;
-    list-style-type: none;
-}
-
-.speaking__qualities ul li:before {
-    /* Unicode bullet symbol */
-    content: '\2022 ';
-    /* Bullet color */
-    color: $color--alluminium;
-    padding-right: 0.5em;
-}
-
-// 5. Testimonials
-
-.testimonials {
-  background-color: $color--carrara;
-}
-
-.testimonials__intro {
-  padding-bottom: 2rem;
-}
-
-// 5. Consultant
-
-.consultant {
-  background-color: $color--white;
-}
-
-.consultant__intro {
-  padding-bottom: 2rem;
-}
-
-.consultant__intro h2 {
-  padding-bottom: 1rem;
-}
-
-.consultant__company {
-  padding-bottom: 2rem;
-}
-
-.consultant__company h4 {
-  color: $color--royal-blue;
-  padding-bottom: 1rem;
-  margin-bottom: 0rem;
-}
-
-.consultant__company img {
-  border-radius: 50%;
-//   padding: 1rem;
-//   filter: grayscale(1);
-  transition: $primary-transition;
-}
-
-.consultant__company img:hover {
-  filter: grayscale(1);
-}
-
-// 5. Book
-
-.book {
-  background-color: $color--aqua-haze;
-}
-
-.book h2 {
-  color: $color--royal-blue;
-  padding-bottom: 2rem;
-}
-
-.book__review__stars {
-  padding: 2rem;
-}
-
-.book__review__stars img {
-  margin: auto;
-}
-
-.book__review__cite {
-  color: $color--royal-blue;
-}
-
-// 5. Call to Action
-
-.cta {
-  background-color: $color--black-pearl;
-}
-
-.cta h2 {
-  color: $color--white;
-  padding-bottom: 2rem;
-}
-
-// Footer
-
-.footer {
-  padding: 0.5rem 1.5rem 0.75rem 1.5rem;
-}
-
-.footer a {
-  color: $color--black;
-}
-
-// 12. Carousel
-
-.carousel {
-  height: 60vh;
-}
-
-.carousel__cell {
-  width: 100%;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  z-index: 1;
-
-  a {
-    color: $color--white;
-    &:hover {
-      color: $color--black;
-    }
-  }
-  
-  &__text {
-    height: 100%;
-  }
-}
-
-// 3. Navigation
 
 .navigation {
   z-index: 9;
@@ -370,10 +126,118 @@ section {
 
 .navigation--dark {
   position: relative;
-  a {
-    color: $color--black;
-    }
-    a:hover {
-    color: $color--black;
-    }
+  @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+}
+
+// 6. Index
+// --------
+
+.index__carousel {
+  height: 60vh;
+}
+
+.index__carousel__cell {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1;
+  @include links($color--white, $color--white, $color--royal-blue, $color--royal-blue);
+}
+
+.index__carousel__cell__text {
+  font-family: $header-font-family;
+  padding: 2rem 3rem 3rem 3rem;
+  height: 100%;
+}
+
+.index__about {
+  @include padding;
+  padding-top: 3rem;
+}
+
+.index__projects {
+  @include padding;
+}
+
+.index__services {
+  @include padding;
+}
+
+.index__services p {
+  margin-bottom: 0rem;
+}
+
+.index__contact {
+  @include padding;
+}
+
+
+// 6. Excerpt
+// ----------
+
+.excerpt {
+  padding-bottom: 2rem;
+}
+
+.excerpt__image {
+  padding-bottom: 1rem;
+}
+
+.excerpt__text {
+  font-family: $header-font-family;
+  font-size: 1.15rem;
+}
+
+.excerpt__text  {
+  @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+}
+
+
+// 7. Projects
+// -----------
+
+.projects__intro {
+  @include padding;
+}
+
+// 8. Profile
+// -----------
+
+.profile__image {
+  @include padding;
+}
+
+.profile__profile {
+  @include padding;
+}
+
+.profile__approach {
+  @include padding;
+}
+
+.profile__partners {
+  @include padding;
+}
+
+
+
+// x. Footer
+// -----------
+
+.footer {
+  font-family: $header-font-family;
+  padding: 2rem 3rem;
+}
+
+.footer {
+  @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+}
+
+.footer__title {
+  font-family: $header-font-family;
+  font-size: 2.25rem;
+  vertical-align: top;
+  text-transform: lowercase;
 }

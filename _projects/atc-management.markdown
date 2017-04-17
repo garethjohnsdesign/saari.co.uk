@@ -5,9 +5,7 @@ position: 16
 image: "/uploads/atc-management-feature.jpg"
 lead: Group strategy, digital marketing campaigns for London-based music management
   company
-is-home: true
-video: 61063278
-awards: 
+is-hero: true
 brief-text: |-
   Sed posuere consectetur est at lobortis. Sed posuere consectetur est at lobortis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 

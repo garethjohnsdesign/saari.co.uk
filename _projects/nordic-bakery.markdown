@@ -5,6 +5,7 @@ position: 16
 image: "/uploads/nordic-bakery-feature.jpg"
 lead: Group strategy, digital marketing campaigns for London-based music management
   company
+is-hero: true
 layout: project
 ---
 

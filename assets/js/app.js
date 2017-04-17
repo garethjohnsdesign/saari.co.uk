@@ -12,7 +12,7 @@ wow = new WOW(
 wow.init();
 
 // Carousel
-$('.carousel').flickity({
+$('.index__carousel').flickity({
   // options
   contain: true,
   setGallerySize: false,
