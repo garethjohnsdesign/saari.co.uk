@@ -30,6 +30,10 @@ details:
     mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
     sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
     id ligula porta felis euismod semper.
+services:
+- Digital Marketing
+- Advertising
+- Strategy
 layout: project
 ---
 
