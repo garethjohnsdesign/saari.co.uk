@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<!-- Navigation -->
+{% include navigation-dark.html %}
+<!-- End Navigation -->
+
+<!-- Profile Image -->
+<div class="row">
+  <div class="columns">
+  	<img src="{{page.image}}">
+  </div>
+</div>
+<!-- End Profile Image -->
+
+<!-- Contact -->
+<div class="row">
+  <div class="small-3 columns">
+  	<h2>Contact</h2>
+  </div>
+  <div class="small-9 columns">
+  	<p>{{page.contact-text}}</p>
+  </div>
+</div>
+<!-- End Contact -->
+
+<!-- Enquiries -->
+<div class="row">
+  
+  <div class="small-3 columns">
+    <h2>Enquiries</h2>
+  </div>
+  
+  <div class="small-9 columns">
+    <div class="row small-up-1 medium-up-2">
+      {% for enquiry in page.enquiries %}
+      <div class="columns contact__enquiry">
+        <h4>{{ enquiry.name }}</h4>
+        <p>{{ enquiry.text }}</p>
+        <a href="mailto:{{ enquiry.contact }}">{{ enquiry.contact }}</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div> 
+
+</div>
+<!-- End Enquiries -->
+
+<!-- Approach -->
+<div class="row">
+  <div class="small-3 columns">
+  	<h2>Partners</h2>
+  </div>
+  <div class="small-9 columns">
+  	<p>{{page.partners-text}}</p>
+  </div>
+</div>
+<!-- End Profile -->

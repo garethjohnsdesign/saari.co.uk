@@ -105,6 +105,12 @@
 		"oAP": "\/_layouts\/compress.html",
 		"oF": 0
 		},
+	"\/_layouts\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/contact.html",
+		"oF": 0
+		},
 	"\/_layouts\/default.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -220,6 +226,16 @@
 		"iS": 70281,
 		"oA": 0,
 		"oAP": "\/_uploads\/benjamin-clementine-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/contact.jpg": {
+		"ft": 16384,
+		"iS": 480140,
+		"oA": 0,
+		"oAP": "\/_uploads\/contact.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5438,6 +5454,24 @@
 		"oF": 0,
 		"oS": 0,
 		"sC": 1
+		},
+	"\/contact.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/contact.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/Gemfile": {
 		"ft": 8192,
