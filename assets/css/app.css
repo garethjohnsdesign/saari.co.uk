@@ -4274,19 +4274,19 @@ h6 {
     color: #cacaca; }
 
 h1 {
-  font-size: 1.875rem;
+  font-size: 1.75rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 1.2;
   margin-top: 0;
   margin-bottom: 0.5rem; }
@@ -7629,13 +7629,22 @@ h4 {
 .more {
   padding-top: 1rem; }
 
-.missing {
-  margin-top: 3rem;
-  margin-bottom: 3rem; }
+.page {
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  padding: 2rem 1rem; }
+  @media print, screen and (min-width: 40em) {
+    .page {
+      padding: 2rem 2rem; } }
+  @media print, screen and (min-width: 64em) {
+    .page {
+      padding: 2rem 3rem; } }
+  @media screen and (min-width: 75em) {
+    .page {
+      padding: 2rem 4rem; } }
 
 .top-bar {
   font-family: "GTWalsheimProMedium", Helvetica, Roboto, Arial, sans-serif;
-  padding: 1rem 3rem 2rem 3rem; }
+  padding: 1rem 3rem 0rem 3rem; }
   .top-bar a {
     transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
     color: #FFFFFF; }
@@ -7657,7 +7666,7 @@ h4 {
   z-index: 1001; }
 
 .navigation {
-  z-index: 9;
+  z-index: 1001;
   width: 100%; }
 
 .navigation--light {
@@ -7676,7 +7685,17 @@ h4 {
       color: #3A5EE9; }
 
 .index__carousel {
-  height: 60vh; }
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  height: 70vh; }
+  @media print, screen and (min-width: 40em) {
+    .index__carousel {
+      height: 70vh; } }
+  @media print, screen and (min-width: 64em) {
+    .index__carousel {
+      height: 70vh; } }
+  @media screen and (min-width: 75em) {
+    .index__carousel {
+      height: 60vh; } }
 
 .index__carousel__cell {
   width: 100%;
@@ -7748,6 +7767,14 @@ h4 {
 .projects__intro {
   margin-bottom: 2rem; }
 
+.project__hero {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1;
+  height: 50vh; }
+
 .project section {
   padding-bottom: 3rem; }
 
@@ -7763,20 +7790,23 @@ h4 {
 .profile section {
   padding-bottom: 3rem; }
 
-.services section {
-  padding-bottom: 3rem; }
+.services__intro {
+  padding-bottom: 0rem; }
 
 .services__service {
-  padding-bottom: 3rem; }
+  padding-top: 3rem; }
 
 .services__service h3 {
   padding-bottom: 1rem; }
 
 .services__services {
-  padding-bottom: 0rem; }
+  padding-bottom: 3rem; }
 
 .contact section {
   padding-bottom: 3rem; }
+
+.contact__enquiry p {
+  margin-bottom: 0rem; }
 
 .footer {
   font-family: "GTWalsheimProMedium", Helvetica, Roboto, Arial, sans-serif;

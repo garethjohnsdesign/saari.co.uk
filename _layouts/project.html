@@ -1,31 +1,25 @@
 ---
-layout: default
+layout: light
 ---
 
-<!-- Navigation -->
-{% include navigation-dark.html %}
-<!-- End Navigation -->
-
-<!-- Profile Image -->
-<section class="project__image">
-  <div class="row">
-    <div class="columns">
-    	<img src="{{page.image}}">
-    </div>
-  </div>
+<!-- Hero Image -->
+<section class="project__hero" style="background-image: url({{page.feature-image}})">
 </section>
-<!-- End Profile Image -->
+<!-- End Hero Image -->
 
+<!-- Page Wrapper -->
+<div class="page">
+  
 <!-- Overview -->
 <section class="project__overview">
   <div class="row">
-    <div class="small-12 medium-6 columns">
+    <div class="small-12 medium-6 columns show-for-medium">
     {% for service in page.services %}
-      <p>{{ service }}</p>
+      <p class="lead">{{ service }}</p>
     {% endfor %}
     </div>
     <div class="small-12 medium-6 columns">
-      <p class="lead">{{ page.lead }}</p>
+      <h2>{{ page.lead }}</h2>
     </div>
   </div>
 </section>
@@ -45,7 +39,8 @@ layout: default
 <!-- End Details -->
 
 <!-- Pagination -->
-
 {% include pagination.html %}
-
 <!-- End Pagination -->
+
+</div>
+<!-- End Page Wrapper -->

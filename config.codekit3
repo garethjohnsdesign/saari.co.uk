@@ -27,6 +27,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_config.yml": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/_config.yml",
+		"oF": 0
+		},
 	"\/_data\/footer.yml": {
 		"ft": 8192,
 		"oA": 2,
@@ -81,6 +87,12 @@
 		"oAP": "\/_includes\/overlay-menu.html",
 		"oF": 0
 		},
+	"\/_includes\/pagination.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/pagination.html",
+		"oF": 0
+		},
 	"\/_includes\/scripts.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -99,6 +111,12 @@
 		"oAP": "\/_layouts\/contact.html",
 		"oF": 0
 		},
+	"\/_layouts\/dark.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/dark.html",
+		"oF": 0
+		},
 	"\/_layouts\/default.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -109,6 +127,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/index.html",
+		"oF": 0
+		},
+	"\/_layouts\/light.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/light.html",
 		"oF": 0
 		},
 	"\/_layouts\/missing.html": {
@@ -197,7 +221,7 @@
 		},
 	"\/_uploads\/atc-management-feature.jpg": {
 		"ft": 16384,
-		"iS": 96206,
+		"iS": 104439,
 		"oA": 0,
 		"oAP": "\/_uploads\/atc-management-feature.jpg",
 		"oF": 0,
@@ -205,9 +229,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/atc-management.jpg": {
+		"ft": 16384,
+		"iS": 96206,
+		"oA": 0,
+		"oAP": "\/_uploads\/atc-management.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/battersea-pie-feature.jpg": {
 		"ft": 16384,
-		"iS": 134769,
+		"iS": 315408,
 		"oA": 0,
 		"oAP": "\/_uploads\/battersea-pie-feature.jpg",
 		"oF": 0,
@@ -215,11 +249,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/battersea-pie.jpg": {
+		"ft": 16384,
+		"iS": 134769,
+		"oA": 0,
+		"oAP": "\/_uploads\/battersea-pie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/benjamin-clementine-feature.jpg": {
+		"ft": 16384,
+		"iS": 109389,
+		"oA": 0,
+		"oAP": "\/_uploads\/benjamin-clementine-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/benjamin-clementine.jpg": {
 		"ft": 16384,
 		"iS": 70281,
 		"oA": 0,
-		"oAP": "\/_uploads\/benjamin-clementine-feature.jpg",
+		"oAP": "\/_uploads\/benjamin-clementine.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -247,7 +301,7 @@
 		},
 	"\/_uploads\/katie-melua-feature.jpg": {
 		"ft": 16384,
-		"iS": 115946,
+		"iS": 111048,
 		"oA": 0,
 		"oAP": "\/_uploads\/katie-melua-feature.jpg",
 		"oF": 0,
@@ -255,9 +309,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/katie-melua.jpg": {
+		"ft": 16384,
+		"iS": 115946,
+		"oA": 0,
+		"oAP": "\/_uploads\/katie-melua.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/lapponia-jewelry-feature.jpg": {
 		"ft": 16384,
-		"iS": 152351,
+		"iS": 171904,
 		"oA": 0,
 		"oAP": "\/_uploads\/lapponia-jewelry-feature.jpg",
 		"oF": 0,
@@ -265,9 +329,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/lapponia-jewelry.jpg": {
+		"ft": 16384,
+		"iS": 152351,
+		"oA": 0,
+		"oAP": "\/_uploads\/lapponia-jewelry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/nordic-bakery-feature.jpg": {
 		"ft": 16384,
-		"iS": 386455,
+		"iS": 159090,
 		"oA": 0,
 		"oAP": "\/_uploads\/nordic-bakery-feature.jpg",
 		"oF": 0,
@@ -275,9 +349,19 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/nordic-bakery.jpg": {
+		"ft": 16384,
+		"iS": 386455,
+		"oA": 0,
+		"oAP": "\/_uploads\/nordic-bakery.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/nordic-playlist-feature.jpg": {
 		"ft": 16384,
-		"iS": 182029,
+		"iS": 181689,
 		"oA": 0,
 		"oAP": "\/_uploads\/nordic-playlist-feature.jpg",
 		"oF": 0,
@@ -285,11 +369,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/nordic-playlist.jpg": {
+		"ft": 16384,
+		"iS": 182029,
+		"oA": 0,
+		"oAP": "\/_uploads\/nordic-playlist.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/people-are-awesome-feature.jpg": {
+		"ft": 16384,
+		"iS": 153454,
+		"oA": 0,
+		"oAP": "\/_uploads\/people-are-awesome-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/people-are-awesome.jpg": {
 		"ft": 16384,
 		"iS": 113448,
 		"oA": 0,
-		"oAP": "\/_uploads\/people-are-awesome-feature.jpg",
+		"oAP": "\/_uploads\/people-are-awesome.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

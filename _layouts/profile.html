@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: dark
 ---
-
-<!-- Navigation -->
-{% include navigation-dark.html %}
-<!-- End Navigation -->
 
 <!-- Profile Image -->
 <section class="profile__image">
@@ -62,7 +58,7 @@ layout: default
   	<h3>Services</h3>
   </div>
   <div class="small-12 medium-9 columns">
-    <div class="row small-up-2 medium-up-3"> 
+    <div class="row small-up-1 medium-up-3"> 
     {% for service in page.services-list %}
         <div class="collapse columns">
           <p>{{ service }}</p>
@@ -81,7 +77,7 @@ layout: default
   	<h3>Clients</h3>
   </div>
   <div class="small-12 medium-9 columns">
-    <div class="row small-up-2 medium-up-3"> 
+    <div class="row small-up-1 medium-up-3"> 
     {% for client in page.clients-list %}
         <div class="collapse columns">
           <p>{{ client }}</p>

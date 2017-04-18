@@ -1,10 +1,6 @@
 ---
-layout: default
+layout: dark
 ---
-
-<!-- Navigation -->
-{% include navigation-dark.html %}
-<!-- End Navigation -->
 
 <!-- Contact Image -->
 <section class="contact__image">
@@ -41,7 +37,7 @@ layout: default
       {% for enquiry in page.enquiries %}
       <div class="columns contact__enquiry">
         <h4>{{ enquiry.title }}</h4>
-        {{ enquiry.name }}
+        <p>{{ enquiry.name }}</p>
         <a href="mailto:{{ enquiry.contact }}">{{ enquiry.contact }}</a>
       </div>
       {% endfor %}

@@ -2,7 +2,13 @@
 title: ATC Management
 date: 2013-03-04 00:00:00 Z
 position: 16
-image: "/uploads/atc-management-feature.jpg"
+image: "/uploads/atc-management.jpg"
+feature-image: "/uploads/atc-management-feature.jpg"
+images:
+- "/uploads/atc-management-one.jpg"
+- "/uploads/atc-management-two.jpg"
+- "/uploads/atc-management-three.jpg"
+- "/uploads/atc-management-four.jpg"
 services:
 - Digital Marketing
 - Advertising
@@ -10,6 +16,7 @@ services:
 lead: Group strategy, digital marketing campaigns for London-based music management
   company
 is-hero: true
+is-featured: true
 details:
 - title: Brief
   text: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
@@ -36,5 +43,3 @@ details:
     id ligula porta felis euismod semper.
 layout: project
 ---
-
-Group strategy, digital marketing campaigns for London-based music management company
