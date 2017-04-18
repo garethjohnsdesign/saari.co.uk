@@ -41,7 +41,7 @@ layout: light
     {% assign projects = site.projects | sort: 'position' | where: "is-featured", "true" %}
     {% for project in projects %}
       <div class="columns">
-      {% include excerpt.html %}
+      {% include excerpt-new.html %}
       </div>
     {% endfor %}
   </div>

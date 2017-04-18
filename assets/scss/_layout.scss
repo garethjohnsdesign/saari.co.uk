@@ -190,9 +190,9 @@ h4 {
 .index__carousel__cell__text {
   font-family: $header-font-family;
   height: 100%;
-  padding: 2rem 3rem;
+  padding: 3rem 3rem;
   @include breakpoint(small only) {
-  padding: 1.5625rem;
+  padding: 2rem;
   }
 }
 
@@ -222,28 +222,62 @@ h4 {
 // ----------
 
 .excerpt {
-  padding-bottom: 2rem;
+	position:relative;
+    &:hover .excerpt__image:after {
+        transition: $primary-transition;
+        background: $color--royal-blue;
+        opacity:0.8;
+    }
+    
+    &:hover .excerpt__image img {
+        filter: grayscale(1);
+    }
+      
+    &:hover .excerpt__title {
+      transition: $primary-transition;
+      opacity: 1;
+    } 
+}
+
+.excerpt__title {
+  opacity: 0;
+  position:absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  z-index: 1;  
+  h3 {
+  color: $color--white;
+  }
 }
 
 .excerpt__image {
-  padding-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .excerpt__image img {
   transition: $primary-transition;
 }
 
-.excerpt__image img:hover {
-  opacity: 0.8;
-}
-
-.excerpt__text {
-  font-family: $header-font-family;
-  font-size: 1.15rem;
+.excerpt__image:after {
+  transition: $primary-transition;
+  content:'\A';
+  position:absolute;
+  width:100%; 
+  height:100%;
+  top:0; 
+  left:0;
+  background:$color--black;
+  opacity:0.25;
 }
 
 .excerpt__text  {
+  font-family: $header-font-family;
+  font-size: 1.15rem;
   @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+  padding-bottom: 2rem;
 }
 
 
@@ -342,3 +376,6 @@ h4 {
   vertical-align: top;
   text-transform: lowercase;
 }
+
+// x. Testing
+// ----------

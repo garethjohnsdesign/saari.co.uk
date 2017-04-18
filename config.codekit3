@@ -51,6 +51,12 @@
 		"oAP": "\/_includes\/analytics.html",
 		"oF": 0
 		},
+	"\/_includes\/excerpt-new.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/excerpt-new.html",
+		"oF": 0
+		},
 	"\/_includes\/excerpt.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -626,11 +632,29 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/assets\/js\/min\/pace-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/min\/pace-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/assets\/js\/min\/svgxuse-min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/min\/svgxuse-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/pace.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/pace-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -718,6 +742,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/css\/_layout.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/scss\/_loading.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_loading.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -5610,6 +5647,1482 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/bower_components\/PACE\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/PACE\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/PACE\/install.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/install.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/PACE\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/LICENSE",
+		"oF": 0
+		},
+	"\/bower_components\/PACE\/pace.coffee": {
+		"ft": 32,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/pace.coffee",
+		"oF": 0,
+		"oS": 0,
+		"sC": 1
+		},
+	"\/bower_components\/PACE\/pace.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/pace.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/PACE\/pace.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/pace.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/PACE\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/black\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/black\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/blue\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/blue\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/green\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/green\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/orange\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/orange\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/pink\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/pink\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/purple\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/purple\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/red\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/red\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/silver\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/silver\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/white\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/white\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-barber-shop.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-barber-shop.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-big-counter.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-big-counter.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-bounce.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-bounce.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-atom.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-atom.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-circle.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-circle.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-radar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-radar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-simple.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-center-simple.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-corner-indicator.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-corner-indicator.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-fill-left.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-fill-left.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-flash.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-flash.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-flat-top.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-flat-top.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-loading-bar.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-loading-bar.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-mac-osx.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-mac-osx.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/PACE\/themes\/yellow\/pace-theme-minimal.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-minimal.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/bower_components\/svgxuse\/.bower.json": {
 		"ft": 524288,
