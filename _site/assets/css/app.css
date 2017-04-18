@@ -7590,6 +7590,14 @@ Single-colored icons can be modified like so:
 body {
   cursor: default; }
 
+body {
+  opacity: 1;
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+
+body.fade-out {
+  opacity: 0;
+  transition: none; }
+
 svg {
   max-width: 100%; }
 

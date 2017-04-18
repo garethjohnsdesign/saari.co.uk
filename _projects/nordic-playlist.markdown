@@ -13,8 +13,7 @@ services:
 - Digital Marketing
 - Advertising
 - Strategy
-lead: Group strategy, digital marketing campaigns for London-based music management
-  company
+lead: Online advertising plan for Nordic Startup
 is-hero: false
 is-featured: true
 details:

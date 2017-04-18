@@ -10,10 +10,20 @@
 // 1. Global
 // ---------
 
-
 body {  
   cursor: default;
 }
+
+body {
+    opacity: 1;
+    transition: $primary-transition;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
 
 svg {
   max-width: 100%;

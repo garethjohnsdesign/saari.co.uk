@@ -13,8 +13,7 @@ services:
 - Digital Marketing
 - Advertising
 - Strategy
-lead: Group strategy, digital marketing campaigns for London-based music management
-  company
+lead: Online strategy for top selling singer
 is-hero: false
 is-featured: true
 details:

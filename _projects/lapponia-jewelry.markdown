@@ -13,8 +13,7 @@ services:
 - Digital Marketing
 - Advertising
 - Strategy
-lead: Group strategy, digital marketing campaigns for London-based music management
-  company
+lead: Branding and identity guidelines for Nordic brand
 is-hero: false
 is-featured: false
 details:

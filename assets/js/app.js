@@ -1,5 +1,10 @@
 $(document).foundation();
 
+$('body').removeClass('fade-out');
+
+// $(".loader").fadeOut("slow");
+
+
 wow = new WOW(
   {
   boxClass:     'wow',      // default

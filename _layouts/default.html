@@ -10,7 +10,11 @@ layout: compress
 <!-- End Head -->
 
 <body class="{{page.layout | slugify}}">
-  
+
+{% if page.url == "/" %}
+<script>document.body.className += ' fade-out';</script>
+{% endif %}
+
 <!-- Overlay Menu -->  
 {% include overlay-menu.html %}
 <!-- End Overlay Menu --> 
