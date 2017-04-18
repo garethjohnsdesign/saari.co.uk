@@ -7578,8 +7578,6 @@ Single-colored icons can be modified like so:
   .overlay.open {
     opacity: 0.98;
     visibility: visible; }
-    .overlay.open li {
-      animation: fadeIn .5s ease forwards; }
   .overlay nav {
     display: flex;
     justify-content: center;
@@ -7594,17 +7592,13 @@ Single-colored icons can be modified like so:
   .overlay ul {
     list-style: none; }
     .overlay ul li {
+      font-family: "GTWalsheimProMedium", Helvetica, Roboto, Arial, sans-serif;
       font-size: 2rem;
       padding: 16px;
       min-height: 2rem;
-      text-align: center;
-      /*
-      a:hover {
-      color: $color--white;
-      }
-*/ }
+      text-align: center; }
       .overlay ul li a {
-        padding: 16px; }
+        padding: 1rem; }
 
 body {
   cursor: default; }
