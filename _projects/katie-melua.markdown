@@ -1,7 +1,7 @@
 ---
 title: Katie Melua
 date: 2013-03-04 00:00:00 Z
-position: 16
+position: 3
 image: "/uploads/katie-melua.jpg"
 feature-image: "/uploads/katie-melua-feature.jpg"
 images:

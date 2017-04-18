@@ -1,7 +1,7 @@
 ---
 title: People are Awesome
 date: 2013-03-04 00:00:00 Z
-position: 16
+position: 7
 image: "/uploads/people-are-awesome.jpg"
 feature-image: "/uploads/people-are-awesome-feature.jpg"
 images:
