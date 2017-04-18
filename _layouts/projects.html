@@ -15,7 +15,7 @@ layout: dark
     {% assign projects = site.projects | sort: 'position' %}
     {% for project in projects %}
       <div class="columns">
-      {% include excerpt-new.html %}
+      {% include excerpt.html %}
       </div>
     {% endfor %}
   </div>

@@ -7789,9 +7789,11 @@ h4 {
   .excerpt__title h3 {
     color: #FFFFFF; }
 
+/*
 .excerpt__image {
-  margin-bottom: 1rem; }
-
+  margin-bottom: 1rem;
+}
+*/
 .excerpt__image img {
   transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
@@ -7809,6 +7811,7 @@ h4 {
 .excerpt__text {
   font-family: "GTWalsheimProMedium", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1.15rem;
+  padding-top: 1rem;
   padding-bottom: 2rem; }
   .excerpt__text a {
     transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);

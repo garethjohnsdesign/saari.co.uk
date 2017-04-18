@@ -253,9 +253,11 @@ h4 {
   }
 }
 
+/*
 .excerpt__image {
   margin-bottom: 1rem;
 }
+*/
 
 .excerpt__image img {
   transition: $primary-transition;
@@ -277,6 +279,7 @@ h4 {
   font-family: $header-font-family;
   font-size: 1.15rem;
   @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+  padding-top: 1rem;
   padding-bottom: 2rem;
 }
 
