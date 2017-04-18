@@ -13,7 +13,7 @@ services:
 - Digital Marketing
 - Advertising
 - Strategy
-lead: Digital consultancy for user generated content
+lead: Digital consultancy for user generated content platform
 is-hero: false
 is-featured: true
 details:
