@@ -235,8 +235,8 @@ h4 {
   position:relative;
   &:hover .excerpt__image:after {
     transition: $primary-transition;
-    background: $color--royal-blue;
-    @include opacity(0.8);
+    background: $color--licorice;
+    @include opacity(0.9);
   }
   &:hover .excerpt__image img {
     filter: grayscale(1);
@@ -358,8 +358,8 @@ h4 {
   @include padding;
 }
 
-.contact__enquiry p {
-  margin-bottom: 0rem;
+.contact__enquiry {
+  margin-bottom: 1rem;
 }
 
 // 13. Footer

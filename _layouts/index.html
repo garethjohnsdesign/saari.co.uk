@@ -70,6 +70,16 @@ layout: light
   </div>
   
   <div class="row">
+    {% for contact in page.contacts %}
+      <div class="shrink columns contact__enquiry">
+        <h4>{{ contact.title }}</h4>
+        <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+      </div>
+    {% endfor %}
+  </div>
+      
+<!--
+  <div class="row">
   	<div class="shrink columns">
     	<div class="index__contact__title">General Enquiries</div>
     	<a href="mailto:info@saari.co.uk">info@saari.co.uk</a>
@@ -80,6 +90,7 @@ layout: light
     	<a href="mailto:nikke@saari.co.uk">nikke@saari.co.uk</a>
     </div>
   </div>
+-->
   
   <div class="row">
   	<div class="medium-10 large-8 columns">

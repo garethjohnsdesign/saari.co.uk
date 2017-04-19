@@ -37,8 +37,7 @@ layout: dark
       {% for enquiry in page.enquiries %}
       <div class="columns contact__enquiry">
         <h4>{{ enquiry.title }}</h4>
-        <p>{{ enquiry.name }}</p>
-        <a href="mailto:{{ enquiry.contact }}">{{ enquiry.contact }}</a>
+        <a href="mailto:{{ enquiry.email }}">{{ enquiry.email }}</a>
       </div>
       {% endfor %}
     </div>

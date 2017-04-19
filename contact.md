@@ -7,13 +7,13 @@ contact-text: "Unit D  \n 100 De Beauvoir Road  \n London N1 4EN  \n [+44 (0)77 
 enquiries:
 - title: New Business
   name: Nikke Osterback
-  contact: info@saari.co.uk
+  email: info@saari.co.uk
 - title: Internships
   name: Matthew Green
-  contact: matthew@saari.co.uk
+  email: matthew@saari.co.uk
 - title: General Enquiries
   name: 
-  contact: hello@saari.co.uk
+  email: hello@saari.co.uk
 additional:
 - title: PDF Request
   text: We have PDF’s covering a range of our work in more detail. For more information

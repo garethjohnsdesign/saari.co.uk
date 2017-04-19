@@ -48,6 +48,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+colophon: http://garethjohnsdesign.com
 company: Saari Ltd
 email: hello@saari.co.uk
 google_site_verification: bimZlwQSqEf956Dz_fr3y-sBxxgQ_fJ9PL-eoBNju0k

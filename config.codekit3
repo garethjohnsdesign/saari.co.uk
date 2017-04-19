@@ -165,6 +165,54 @@
 		"oAP": "\/_layouts\/services.html",
 		"oF": 0
 		},
+	"\/_projects\/atc-management.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/atc-management.markdown",
+		"oF": 0
+		},
+	"\/_projects\/battersea-pie.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/battersea-pie.markdown",
+		"oF": 0
+		},
+	"\/_projects\/benjamin-clementine.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/benjamin-clementine.markdown",
+		"oF": 0
+		},
+	"\/_projects\/katie-melua.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/katie-melua.markdown",
+		"oF": 0
+		},
+	"\/_projects\/lapponia-jewelry.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/lapponia-jewelry.markdown",
+		"oF": 0
+		},
+	"\/_projects\/nordic-bakery.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/nordic-bakery.markdown",
+		"oF": 0
+		},
+	"\/_projects\/nordic-playlist.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/nordic-playlist.markdown",
+		"oF": 0
+		},
+	"\/_projects\/people-are-awesome.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_projects\/people-are-awesome.markdown",
+		"oF": 0
+		},
 	"\/_site": {
 		"ft": 65536,
 		"oA": 1,
@@ -173,7 +221,7 @@
 		},
 	"\/_uploads\/atc-management-feature.jpg": {
 		"ft": 16384,
-		"iS": 96206,
+		"iS": 95741,
 		"oA": 0,
 		"oAP": "\/_uploads\/atc-management-feature.jpg",
 		"oF": 0,
@@ -223,7 +271,7 @@
 		},
 	"\/_uploads\/atc-management.jpg": {
 		"ft": 16384,
-		"iS": 96206,
+		"iS": 92938,
 		"oA": 0,
 		"oAP": "\/_uploads\/atc-management.jpg",
 		"oF": 0,
@@ -233,7 +281,7 @@
 		},
 	"\/_uploads\/battersea-pie-feature.jpg": {
 		"ft": 16384,
-		"iS": 134769,
+		"iS": 300814,
 		"oA": 0,
 		"oAP": "\/_uploads\/battersea-pie-feature.jpg",
 		"oF": 0,
@@ -243,7 +291,7 @@
 		},
 	"\/_uploads\/battersea-pie.jpg": {
 		"ft": 16384,
-		"iS": 134769,
+		"iS": 130002,
 		"oA": 0,
 		"oAP": "\/_uploads\/battersea-pie.jpg",
 		"oF": 0,
@@ -253,7 +301,7 @@
 		},
 	"\/_uploads\/benjamin-clementine-feature.jpg": {
 		"ft": 16384,
-		"iS": 70281,
+		"iS": 106555,
 		"oA": 0,
 		"oAP": "\/_uploads\/benjamin-clementine-feature.jpg",
 		"oF": 0,
@@ -263,7 +311,7 @@
 		},
 	"\/_uploads\/benjamin-clementine.jpg": {
 		"ft": 16384,
-		"iS": 70281,
+		"iS": 63029,
 		"oA": 0,
 		"oAP": "\/_uploads\/benjamin-clementine.jpg",
 		"oF": 0,
@@ -273,7 +321,7 @@
 		},
 	"\/_uploads\/contact.jpg": {
 		"ft": 16384,
-		"iS": 480140,
+		"iS": 448137,
 		"oA": 0,
 		"oAP": "\/_uploads\/contact.jpg",
 		"oF": 0,
@@ -283,17 +331,17 @@
 		},
 	"\/_uploads\/hero.jpg": {
 		"ft": 16384,
-		"iS": 138005,
+		"iS": 95741,
 		"oA": 0,
 		"oAP": "\/_uploads\/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/katie-melua-feature.jpg": {
 		"ft": 16384,
-		"iS": 115946,
+		"iS": 106803,
 		"oA": 0,
 		"oAP": "\/_uploads\/katie-melua-feature.jpg",
 		"oF": 0,
@@ -303,7 +351,7 @@
 		},
 	"\/_uploads\/katie-melua.jpg": {
 		"ft": 16384,
-		"iS": 115946,
+		"iS": 111564,
 		"oA": 0,
 		"oAP": "\/_uploads\/katie-melua.jpg",
 		"oF": 0,
@@ -313,7 +361,7 @@
 		},
 	"\/_uploads\/lapponia-jewelry-feature.jpg": {
 		"ft": 16384,
-		"iS": 152351,
+		"iS": 160781,
 		"oA": 0,
 		"oAP": "\/_uploads\/lapponia-jewelry-feature.jpg",
 		"oF": 0,
@@ -323,7 +371,7 @@
 		},
 	"\/_uploads\/lapponia-jewelry.jpg": {
 		"ft": 16384,
-		"iS": 152351,
+		"iS": 138344,
 		"oA": 0,
 		"oAP": "\/_uploads\/lapponia-jewelry.jpg",
 		"oF": 0,
@@ -333,7 +381,7 @@
 		},
 	"\/_uploads\/nordic-bakery-feature.jpg": {
 		"ft": 16384,
-		"iS": 386455,
+		"iS": 149562,
 		"oA": 0,
 		"oAP": "\/_uploads\/nordic-bakery-feature.jpg",
 		"oF": 0,
@@ -343,7 +391,7 @@
 		},
 	"\/_uploads\/nordic-bakery.jpg": {
 		"ft": 16384,
-		"iS": 386455,
+		"iS": 368535,
 		"oA": 0,
 		"oAP": "\/_uploads\/nordic-bakery.jpg",
 		"oF": 0,
@@ -353,7 +401,7 @@
 		},
 	"\/_uploads\/nordic-playlist-feature.jpg": {
 		"ft": 16384,
-		"iS": 182029,
+		"iS": 173691,
 		"oA": 0,
 		"oAP": "\/_uploads\/nordic-playlist-feature.jpg",
 		"oF": 0,
@@ -363,7 +411,7 @@
 		},
 	"\/_uploads\/nordic-playlist.jpg": {
 		"ft": 16384,
-		"iS": 182029,
+		"iS": 177843,
 		"oA": 0,
 		"oAP": "\/_uploads\/nordic-playlist.jpg",
 		"oF": 0,
@@ -373,7 +421,7 @@
 		},
 	"\/_uploads\/people-are-awesome-feature.jpg": {
 		"ft": 16384,
-		"iS": 113448,
+		"iS": 147048,
 		"oA": 0,
 		"oAP": "\/_uploads\/people-are-awesome-feature.jpg",
 		"oF": 0,
@@ -383,7 +431,7 @@
 		},
 	"\/_uploads\/people-are-awesome.jpg": {
 		"ft": 16384,
-		"iS": 113448,
+		"iS": 109027,
 		"oA": 0,
 		"oAP": "\/_uploads\/people-are-awesome.jpg",
 		"oF": 0,
@@ -393,7 +441,7 @@
 		},
 	"\/_uploads\/profile.jpg": {
 		"ft": 16384,
-		"iS": 108764,
+		"iS": 295283,
 		"oA": 0,
 		"oAP": "\/_uploads\/profile.jpg",
 		"oF": 0,
@@ -525,16 +573,16 @@
 		"oAP": "\/assets\/fonts\/AdelleSans.woff2",
 		"oF": 0
 		},
-	"\/assets\/fonts\/gtwalsheimpromedium.woff": {
+	"\/assets\/fonts\/GTWalsheimProMedium.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/gtwalsheimpromedium.woff",
+		"oAP": "\/assets\/fonts\/GTWalsheimProMedium.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/gtwalsheimpromedium.woff2": {
+	"\/assets\/fonts\/GTWalsheimProMedium.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/gtwalsheimpromedium.woff2",
+		"oAP": "\/assets\/fonts\/GTWalsheimProMedium.woff2",
 		"oF": 0
 		},
 	"\/assets\/icons\/symbol-defs.svg": {
@@ -753,8 +801,8 @@
 		"uL": 1
 		},
 	"\/assets\/scss\/app.scss": {
-		"aP": 1,
-		"bl": 1,
+		"aP": 0,
+		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
@@ -762,7 +810,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/css\/app.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/bower.json": {
