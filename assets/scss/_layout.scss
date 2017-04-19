@@ -65,18 +65,12 @@ a {
   padding-bottom: 3rem;
 }
 
-@mixin links ($link, $visit, $hover, $active) {
+@mixin links ($link, $hover) {
   a {
     transition: $primary-transition;
     color: $link;
-    &:visited {
-      color: $visit;
-    }
     &:hover {
       color: $hover;   
-    }
-    &:active {
-      color: $active;
     }
   }
 }
@@ -138,7 +132,7 @@ h4 {
 
 .top-bar {
   font-family: $header-font-family;
-  @include links($color--white, $color--white, $color--royal-blue, $color--royal-blue);
+  @include links($color--white, $color--royal-blue);
   padding: 1rem 3rem 0rem 3rem;
   @include breakpoint(small only) {
     padding: 1rem 1.5625rem;
@@ -165,7 +159,7 @@ h4 {
 
 .navigation--dark {
   position: relative;
-  @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+  @include links($color--licorice, $color--royal-blue);
 }
 
 // 6. Index
@@ -194,7 +188,7 @@ h4 {
   background-size: cover;
   background-position: center center;
   z-index: 1;
-  @include links($color--white, $color--white, $color--royal-blue, $color--royal-blue);
+  @include links($color--white, $color--royal-blue);
 }
 
 .index__carousel__cell__text {
@@ -281,7 +275,7 @@ h4 {
 .excerpt__text {
   font-family: $header-font-family;
   font-size: 1.15rem;
-  @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+  @include links($color--licorice, $color--royal-blue);
   padding-top: 1rem;
   padding-bottom: 2rem;
 }
@@ -401,7 +395,7 @@ h4 {
 
 .footer {
   font-family: $header-font-family;
-  @include links($color--licorice, $color--licorice, $color--royal-blue, $color--royal-blue);
+  @include links($color--licorice, $color--royal-blue);
   padding: 3rem 3rem 3rem 3rem;
   @include breakpoint(small only) {
     padding: 1rem 1.5625rem;

@@ -2,8 +2,6 @@
 title: Contact
 position: 4
 image: "/uploads/contact.jpg"
-contact-text: "Unit D  \n 100 De Beauvoir Road  \n London N1 4EN  \n [+44 (0)77 2214
-  4697](tel:07722144697)  \n [hello@saari.co.uk](mailto:hello@saari.co.uk)"
 enquiries:
 - title: New Business
   name: Nikke Osterback
