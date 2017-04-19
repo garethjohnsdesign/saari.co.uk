@@ -7055,6 +7055,12 @@
 		"oS": 0,
 		"sC": 1
 		},
+	"\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/contact.html",
+		"oF": 0
+		},
 	"\/contact.md": {
 		"cS": 0,
 		"eF": 1,
