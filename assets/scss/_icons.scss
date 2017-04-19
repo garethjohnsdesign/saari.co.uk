@@ -16,28 +16,3 @@ Single-colored icons can be modified like so:
   color: red;
 }
 ========================================== */
-
-.icon-qualities {
-  font-size: 2rem;
-}
-
-.icon-quotes {
-  font-size: 1.5rem;
-  color: $color--zircon;
-}
-
-.icon-company {
-  font-size: 6rem;
-  fill: $color--royal-blue;
-}
-
-.icon-play-circle {
-  font-size: 3rem;
-  fill: $color--royal-blue;
-  transition: $primary-transition;
-  margin-bottom: 1rem;
-}
-
-.icon-play-circle:hover {
-  fill: $color--zircon;
-}
