@@ -829,6 +829,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/scss\/_smoothstate.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_smoothstate.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/scss\/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -6581,6 +6594,181 @@
 		"oAP": "\/bower_components\/PACE\/themes\/yellow\/pace-theme-minimal.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/bower_components\/smoothstate\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/smoothstate\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/smoothstate\/demos\/barebones\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/barebones\/about.html",
+		"oF": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/barebones\/functions.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/barebones\/functions.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/barebones\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/barebones\/index.html",
+		"oF": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/barebones\/submit.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/barebones\/submit.html",
+		"oF": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/csstricks\/detail.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/detail.html",
+		"oF": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/csstricks\/functions.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/functions.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/csstricks\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/index.html",
+		"oF": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/csstricks\/keyframes.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/keyframes.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/csstricks\/layout.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/layout.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/csstricks\/normalize.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/normalize.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/smoothstate\/demos\/csstricks\/pageTransitions.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/demos\/csstricks\/pageTransitions.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/bower_components\/smoothstate\/gulpfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/gulpfile.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/smoothstate\/jquery.smoothState.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/jquery.smoothState.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/smoothstate\/LICENSE.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/LICENSE.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/smoothstate\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/smoothstate\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/smoothstate\/src\/jquery.smoothState.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/smoothstate\/src\/jquery.smoothState.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/bower_components\/svgxuse\/.bower.json": {
 		"ft": 524288,

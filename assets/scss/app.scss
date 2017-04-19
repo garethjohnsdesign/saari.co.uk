@@ -2,7 +2,8 @@
 
 @import 'loading';
 @import 'fonts';
-@import 'animate';
+// @import 'animate';
+// @import 'smoothstate';
 @import 'variables';
 @import 'hamburgers';
 @import 'settings';
@@ -51,8 +52,8 @@
 @include foundation-float-classes;
 @include foundation-flex-classes;
 
-@include motion-ui-transitions;
-@include motion-ui-animations;
+// @include motion-ui-transitions;
+// @include motion-ui-animations;
 
 @import 'carousel';
 @import 'icons';
