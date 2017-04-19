@@ -57,10 +57,7 @@ colophon: http://garethjohnsdesign.com
 company: Saari Ltd
 email: hello@saari.co.uk
 phone-number: "+44(0)77 2214 4697"
-address-text: |-
-  Unit D  
-  100 De Beauvoir Road  
-  London N1 4EN
+address-text: "Unit D  \n100 De Beauvoir Road  \nLondon N1 4EN"
 map: https://goo.gl/maps/GYrrK5YHjmP2
 google_site_verification: bimZlwQSqEf956Dz_fr3y-sBxxgQ_fJ9PL-eoBNju0k
 analytics: UA-97427522-1
