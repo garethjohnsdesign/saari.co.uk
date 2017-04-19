@@ -4,7 +4,7 @@ date: 2013-03-04 00:00:00 Z
 position: 5
 image: "/uploads/nordic-bakery.jpg"
 feature-image: "/uploads/nordic-bakery-feature.jpg"
-images:
+images: 
 services:
 - Digital Marketing
 - Advertising

@@ -4,7 +4,7 @@ date: 2013-03-04 00:00:00 Z
 position: 3
 image: "/uploads/katie-melua.jpg"
 feature-image: "/uploads/katie-melua-feature.jpg"
-images:
+images: 
 services:
 - Digital Marketing
 - Advertising

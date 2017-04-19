@@ -4,7 +4,7 @@ date: 2013-03-04 00:00:00 Z
 position: 4
 image: "/uploads/lapponia-jewelry.jpg"
 feature-image: "/uploads/lapponia-jewelry-feature.jpg"
-images:
+images: 
 services:
 - Digital Marketing
 - Advertising

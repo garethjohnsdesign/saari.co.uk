@@ -4,7 +4,7 @@ date: 2013-03-04 00:00:00 Z
 position: 6
 image: "/uploads/nordic-playlist.jpg"
 feature-image: "/uploads/nordic-playlist-feature.jpg"
-images:
+images: 
 services:
 - Digital Marketing
 - Advertising

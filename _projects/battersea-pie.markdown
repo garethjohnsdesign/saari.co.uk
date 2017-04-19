@@ -4,7 +4,7 @@ date: 2013-03-04 00:00:00 Z
 position: 1
 image: "/uploads/battersea-pie.jpg"
 feature-image: "/uploads/battersea-pie-feature.jpg"
-images:
+images: 
 services:
 - Digital Marketing
 - Advertising
