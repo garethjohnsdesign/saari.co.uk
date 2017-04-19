@@ -5,10 +5,6 @@ position: 4
 image: "/uploads/lapponia-jewelry.jpg"
 feature-image: "/uploads/lapponia-jewelry-feature.jpg"
 images:
-- "/uploads/lapponia-jewelry-one.jpg"
-- "/uploads/lapponia-jewelry-two.jpg"
-- "/uploads/lapponia-jewelry-three.jpg"
-- "/uploads/lapponia-jewelry-four.jpg"
 services:
 - Digital Marketing
 - Advertising

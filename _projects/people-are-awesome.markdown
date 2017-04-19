@@ -5,10 +5,6 @@ position: 7
 image: "/uploads/people-are-awesome.jpg"
 feature-image: "/uploads/people-are-awesome-feature.jpg"
 images:
-- "/uploads/people-are-awesome-one.jpg"
-- "/uploads/people-are-awesome-two.jpg"
-- "/uploads/people-are-awesome-three.jpg"
-- "/uploads/people-are-awesome-four.jpg"
 services:
 - Digital Marketing
 - Advertising

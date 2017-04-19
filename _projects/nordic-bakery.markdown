@@ -5,10 +5,6 @@ position: 5
 image: "/uploads/nordic-bakery.jpg"
 feature-image: "/uploads/nordic-bakery-feature.jpg"
 images:
-- "/uploads/nordic-bakery-one.jpg"
-- "/uploads/nordic-bakery-two.jpg"
-- "/uploads/nordic-bakery-three.jpg"
-- "/uploads/nordic-bakery-four.jpg"
 services:
 - Digital Marketing
 - Advertising

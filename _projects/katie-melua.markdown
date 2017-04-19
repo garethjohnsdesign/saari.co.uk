@@ -5,10 +5,6 @@ position: 3
 image: "/uploads/katie-melua.jpg"
 feature-image: "/uploads/katie-melua-feature.jpg"
 images:
-- "/uploads/katie-melua-one.jpg"
-- "/uploads/katie-melua-two.jpg"
-- "/uploads/katie-melua-three.jpg"
-- "/uploads/katie-melua-four.jpg"
 services:
 - Digital Marketing
 - Advertising

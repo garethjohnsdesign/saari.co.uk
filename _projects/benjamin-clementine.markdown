@@ -5,10 +5,6 @@ position: 2
 image: "/uploads/benjamin-clementine.jpg"
 feature-image: "/uploads/benjamin-clementine-feature.jpg"
 images:
-- "/uploads/benjamin-clementine-one.jpg"
-- "/uploads/benjamin-clementine-two.jpg"
-- "/uploads/benjamin-clementine-three.jpg"
-- "/uploads/benjamin-clementine-four.jpg"
 services:
 - Digital Marketing
 - Advertising

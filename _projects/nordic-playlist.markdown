@@ -5,10 +5,6 @@ position: 6
 image: "/uploads/nordic-playlist.jpg"
 feature-image: "/uploads/nordic-playlist-feature.jpg"
 images:
-- "/uploads/nordic-playlist-one.jpg"
-- "/uploads/nordic-playlist-two.jpg"
-- "/uploads/nordic-playlist-three.jpg"
-- "/uploads/nordic-playlist-four.jpg"
 services:
 - Digital Marketing
 - Advertising

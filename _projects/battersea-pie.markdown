@@ -5,10 +5,6 @@ position: 1
 image: "/uploads/battersea-pie.jpg"
 feature-image: "/uploads/battersea-pie-feature.jpg"
 images:
-- "/uploads/battersea-pie-one.jpg"
-- "/uploads/battersea-pie-two.jpg"
-- "/uploads/battersea-pie-three.jpg"
-- "/uploads/battersea-pie-four.jpg"
 services:
 - Digital Marketing
 - Advertising

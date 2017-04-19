@@ -229,6 +229,46 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/atc-management-four.jpg": {
+		"ft": 16384,
+		"iS": 68925,
+		"oA": 0,
+		"oAP": "\/_uploads\/atc-management-four.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/atc-management-one.jpg": {
+		"ft": 16384,
+		"iS": 35080,
+		"oA": 0,
+		"oAP": "\/_uploads\/atc-management-one.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/atc-management-three.jpg": {
+		"ft": 16384,
+		"iS": 34372,
+		"oA": 0,
+		"oAP": "\/_uploads\/atc-management-three.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/atc-management-two.jpg": {
+		"ft": 16384,
+		"iS": 67551,
+		"oA": 0,
+		"oAP": "\/_uploads\/atc-management-two.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/atc-management.jpg": {
 		"ft": 16384,
 		"iS": 96206,
@@ -521,40 +561,28 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/AdelleSans.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/AdelleSans.eot",
-		"oF": 0
-		},
-	"\/assets\/fonts\/AdelleSans.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/AdelleSans.ttf",
-		"oF": 0
-		},
 	"\/assets\/fonts\/AdelleSans.woff": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets\/fonts\/AdelleSans.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/GTWalsheimProMedium.eot": {
+	"\/assets\/fonts\/AdelleSans.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/GTWalsheimProMedium.eot",
+		"oAP": "\/assets\/fonts\/AdelleSans.woff2",
 		"oF": 0
 		},
-	"\/assets\/fonts\/GTWalsheimProMedium.ttf": {
+	"\/assets\/fonts\/gtwalsheimpromedium.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/GTWalsheimProMedium.ttf",
+		"oAP": "\/assets\/fonts\/gtwalsheimpromedium.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/GTWalsheimProMedium.woff": {
+	"\/assets\/fonts\/gtwalsheimpromedium.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/GTWalsheimProMedium.woff",
+		"oAP": "\/assets\/fonts\/gtwalsheimpromedium.woff2",
 		"oF": 0
 		},
 	"\/assets\/icons\/symbol-defs.svg": {
