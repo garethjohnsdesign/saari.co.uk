@@ -14,11 +14,11 @@ services-text: Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Mor
 contact-text: Saari is open for business, please contact us for enquiries, to discuss
   projects or collaborations
 contacts:
-- title: "General Enquiries"
+- title: General Enquiries
   email: info@saari.co.uk
-- title: "New Business"
+- title: New Business
   email: nikke@saari.co.uk
-- title: "Internships / Careers"
+- title: Internships / Careers
   email: mathew@saari.co.uk
 navigation-light: true
 layout: index
