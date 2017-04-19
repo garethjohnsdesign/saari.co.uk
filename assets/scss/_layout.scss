@@ -351,7 +351,41 @@ h4 {
   @include padding;
 }
 
-// 12. Contact
+// 12. Journal
+// -----------
+
+.journal__post {
+  @include padding;
+}
+
+.journal__post p {
+  a {
+    transition: $primary-transition;
+    color: $color--dolphin;
+    border-bottom: solid 1px $color--dolphin;
+    &:visited {
+      color: $color--dolphin;
+    }
+    &:hover {
+      color: $color--royal-blue;
+      border-bottom: solid 1px $color--royal-blue; 
+    }
+    &:active {
+      color: $color--royal-blue;
+    }
+  }
+}
+
+.journal__post h5 {
+  padding-bottom: 1rem;
+}
+
+.journal__post h2 {
+  border-top: solid 1px $color--royal-blue;
+  padding-top: 1rem;
+}
+
+// 13. Contact
 // -----------
 
 .contact section {
@@ -362,7 +396,7 @@ h4 {
   margin-bottom: 1rem;
 }
 
-// 13. Footer
+// 14. Footer
 // -----------
 
 .footer {

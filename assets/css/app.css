@@ -6194,6 +6194,28 @@ h4 {
 .services__services {
   padding-bottom: 3rem; }
 
+.journal__post {
+  padding-bottom: 3rem; }
+
+.journal__post p a {
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1);
+  color: #696B79;
+  border-bottom: solid 1px #696B79; }
+  .journal__post p a:visited {
+    color: #696B79; }
+  .journal__post p a:hover {
+    color: #3A5EE9;
+    border-bottom: solid 1px #3A5EE9; }
+  .journal__post p a:active {
+    color: #3A5EE9; }
+
+.journal__post h5 {
+  padding-bottom: 1rem; }
+
+.journal__post h2 {
+  border-top: solid 1px #3A5EE9;
+  padding-top: 1rem; }
+
 .contact section {
   padding-bottom: 3rem; }
 
