@@ -16,7 +16,7 @@ services:
 lead: Group strategy, digital marketing campaigns for London-based music management
   company
 is-hero: true
-is-featured: true
+is-featured: false
 details:
 - title: Brief
   text: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean

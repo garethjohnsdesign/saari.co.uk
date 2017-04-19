@@ -10,8 +10,8 @@ services:
 - Advertising
 - Strategy
 lead: Online strategy for top selling singer
-is-hero: false
-is-featured: true
+is-hero: true
+is-featured: false
 details:
 - title: Brief
   text: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
