@@ -58,8 +58,8 @@ services:
     view. Again an international focus and coordination can help deliver one message
     across a number of markets that drive core brand benefit.
 outro-text: Our team has broad capabilities across traditional and digital mediums
-  and we’re always happy to help. Visit our contact us page or drop us a line to see
-  how
+  and we’re always happy to help. Visit our [contact us](/contact) page or drop us
+  a line to see how
 layout: services
 ---
 
