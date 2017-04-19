@@ -4,7 +4,7 @@ timezone: UTC
 collections:
   posts:
     title: Posts
-    output: true
+    output: false
   projects:
     title: Projects
     output: true
@@ -12,6 +12,11 @@ collections:
     title: Uploads
     output: false
 defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/journal/:title/"
 - scope:
     path: ''
     type: projects
@@ -55,7 +60,7 @@ google_site_verification: bimZlwQSqEf956Dz_fr3y-sBxxgQ_fJ9PL-eoBNju0k
 analytics: UA-97427522-1
 logo: "/assets/img/logo.svg"
 per_page: 12
-date_format: "%b %d, %Y"
+date_format: "%d %B %Y"
 future: true
 social:
   facebook: https://www.facebook.com/

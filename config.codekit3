@@ -129,6 +129,12 @@
 		"oAP": "\/_layouts\/index.html",
 		"oF": 0
 		},
+	"\/_layouts\/journal.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/journal.html",
+		"oF": 0
+		},
 	"\/_layouts\/light.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -163,6 +169,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/services.html",
+		"oF": 0
+		},
+	"\/_posts\/2017-04-19-saari-win-european-award.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_posts\/2017-04-19-saari-win-european-award.markdown",
 		"oF": 0
 		},
 	"\/_projects\/atc-management.markdown": {
@@ -7055,12 +7067,6 @@
 		"oS": 0,
 		"sC": 1
 		},
-	"\/contact.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/contact.html",
-		"oF": 0
-		},
 	"\/contact.md": {
 		"cS": 0,
 		"eF": 1,
@@ -7069,9 +7075,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/contact.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/contact.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -7107,6 +7113,24 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/index.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/journal.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/journal.md",
 		"oF": 1,
 		"oFM": 9,
 		"oS": 0,

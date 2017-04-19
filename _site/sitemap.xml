@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://saari.co.uk/journal/saari-win-european-award/</loc>
+<lastmod>2017-04-19T16:05:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://saari.co.uk/projects/atc-management/</loc>
 <lastmod>2013-03-04T00:00:00+00:00</lastmod>
 </url>
@@ -39,6 +43,9 @@
 <loc>http://saari.co.uk/</loc>
 </url>
 <url>
+<loc>http://saari.co.uk/journal/</loc>
+</url>
+<url>
 <loc>http://saari.co.uk/profile/</loc>
 </url>
 <url>
@@ -46,9 +53,5 @@
 </url>
 <url>
 <loc>http://saari.co.uk/services/</loc>
-</url>
-<url>
-<loc>http://saari.co.uk/contact.html</loc>
-<lastmod>2017-04-19T14:57:10+00:00</lastmod>
 </url>
 </urlset>
