@@ -24,8 +24,8 @@ partners-text: Cum sociis natoque penatibus et magnis dis parturient montes, nas
   penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus
   eget urna mollis ornare vel eu leo.
 services-list:
-- Responsive Website
 - Webdesign
+- Responsive Website
 - Research
 - Brand Positioning
 - Content Strategy
