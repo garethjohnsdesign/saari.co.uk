@@ -1,0 +1,40 @@
+---
+layout: dark
+---
+
+<!-- Intro -->
+<section class="services__intro">
+  <div class="row align-center">
+    <div class="medium-10 large-8 columns">
+    	<h2>{{page.lead-text}}</h2>
+    </div>
+  </div>
+</section>
+<!-- End Intro -->
+
+<!-- Services -->
+<section class="services__services">
+  <div class="row align-center">
+    <div class="medium-10 large-8 columns">
+    <div class="row small-up-1 medium-up-2">
+      {% for service in page.services %}
+      <div class="columns services__service">
+        <h3>{{ service.service-title }}</h3>
+        <p>{{ service.service-text }}</p>
+      </div>
+      {% endfor %}
+    </div>
+    </div>
+  </div>
+</section>
+<!-- End Services -->
+
+<!-- Outro -->
+<section class="services__outro">
+  <div class="row align-center">
+    <div class="medium-10 large-8 columns">
+    	{{page.outro-text | markdownify}}
+    </div>
+  </div>
+</section>
+<!-- End Outro -->

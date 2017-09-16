@@ -1,0 +1,411 @@
+//  Table of Contents:
+//
+//   1. Global
+//   2. Mixins
+//   3. Typography
+//   4. Page
+//   5. Navigation
+//   6. Index
+//   7. Excerpt
+//   8. Projects
+//   9. Project
+//   10. Profile
+//   11. Services
+//   12. Contact
+//   13. Footer
+
+// 1. Global
+// ---------
+
+body {  
+  cursor: default;
+}
+
+body {
+  opacity: 1;
+  transition: $primary-transition;
+}
+
+body.fade-out {
+  opacity: 0;
+  transition: none;
+}
+
+svg {
+  max-width: 100%;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+::selection {
+  background: $color--black;
+  color: $color--white;
+}
+
+:focus {
+  outline: 0;
+}
+
+[data-sticky] {
+  width: 100%;
+}
+
+a {
+  transition: $primary-transition;
+}
+
+// 2. Mixins
+// ---------
+
+@mixin padding {
+  padding-bottom: 3rem;
+}
+
+@mixin links ($link, $hover) {
+  a {
+    transition: $primary-transition;
+    color: $link;
+    &:hover {
+      color: $hover;   
+    }
+  }
+}
+
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie);
+}
+
+// 3. Typography
+// -------------
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+i, cite, em, var, address, dfn {
+  font-style: normal;
+}
+
+h2 {
+  color: $color--licorice;
+}
+
+h3 {
+  color: $color--licorice;
+}
+
+h4 {
+  color: $color--licorice;
+}
+
+.more {
+  padding-top: 1rem;
+}
+
+// 4. Page
+// ------
+
+.page {
+  transition: $primary-transition;
+  @include breakpoint(small) {
+    padding: 2rem 1rem;
+  }
+  @include breakpoint(medium) {
+    padding: 2rem 2rem;
+  }
+  @include breakpoint(large) {
+    padding: 2rem 3rem;
+  }
+  @include breakpoint(xlarge) {
+    padding: 2rem 4rem;
+  }
+}
+
+// 5. Navigation
+// -------------
+
+.top-bar {
+  font-family: $header-font-family;
+  @include links($color--white, $color--royal-blue);
+  padding: 1rem 3rem 0rem 3rem;
+  @include breakpoint(small only) {
+    padding: 1rem 1.5625rem;
+  }
+}
+
+.top-bar-title {
+  text-transform: lowercase;
+  font-size: 2.25rem;
+}
+
+.top-bar-menu-mobile {
+  z-index: 1001;
+}
+
+.navigation {
+  z-index: 1001;
+  width: 100%;
+}
+
+.navigation--light {
+  position: absolute;
+}
+
+.navigation--dark {
+  position: relative;
+  @include links($color--licorice, $color--royal-blue);
+}
+
+// 6. Index
+// --------
+
+.index__carousel {
+  transition: $primary-transition;
+  @include breakpoint(small) {
+    height: 70vh;
+  }
+  @include breakpoint(medium) {
+    height: 70vh;
+  }
+  @include breakpoint(large) {
+    height: 70vh;
+  }
+  @include breakpoint(xlarge) {
+    height: 70vh;
+  }
+}
+
+.index__carousel__cell {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1;
+  @include links($color--white, $color--royal-blue);
+}
+
+.index__carousel__cell__text {
+  font-family: $header-font-family;
+  height: 100%;
+  padding: 3rem 3rem;
+  @include breakpoint(small only) {
+    padding: 2rem;
+  }
+}
+
+.index__about {
+  @include padding;
+  padding-top: 3rem;
+}
+
+.index__projects {
+  @include padding;
+}
+
+.index__services {
+  @include padding;
+}
+
+.index__services p {
+  margin-bottom: 0rem;
+}
+
+.index__contact {
+  @include padding;
+}
+
+
+// 7. Excerpt
+// ----------
+
+.excerpt {
+  position:relative;
+  &:hover .excerpt__image:after {
+    transition: $primary-transition;
+    background: $color--licorice;
+    @include opacity(0.9);
+  }
+  &:hover .excerpt__image img {
+    filter: grayscale(1);
+  }
+  &:hover .excerpt__title {
+    transition: $primary-transition;
+    @include opacity(1);
+  } 
+}
+
+.excerpt__title {
+  @include opacity(0);
+  position:absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100%;
+  height: 100%;
+  padding: 2rem;
+  z-index: 1;  
+}
+
+.excerpt__title h3 {
+  color: $color--white;
+}
+
+.excerpt__image img {
+  transition: $primary-transition;
+}
+
+.excerpt__image:after {
+  transition: $primary-transition;
+  content:'\A';
+  position:absolute;
+  top: 0rem;
+  left: 0rem;
+  width: 100%;
+  height: 100%;
+  background:$color--black;
+  @include opacity(0);
+}
+
+.excerpt__text {
+  font-family: $header-font-family;
+  font-size: 1.15rem;
+  @include links($color--licorice, $color--royal-blue);
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+// 8. Projects
+// -----------
+
+.projects__intro {
+  margin-bottom: 2rem;
+}
+
+// 9. Project
+// -----------
+
+.project__hero {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  z-index: 1;
+  height: 70vh;
+}
+
+.project section {
+  @include padding;
+}
+
+.project__overview {
+  @include padding;
+}
+
+.project__overview p {
+  margin-bottom: 0rem;
+}
+
+.project__detail h3 {
+  padding-bottom: 1rem;  
+}
+
+.project__image {
+  @include padding; 
+}
+
+// 10. Profile
+// -----------
+
+.profile section {
+  @include padding;
+}
+
+// 11. Services
+// -----------
+
+.services__intro {
+  padding-bottom: 0rem;
+}
+
+.services__service {
+  padding-top: 3rem;
+}
+
+.services__service h3 {
+  padding-bottom: 1rem;
+}
+
+.services__services {
+  @include padding;
+}
+
+// 12. Journal
+// -----------
+
+.journal__post {
+  @include padding;
+}
+
+.journal__post p {
+  a {
+    transition: $primary-transition;
+    color: $color--dolphin;
+    border-bottom: solid 1px $color--dolphin;
+    &:visited {
+      color: $color--dolphin;
+    }
+    &:hover {
+      color: $color--royal-blue;
+      border-bottom: solid 1px $color--royal-blue; 
+    }
+    &:active {
+      color: $color--royal-blue;
+    }
+  }
+}
+
+.journal__post h5 {
+  padding-bottom: 1rem;
+}
+
+.journal__post h2 {
+  border-top: solid 2px $color--royal-blue;
+  padding-top: 1rem;
+}
+
+// 13. Contact
+// -----------
+
+.contact section {
+  @include padding;
+}
+
+.contact__enquiry {
+  margin-bottom: 1rem;
+}
+
+// 14. Footer
+// -----------
+
+.footer {
+  font-family: $header-font-family;
+  @include links($color--licorice, $color--royal-blue);
+  padding: 3rem 3rem 3rem 3rem;
+  @include breakpoint(small only) {
+    padding: 1rem 1.5625rem;
+  }
+}
+
+.footer__title {
+  font-size: 2.25rem;
+  text-transform: lowercase;
+}
+
+// x. Testing
+// ----------
