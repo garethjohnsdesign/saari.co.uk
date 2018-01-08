@@ -9,13 +9,14 @@ about-text: London based Saari ltd. offers digital marketing, brand development 
   and content production are some of the areas where Saari can help develop brand
   value and bring sales and raise awareness. Our key selling point is a true global
   take on delivering a message through global platforms being culturally on message.
-services-text: 'Saari (Read: Island) was founded in 2014 by the owner Nikke Osterback
-  who has over a decade of digital marketing experience in entertainment and brand
-  marketing. In the last 12 months he has worked across large brands such as Amazon,
-  Tiffany, LVMH, BBC, SaabMiller (Peroni), Fossil, Matalan or Red Bull to name a few.
-  In addition to brand & B2B work he holds a roster of top entertainment brand clients
-  such as the Mercury Prize winning Benjamin Clementine or the London based songwriter
-  David Gray among many others. Saari Ltd. operates from London and Oxfordshire.'
+services-text: Saari ltd. is a digital marketing and brand development consultancy(/agency)
+  with the aim for increased market awareness and growth for our clients. As long
+  term international digital marketing professionals and consultants (in the field
+  of digital marketing) we offer a David’s approach to Goliath with a simple to understand
+  services covering all online requirements from a marketing brand and infrastructure
+  perspectives. We aim to work towards clear KPI’s to achieve common goals without
+  friction. This is our approach to achieve customer satisfaction appreciating client
+  long term strategies.
 contact-text: Saari is open for business, please contact us for enquiries, to discuss
   projects or collaborations
 contacts:
