@@ -53,8 +53,11 @@ colophon: http://garethjohnsdesign.com
 company: Saari Ltd
 email: info@saari.co.uk
 phone-number: "+44(0)14 9128 2232"
-address-text: Berkshire Road, Henley on Thames, RG9 1NA, Oxfordshire, UK
-map: https://goo.gl/maps/GYrrK5YHjmP2
+address-text: |-
+  Berkshire Road\
+  Henley on Thames\
+  Oxfordshire\
+  RG9 1NA
 google_site_verification: bimZlwQSqEf956Dz_fr3y-sBxxgQ_fJ9PL-eoBNju0k
 analytics: UA-97427522-1
 logo: "/assets/img/logo.svg"
