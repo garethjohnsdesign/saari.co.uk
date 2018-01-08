@@ -2,76 +2,80 @@
 title: Profile
 position: 2
 image: "/uploads/profile.jpg"
-profile-text: Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur
-  purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere
-  velit aliquet. Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam
-  porta sem malesuada magna mollis euismod. Donec sed odio dui. Duis mollis, est non
-  commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem
-  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus
-  varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod.
-  Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare
-  vel eu leo. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac
-  consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus.
-  Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla
-  sed consectetur. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
-  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-approach-text: Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis
-  in, egestas eget quam. Donec sed odio dui. Sed posuere consectetur est at lobortis.
-  Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet
-  rutrum faucibus dolor auctor. Aenean lacinia bibendum nulla sed consectetur.
-partners-text: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque
-  penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus
-  eget urna mollis ornare vel eu leo.
+profile-text: 'Established in London in 2013 Saari ltd. is a strategic digital marketing
+  and brand development consultancy / agency. We aim to develop our clients’ digital
+  footprint increasing market awareness and growth for our clients. '
+approach-text: 'Our approach is sensitive to the long term development of our clients
+  internal teams and resource working alongside and upskilling internal teams with
+  the best mix tackling digital platforms, media and communications. '
+partners-text: Saari ltd partners include Cornfield + Partners where we act as their
+  exclusive digital performance agency, delivering content and brand marketing projects
+  alongside strategic consultancy work. Fst are a leading creative design agency based
+  in Marlow, Saari works alongside fst with a number of digital marketing projects
+  that span from insights and strategy to project management of digital media and
+  content marketing. Our sister company Saari Music works exclusively with creators
+  delivering business and audience development through content marketing and strategy
+  through insights.
 services-list:
-- Webdesign
-- Responsive Website
-- Research
-- Brand Positioning
-- Content Strategy
-- Logo
-- Identity and Naming
-- Social Media
-- Front-end Development
-- Brand Guidelines
-- Content Development
-- Multi-channel Strategies
+- Webdesign + Development
+- Research + Brand Positioning
+- 'Content Strategy + Management '
+- 'Content Production + Development '
+- Content Production
+- Copywriting (German, English, Finnish, Swedish)
+- Social Media Marketing + Community Management
+- Brand Identity, Guidelines + Naming
+- 'Fundraising: Start Ups + Lifting Ideas'
+- Digital Transformation + Team Building
+- Business Development + Partnerships
+- Media Research + PR Coordination
+- Partner Research + Management
+- Audience Insights + Reporting
+- Branding + Digital Design
+- Logo + typography design
+- Multi-channel Strategy + Audits
 - Integrated Campaigns
-- User Interaction
-- Digital Design
+- Influencer Marketing
+- Digital Advertising
+- Project Management
+- User Interaction + UX
+- 'E-Commerce: Setup + Management'
+- SEO + Analytics
 - Prototyping
-- Content Management
-- SEO & Analytics
-- E-Commerce
 clients-list:
-- Amazon
-- David Gray
-- Atlas Wynd
-- OneFest
-- Chaney
-- Barry Adamson
-- Frightened Rabbit
-- Bry
-- Nick Cave
-- Eva Cassidy
-- Tiffany
-- LVMH
+- Lapponia / Kalevala Group
+- ZEF
+- Supercan
 - BBC
-- SaabMiller
+- People Are Awesome
+- Jukin Media
+- Ker + Downey
+- ATC
+- EMDM
+- Mission Media
+- Amazon
+- LVMH
+- Tiffany
 - Fossil
+- SaabMiller
 - Matalan
 - Red Bull
-- Mission Media
-- Nordic Bakery
 - Nordic Playlist
-- Jukin Media
-- 'Ker & Downey '
-- McNally Group
-- ATC
+- Concord
+- Kingdom of Origin
+- Our Creators
 - Benjamin Clementine
-- 'Katie Melua '
-- Battersea Pie
-- Lapponia Jewelry
+- David Gray
+- Orbital
+- Nick Cave
+- Barry Adamson
+- Goldfrapp
+- Magnus Magnusson
+- Jeb Loy Nichols
+- Tubecon
+- OJ + Fridel
+- Arcada
+- One Fest
 layout: profile
 ---
 

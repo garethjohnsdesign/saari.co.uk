@@ -7,8 +7,9 @@ layout: light
   {% assign slide_documents = site.projects | sort: 'position' | where: "is-hero", "true" %}
   {% for slide in slide_documents %}
     <div class="index__carousel__cell" style="background-image: url({{slide.feature-image}})">
-      <div class="expanded row collapse index__carousel__cell__text align-bottom">
-        <div class="columns">
+      <div class="expanded row collapse index__carousel__cell__text align-bottom align-justify">
+        <div class="small-12 medium-8 columns">
+          <a href="{{ slide.url }}">{{slide.title}}</a><br>
           <a href="{{ slide.url }}">{{slide.lead}}</a>
         </div>
         <div class="shrink columns show-for-large">
@@ -26,7 +27,7 @@ layout: light
 <!-- About -->
 <section class="index__about">
   <div class="row about__intro">
-  	<div class="medium-10 large-8 columns">
+  	<div class="medium-12 large-10 columns">
       <h2>{{page.about-text}}</h2>
       <div class="more"><a href="/profile">Learn More</a></div>
   	</div>
@@ -77,20 +78,6 @@ layout: light
       </div>
     {% endfor %}
   </div>
-      
-<!--
-  <div class="row">
-  	<div class="shrink columns">
-    	<div class="index__contact__title">General Enquiries</div>
-    	<a href="mailto:info@saari.co.uk">info@saari.co.uk</a>
-    </div>
-    
-    <div class="columns">
-    	<div class="index__contact__title">New Business</div>
-    	<a href="mailto:nikke@saari.co.uk">nikke@saari.co.uk</a>
-    </div>
-  </div>
--->
   
   <div class="row">
   	<div class="medium-10 large-8 columns">

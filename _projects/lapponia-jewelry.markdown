@@ -1,7 +1,7 @@
 ---
-title: Lapponia Jewelry
+title: Lapponia / Kalevala Group
 date: 2013-03-04 00:00:00 Z
-position: 4
+position: 1
 image: "/uploads/lapponia-jewelry.jpg"
 feature-image: "/uploads/lapponia-jewelry-feature.jpg"
 images: 
@@ -9,33 +9,27 @@ services:
 - Digital Marketing
 - Advertising
 - Strategy
-lead: Branding and identity guidelines for Nordic brand
-is-hero: false
-is-featured: false
+lead: Digital strategy, marketing strategy, channel strategy, digital advertising
+  strategy for a leading Nordic jewelry brand.
+is-featured: true
+is-hero: true
 details:
 - title: Brief
-  text: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
-    lacinia bibendum nulla sed consectetur. Nullam quis risus eget urna mollis ornare
-    vel eu leo. Donec sed odio dui. Donec sed odio dui. Nullam id dolor id nibh ultricies
-    vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+  text: To benchmark, research and develop a renowned Nordic jewelry brand Lapponia.
+    Assessment and development of global digital strategy, digital marketing strategy
+    and digital advertising with Kalevala Group internal teams to relaunch the brand
+    for new markets and international audiences.
 - title: Approach
-  text: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo
-    cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec sed
-    odio dui. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor
-    sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Praesent
-    commodo cursus magna, vel scelerisque nisl consectetur et.
+  text: Working with the internal Kalevala Group team(s) and external PR agencies
+    to approach the global marketing opportunity for a renowned Finnish jewellery
+    brand with an integrated approach with a clear audience segmentation in mind.
+    Brand positioning and reach out to potential younger demographics in multiple
+    markets.
 - title: Outcome
-  text: Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum
-    nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Duis
-    mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
-    sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-    id ligula porta felis euismod semper.
-- title: Testimonial
-  text: Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum
-    nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Duis
-    mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
-    sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-    id ligula porta felis euismod semper.
+  text: Relaunching a modernised, multichannel strategy and platform for a global
+    multilingual Lapponia customer. Considering PR amplifications alongside new original
+    storytelling, content activations and influencer marketing to reach new audiences.
+    Alignment of agency approach considering digital buys and budgeting.
 layout: project
 ---
 
