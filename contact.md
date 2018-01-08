@@ -14,7 +14,8 @@ enquiries:
   email: info@saari.co.uk
 additional:
 - title: PDF Request
-  text: We have PDF’s covering a range of our work in more detail. For more information please contact [info@saari.co.uk](mailto:info@saari.co.uk)
+  text: We have PDF’s covering a range of our work in more detail. For more information
+    please contact [info@saari.co.uk](mailto:info@saari.co.uk)
 - title: Social Media
   text: "[Facebook](https://www.facebook.com/SaariLtd/)  \n [Instagram](https://www.instagram.com/saariltd/)
     \ \n [LinkedIn](https://uk.linkedin.com/company/saari-ltd-)  \n"

@@ -9,16 +9,27 @@ services:
 - Digital Marketing
 - Advertising
 - Strategy
-lead: Digital strategy, marketing strategy, channel strategy, digital advertising strategy for a leading Nordic jewelry brand.
+lead: Digital strategy, marketing strategy, channel strategy, digital advertising
+  strategy for a leading Nordic jewelry brand.
 is-featured: true
 is-hero: true
 details:
 - title: Brief
-  text: To benchmark, research and develop a renowned Nordic jewelry brand Lapponia. Assessment and development of global digital strategy, digital marketing strategy and digital advertising with Kalevala Group internal teams to relaunch the brand for new markets and international audiences. 
+  text: To benchmark, research and develop a renowned Nordic jewelry brand Lapponia.
+    Assessment and development of global digital strategy, digital marketing strategy
+    and digital advertising with Kalevala Group internal teams to relaunch the brand
+    for new markets and international audiences.
 - title: Approach
-  text: Working with the internal Kalevala Group team(s) and external PR agencies to approach the global marketing opportunity for a renowned Finnish jewellery brand with an integrated approach with a clear audience segmentation in mind. Brand positioning and reach out to potential younger demographics in multiple markets.
+  text: Working with the internal Kalevala Group team(s) and external PR agencies
+    to approach the global marketing opportunity for a renowned Finnish jewellery
+    brand with an integrated approach with a clear audience segmentation in mind.
+    Brand positioning and reach out to potential younger demographics in multiple
+    markets.
 - title: Outcome
-  text: Relaunching a modernised, multichannel strategy and platform for a global multilingual Lapponia customer. Considering PR amplifications alongside new original storytelling, content activations and influencer marketing to reach new audiences. Alignment of agency approach considering digital buys and budgeting.
+  text: Relaunching a modernised, multichannel strategy and platform for a global
+    multilingual Lapponia customer. Considering PR amplifications alongside new original
+    storytelling, content activations and influencer marketing to reach new audiences.
+    Alignment of agency approach considering digital buys and budgeting.
 layout: project
 ---
 

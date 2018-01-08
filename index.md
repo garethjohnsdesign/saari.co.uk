@@ -3,9 +3,9 @@ title: Saari
 position: 0
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/hero.jpg"
-about-text: London-based consultancy offering digital marketing, brand development and
-  digital strategy services with the aim to reach increased market awareness and growth
-  from an international point of view. Digital storytelling, social media management
+about-text: London-based consultancy offering digital marketing, brand development
+  and digital strategy services with the aim to reach increased market awareness and
+  growth from an international point of view. Digital storytelling, social media management
   and content production are some of the areas where Saari can help develop brand
   value and bring sales and raise awareness. Our key selling point is a true global
   take on delivering a message through global platforms being culturally on message.

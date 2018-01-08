@@ -1,7 +1,8 @@
 ---
 title: Services
 position: 3
-lead-text: We are a strategic digital marketing and brand development consultancy with the aim for increased market awareness and growth for our clients.
+lead-text: We are a strategic digital marketing and brand development consultancy
+  with the aim for increased market awareness and growth for our clients.
 approach-text: Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis
   in, egestas eget quam. Donec sed odio dui. Sed posuere consectetur est at lobortis.
   Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet

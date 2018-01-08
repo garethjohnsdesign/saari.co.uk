@@ -4,7 +4,7 @@ timezone: UTC
 collections:
   posts:
     title: Posts
-    output: false
+    output: true
   projects:
     title: Projects
     output: true
@@ -18,13 +18,15 @@ defaults:
   values:
     image: 
     lead: 
-    is-featured:
+    is-featured: 
     is-hero: 
     layout: project
     services:
     - 
 url: http://saari.co.uk
-description: London-based Saari ltd. offers digital marketing, brand development and digital strategy services with the aim to reach increased market awareness and growth from an international point of view. 
+description: London-based Saari ltd. offers digital marketing, brand development and
+  digital strategy services with the aim to reach increased market awareness and growth
+  from an international point of view.
 permalink: pretty
 exclude:
 - bower.json
@@ -51,7 +53,7 @@ colophon: http://garethjohnsdesign.com
 company: Saari Ltd
 email: info@saari.co.uk
 phone-number: "+44(0)14 9128 2232"
-address-text: "Berkshire Road, Henley on Thames, RG9 1NA, Oxfordshire, UK"
+address-text: Berkshire Road, Henley on Thames, RG9 1NA, Oxfordshire, UK
 map: https://goo.gl/maps/GYrrK5YHjmP2
 google_site_verification: bimZlwQSqEf956Dz_fr3y-sBxxgQ_fJ9PL-eoBNju0k
 analytics: UA-97427522-1
