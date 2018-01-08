@@ -3,7 +3,7 @@ title: Saari
 position: 0
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/hero.jpg"
-about-text: London based Saari ltd. offers digital marketing, brand development and
+about-text: London-based consultancy offering digital marketing, brand development and
   digital strategy services with the aim to reach increased market awareness and growth
   from an international point of view. Digital storytelling, social media management
   and content production are some of the areas where Saari can help develop brand

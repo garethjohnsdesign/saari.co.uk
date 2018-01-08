@@ -1,7 +1,7 @@
 ---
-title: Benjamin Clementine
+title: Benjamin Clementine and Burberry
 date: 2013-03-04 00:00:00 Z
-position: 2
+position: 0
 image: "/uploads/benjamin-clementine.jpg"
 feature-image: "/uploads/benjamin-clementine-feature.jpg"
 images: 
@@ -9,33 +9,16 @@ services:
 - Digital Marketing
 - Advertising
 - Strategy
-lead: Mercury Prize winning Benjamin Clementine collaborating with Burberry
-is-hero: true
+lead: Brand activation, digital strategy, original content, international marketing campaign for a Mercury Prize winning artist Benjamin Clementine and a leading fashion brand Burberry.
 is-featured: true
+is-hero: true
 details:
 - title: Brief
-  text: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean
-    lacinia bibendum nulla sed consectetur. Nullam quis risus eget urna mollis ornare
-    vel eu leo. Donec sed odio dui. Donec sed odio dui. Nullam id dolor id nibh ultricies
-    vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+  text: To design, develop and deliver an internationally aware communications and marketing strategy for a Mercury Prize winning artist Benjamin Clementine and his collaboration with Burberry and their New York and Los Angeles fashion shows. 
 - title: Approach
-  text: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo
-    cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec sed
-    odio dui. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor
-    sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Praesent
-    commodo cursus magna, vel scelerisque nisl consectetur et.
+  text: Strategically amplify Burberry brand activation for BC alongside two catwalk, experiential activations, original content production (& launch) and further post campaign activations. Co join the dots with all deliverables including global communications and wider fashion PR. 
 - title: Outcome
-  text: Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum
-    nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Duis
-    mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
-    sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-    id ligula porta felis euismod semper.
-- title: Testimonial
-  text: Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum
-    nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Duis
-    mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
-    sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-    id ligula porta felis euismod semper.
+  text: Increased international awareness for the artist and wider distribution of the Burberry brand in the music space. New (primarily Asian) markets activated for Benjamin Clementine. Extremely engaged audiences both for Burberry and Benjamin Clementine conjoined with the new Burberry fashion collections.
 layout: project
 ---
 

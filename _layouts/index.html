@@ -7,8 +7,8 @@ layout: light
   {% assign slide_documents = site.projects | sort: 'position' | where: "is-hero", "true" %}
   {% for slide in slide_documents %}
     <div class="index__carousel__cell" style="background-image: url({{slide.feature-image}})">
-      <div class="expanded row collapse index__carousel__cell__text align-bottom">
-        <div class="columns">
+      <div class="expanded row collapse index__carousel__cell__text align-bottom align-justify">
+        <div class="small-12 medium-8 columns">
           <a href="{{ slide.url }}">{{slide.lead}}</a>
         </div>
         <div class="shrink columns show-for-large">

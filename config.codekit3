@@ -195,62 +195,6 @@
 		"oAP": "\/_layouts\/services.html",
 		"oF": 0
 		},
-	"\/_posts\/2016-09-22-ridiculus-sem.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2016-09-22-ridiculus-sem.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-01-20-malesuada-tellus-purus-fringilla.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-01-20-malesuada-tellus-purus-fringilla.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-03-02-fermentum-ipsum-amet.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-03-02-fermentum-ipsum-amet.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-03-09-tristique-fringilla-sem.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-03-09-tristique-fringilla-sem.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-04-19-saari-win-european-award.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-04-19-saari-win-european-award.markdown",
-		"oF": 0
-		},
-	"\/_posts\/2017-04-19-venenatis-tortor.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-04-19-venenatis-tortor.markdown",
-		"oF": 0
-		},
-	"\/_projects\/atc-management.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/atc-management.markdown",
-		"oF": 0
-		},
-	"\/_projects\/battersea-pie.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_projects\/battersea-pie.markdown",
-		"oF": 0
-		},
 	"\/_projects\/benjamin-clementine.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -258,11 +202,11 @@
 		"oAP": "\/_projects\/benjamin-clementine.markdown",
 		"oF": 0
 		},
-	"\/_projects\/katie-melua.markdown": {
+	"\/_projects\/kingdom-of-origin.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_projects\/katie-melua.markdown",
+		"oAP": "\/_projects\/kingdom-of-origin.markdown",
 		"oF": 0
 		},
 	"\/_projects\/lapponia-jewelry.markdown": {
@@ -272,25 +216,25 @@
 		"oAP": "\/_projects\/lapponia-jewelry.markdown",
 		"oF": 0
 		},
-	"\/_projects\/nordic-bakery.markdown": {
+	"\/_projects\/mission-media.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_projects\/nordic-bakery.markdown",
+		"oAP": "\/_projects\/mission-media.markdown",
 		"oF": 0
 		},
-	"\/_projects\/nordic-playlist.markdown": {
+	"\/_projects\/supercan.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_projects\/nordic-playlist.markdown",
+		"oAP": "\/_projects\/supercan.markdown",
 		"oF": 0
 		},
-	"\/_projects\/people-are-awesome.markdown": {
+	"\/_projects\/zef.markdown": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_projects\/people-are-awesome.markdown",
+		"oAP": "\/_projects\/zef.markdown",
 		"oF": 0
 		},
 	"\/_site": {
@@ -299,81 +243,11 @@
 		"oAP": "\/build\/_site",
 		"oF": 0
 		},
-	"\/_uploads\/atc-management-feature.jpg": {
+	"\/_uploads\/benjamin-clementine-feature-two.jpg": {
 		"ft": 16384,
-		"iS": 95741,
+		"iS": 88206,
 		"oA": 0,
-		"oAP": "\/_uploads\/atc-management-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/atc-management-four.jpg": {
-		"ft": 16384,
-		"iS": 68925,
-		"oA": 0,
-		"oAP": "\/_uploads\/atc-management-four.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/atc-management-one.jpg": {
-		"ft": 16384,
-		"iS": 35080,
-		"oA": 0,
-		"oAP": "\/_uploads\/atc-management-one.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/atc-management-three.jpg": {
-		"ft": 16384,
-		"iS": 34372,
-		"oA": 0,
-		"oAP": "\/_uploads\/atc-management-three.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/atc-management-two.jpg": {
-		"ft": 16384,
-		"iS": 67551,
-		"oA": 0,
-		"oAP": "\/_uploads\/atc-management-two.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/atc-management.jpg": {
-		"ft": 16384,
-		"iS": 92938,
-		"oA": 0,
-		"oAP": "\/_uploads\/atc-management.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/battersea-pie-feature.jpg": {
-		"ft": 16384,
-		"iS": 300814,
-		"oA": 0,
-		"oAP": "\/_uploads\/battersea-pie-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/battersea-pie.jpg": {
-		"ft": 16384,
-		"iS": 130002,
-		"oA": 0,
-		"oAP": "\/_uploads\/battersea-pie.jpg",
+		"oAP": "\/_uploads\/benjamin-clementine-feature-two.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -409,31 +283,21 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/hero.jpg": {
+	"\/_uploads\/kingdom-of-origin-feature.jpg": {
 		"ft": 16384,
-		"iS": 95741,
+		"iS": 82639,
 		"oA": 0,
-		"oAP": "\/_uploads\/hero.jpg",
+		"oAP": "\/_uploads\/kingdom-of-origin-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/katie-melua-feature.jpg": {
+	"\/_uploads\/kingdom-of-origin.jpg": {
 		"ft": 16384,
-		"iS": 106803,
+		"iS": 133871,
 		"oA": 0,
-		"oAP": "\/_uploads\/katie-melua-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/_uploads\/katie-melua.jpg": {
-		"ft": 16384,
-		"iS": 111564,
-		"oA": 0,
-		"oAP": "\/_uploads\/katie-melua.jpg",
+		"oAP": "\/_uploads\/kingdom-of-origin.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -456,64 +320,24 @@
 		"oAP": "\/_uploads\/lapponia-jewelry.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/_uploads\/nordic-bakery-feature.jpg": {
+	"\/_uploads\/mission-media-feature.jpg": {
 		"ft": 16384,
-		"iS": 149562,
+		"iS": 186267,
 		"oA": 0,
-		"oAP": "\/_uploads\/nordic-bakery-feature.jpg",
+		"oAP": "\/_uploads\/mission-media-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/nordic-bakery.jpg": {
+	"\/_uploads\/mission-media.jpg": {
 		"ft": 16384,
-		"iS": 368535,
+		"iS": 175759,
 		"oA": 0,
-		"oAP": "\/_uploads\/nordic-bakery.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/nordic-playlist-feature.jpg": {
-		"ft": 16384,
-		"iS": 173691,
-		"oA": 0,
-		"oAP": "\/_uploads\/nordic-playlist-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/nordic-playlist.jpg": {
-		"ft": 16384,
-		"iS": 177843,
-		"oA": 0,
-		"oAP": "\/_uploads\/nordic-playlist.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/people-are-awesome-feature.jpg": {
-		"ft": 16384,
-		"iS": 147048,
-		"oA": 0,
-		"oAP": "\/_uploads\/people-are-awesome-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/people-are-awesome.jpg": {
-		"ft": 16384,
-		"iS": 109027,
-		"oA": 0,
-		"oAP": "\/_uploads\/people-are-awesome.jpg",
+		"oAP": "\/_uploads\/mission-media.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -524,6 +348,46 @@
 		"iS": 295283,
 		"oA": 0,
 		"oAP": "\/_uploads\/profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/supercan-feature.jpg": {
+		"ft": 16384,
+		"iS": 91161,
+		"oA": 0,
+		"oAP": "\/_uploads\/supercan-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/supercan.jpg": {
+		"ft": 16384,
+		"iS": 93925,
+		"oA": 0,
+		"oAP": "\/_uploads\/supercan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/zef-feature.jpg": {
+		"ft": 16384,
+		"iS": 118952,
+		"oA": 0,
+		"oAP": "\/_uploads\/zef-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/zef.jpg": {
+		"ft": 16384,
+		"iS": 121419,
+		"oA": 0,
+		"oAP": "\/_uploads\/zef.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7678,24 +7542,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/journal.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/journal.md",
-		"oF": 1,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/LICENSE.md": {
 		"cB": 0,
 		"cS": 0,
@@ -7730,9 +7576,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/profile.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/profile.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -7766,9 +7612,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/README.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -7791,9 +7637,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/services.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/services.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
