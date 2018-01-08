@@ -9,7 +9,7 @@ about-text: London-based consultancy offering digital marketing, brand developme
   and content production are some of the areas where Saari can help develop brand
   value and bring sales and raise awareness. Our key selling point is a true global
   take on delivering a message through global platforms being culturally on message.
-services-text: Saari ltd. is a digital marketing and brand development consultancy(/agency)
+services-text: Saari ltd. is a digital marketing and brand development consultancy / agency
   with the aim for increased market awareness and growth for our clients. As long
   term international digital marketing professionals and consultants (in the field
   of digital marketing) we offer a David’s approach to Goliath with a simple to understand

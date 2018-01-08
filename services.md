@@ -87,7 +87,7 @@ services:
     Our team has broad capabilities across traditional and digital mediums and we’re always happy to help. Visit our contact us page or drop us a line to see how.
 outro-text: "## Our team has broad capabilities across traditional and digital mediums
   and we’re always happy to help. Visit our [contact us](/contact) page or drop us
-  a line to see how"
+  a [line](tel:01491282232) to see how"
 layout: services
 ---
 
