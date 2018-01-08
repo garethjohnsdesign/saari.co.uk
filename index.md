@@ -3,8 +3,8 @@ title: Saari
 position: 0
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/hero.jpg"
-about-text: A digital marketing, brand development and digital strategy consultancy,
-  with the aim to reach increased market awareness and growth
+about-text: A fully independent multicultural agency with over 12 years of international
+  experience in delivering campaigns that look at delivering value for the end user
 services-text: Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi
   leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta
   felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Nullam quis
