@@ -1,8 +1,8 @@
 ---
 title: Services
 position: 3
-lead-text: A fully independent multicultural agency with over 12 years of international
-  experience in delivering campaigns that look at delivering value for the end user.
+lead-text: We are a strategic digital marketing and brand development consultancy(/agency)
+  with the aim for increased market awareness and growth for our clients.
 approach-text: Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis
   in, egestas eget quam. Donec sed odio dui. Sed posuere consectetur est at lobortis.
   Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet
@@ -12,83 +12,79 @@ partners-text: Cum sociis natoque penatibus et magnis dis parturient montes, nas
   penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus
   eget urna mollis ornare vel eu leo.
 services:
-- service-title: Marketing and Digital Marketing
-  service-text: |-
-    Full service digital and content marketing services. Changes in the way we communicate in the last 15 years has transformed marketing and now digital channels dominate the landscape especially for smaller brands. In most cases they now represent where marketing begins and marketing often crosses over with customer services. Saari services include below in addition to liaison and strategy for wider marketing strategies.
-
-    - Content production (images, visuals, animation, video)
-    - Copywriting (German, English, Finnish, Swedish)
-    - Content marketing (planning & strategy)
-    - Community management
-    - Social media marketing
-    - Channel audits
-- service-title: Digital Strategy
-  service-text: Digital marketing inhibit the potential to find and communicate with
-    global customers. To effectively execute in the global arena first there needs
-    to be strategy. Saari services include digital strategy and digital marketing
-    strategy which should provide the ground zero for any communication or marketing
-    operation. Relevant areas here include market and audience analysis, channel audits
-    and resourcing (team development).
-- service-title: Audience Insights and Reporting
-  service-text: With the rise of social media and marketing, companies are presented
-    with the opportunity to read and understand global trends, deliver competitor
-    analysis and benchmark their business against competition from public data. These
-    global audience insights can be used to help with strategy but also align messaging
-    investigating the opinions (toinen sana) around the enterprise or indeed the ideas
-    that relate to the company offering.
-- service-title: Consultancy Services
-  service-text: Organisations of almost any kind are now presented with the challenge
-    to adopt to the rapid technological change. Whether the business in question is
-    retail, FMCG, pure B2B, hardware or media the digital change with the Internet
-    of Things to digital media and brand b2b activations. As an example a media organisation
-    might need to understand the requirements of their web platforms but also the
-    digital element of their products. An example here could be a health product that
-    requires an app element that plugs into the customers smart device.
+- service-title: Marketing, Social Media and Advertising
+  service-text: "Saari offers 360 digital marketing services including social media
+    management, digital advertising, content marketing, influencer marketing, audience
+    development and channel management all firmly rooted into our internationally
+    aware approach. Our approach to communications is both culturally and from a channel
+    perspective designed to support client long term business goals. \n\nWe are a
+    multi-channel digital advertising specialists working across all relevant media
+    and content types. With larger budgets we work with award winning partner agencies
+    being able to deliver a cost efficient global approach that is sensitive to culture
+    and language. Our digital advertising strategies are firmly rooted in deep understanding
+    of SEO, chosen channel approach, social media, content and influencer marketing
+    techniques in mind."
+- service-title: Content Production
+  service-text: We work with the best photographers, videographers and animators to
+    produce any content that is required for a well versed multi channel campaign.
+    In addition to content production at Saari we understand how UGC, crowdfunding,
+    influencer driven content initiatives or partnerships can supercharge the delivery
+    of a content campaign. In our world content strategy follows the overall brand
+    strategy through audience insights.
+- service-title: Digital Transformation and Strategic Consultation
+  service-text: Our consultancy is aimed at achieving a competitive advantage and
+    seize the opportunity in the global business environment. This is possible with
+    best practice of using digital technologies, cultural shift and means to communicate.
+    The Internet of Things, Data, AI, VR/AR are examples of current technologies that
+    bring new challenges and opportunities for nearly all business types. We understand
+    the 360 and have over a decade of experience working with startups, software businesses
+    and brands. Our services in this respect include workshops and team development
+    to develop or fine tune existing digital marketing teams in house.
+- service-title: Brand Building, Design and Development
+  service-text: In the current communications environment not only B2C but also B2B
+    companies need to refine and ‘think brand’ to attract a new set of buyers, business
+    contacts and appease financiers. Brand building is not just the typography, logos,
+    colours from a design perspective but also and increasingly about the user experience.
+    With this in mind we work to respond to the global opportunity still appreciating
+    local key markets and culture. Our aim is to develop internationally viable brands
+    that deliver a clear message for search and outgoing marketing.
+- service-title: Digital Audience Insights Projects
+  service-text: Public social media (and other) data can now be utilised to study
+    audience segments and consumer insights. Social media insights can help redefine
+    customer opportunity but also study competitors and the opportunity at hand. Studying
+    your audience or business segment can assist in forming an even more insightful
+    digital strategy to support sales and brand performance. An audience insights
+    study can be delivered alongside other research to understand and benchmark an
+    industry.
 - service-title: Project Management
-  service-text: The project management of marketing and communications campaigns with
-    a thorough understanding of the international landscape is one part of Saari expertise.
-    With our experience working with some of the largest brands in the world such
-    as Amazon, BBC, LVMH and more in an international environment leads us to be able
-    to project manage, communicate and coordinate wider campaigns. This service might
-    be useful if a central structure is necessary for several international agencies
-    from a variety of disciplines to work together on a project.
-- service-title: Digital Product Project Management
-  service-text: Through over 5+ years of project management we can help organisations
-    with their web, mobile and eCommerce requirements. Whether it is a question of
-    developing an app for multiple platforms or a full service marketing website with
-    eCommerce Saari can help with the ideation and production of web & app tech. For
-    a more demanding projects we have a network of developers and creative technologists
-    who can help scale a product.
+  service-text: We project manage websites, eCommerce, marketing applications, cross
+    platform apps (iOS / Android) to support and develop company brand strategy and
+    business approach. As necessary all project managed infrastructure are developed
+    to match the multilingual and cultural challenge. Here development techniques
+    such as customised content management systems, IP detection, localisation and
+    automation can come into play.
 - service-title: Business Development and Partnerships
+  service-text: With our extensive network and deep understanding of media we are
+    able to help you find, research and suggest potential partners to tackle this
+    space at the top level. Our business development services include partnerships
+    management, liaison and negotiation. A partnership could relate to finding a suitable
+    technology partner for a tech company or perhaps a media opportunity with the
+    likes of Guardian or a creative campaign opportunity with tech a la Spotify. Perhaps
+    your enterprise needs a suitable media agency or is in need of an update to the
+    overall tech infrastructure. Where we can’t help we know who can.
+- service-title: Digital Law and Contracts
+  service-text: 'Saari services include expert legal and commercial advice in digital
+    rights, contracts and the general practices setting up and understanding digital
+    marketing environments. You may be looking to hire influencers and in need for
+    a contract, your web environment may need terms of service or your original content
+    may have IP. These are only a few of the types of services we can help to make
+    sure you make the most out of your online and protect yourself in the internationally
+    complex legal framework. '
+- service-title: PR Consultancy and Communications
   service-text: |-
-    We are located in London which allows us easy personal access to media and related organisations as necessary. With our network of professionals we are able to with relative ease find, research and suggest potential partners in the media space. Our business development services include partnerships management, liaison and negotiation. A partnership could be the means to find suitable technology partners for a tech company or perhaps a media opportunity with the likes of Guardian or a tech company such as Spotify.
+    Through our extensive network of ‘best in class’ partner companies we are able to coordinate and organise an effective internationally focussed communications approach. utilising 'best in class' partners with whom we have worked in the past.
 
-    - Partner research and management
-    - Fundraising (start ups & lifting ideas)
-    - Retail partner research and management
-- service-title: Media Relations and PR
-  service-text: At Saari we have over a decade of experience in working with media
-    and integrated communications campaigns. With our extensive network of international
-    communications and PR agencies we can help seek, budget and produce campaigns
-    that are internationally aware, effective and that are effective in delivering
-    the message on brand.
-- service-title: Influencer Marketing
-  service-text: With the raise of social media we have now entered into a phase where
-    online - first celebrities can be utilised to promote and market products or ideas.
-    This is what is called influencer marketing. At Saari we have access to a wide
-    array of international celebrities and understand the global talent booking system
-    in addition to being able to custom make a social media influencer campaigns to
-    deliver brand messaging, enhance product sales or simply communicate ideas. These
-    processes are currently a combination or curation, gifting and paid for product
-    placements. Creativity is key here.
-- service-title: Branding
-  service-text: |-
-    As companies are called out to become brand citizens with more demand on transparency branding now touches more companies than before. At Saari we can help with company identity, design and branding to make it work communicate for global customer in mind.
-
-    - Logo & typography design
-    - Corporate identity
-    - Branding
-    - Design
+    Our team has broad capabilities across traditional and digital mediums and we’re always happy to help. Visit our contact us page or drop us a line to see how.
 outro-text: "## Our team has broad capabilities across traditional and digital mediums
   and we’re always happy to help. Visit our [contact us](/contact) page or drop us
   a line to see how"
