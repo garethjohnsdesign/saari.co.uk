@@ -48,7 +48,7 @@ clients-list:
 - ZEF
 - Supercan
 - People Are Awesome (Jukin Media)
-- Mission Media (Amazon, LVMH, Tiffany, Red Bull)
+- Mission Media (+ Amazon, LVMH, Tiffany, Red Bull)
 - Nordic Playlist
 - EMDM
 - ATC
