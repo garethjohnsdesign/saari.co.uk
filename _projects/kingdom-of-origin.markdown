@@ -4,7 +4,7 @@ date: 2013-03-04 00:00:00 Z
 position: 3
 image: "/uploads/kingdom-of-origin.jpg"
 lead: A comprehensive legal framework including terms of service, privacy policies
-  for a new children’s apparel brand.
+  for a new children’s apparel brand and eCommerce proposition.
 is-featured: true
 is-hero: true
 services:
