@@ -17,16 +17,16 @@ partners-text: "Current Saari partners include Cornfield + Partners, a London ba
   \n\nOur sister company Saari Music works exclusively with creators (primarily in
   music) delivering strategic business and audience development work in content marketing."
 services-list:
-- Webdesign + Development
-- Research + Brand Positioning
+- Digital Strategy
+- Digital Transformation
 - 'Content Strategy + Management '
 - 'Content Production + Development '
-- Content Production
-- Social Media Marketing
-- Copywriting (German, English, French, Finnish, Swedish)
+- Webdesign + Development
+- Research + Brand Positioning
 - Brand Identity, Guidelines + Naming
+- Social Media Marketing
+- Copywriting (DE, ENG, FR, FIN, SE)
 - 'Fundraising: Start Ups + Lifting Ideas'
-- Digital Transformation
 - Business Development + Partnerships
 - Media Research + PR Coordination
 - Partner Research + Management
@@ -36,14 +36,13 @@ services-list:
 - Multi-channel Strategy + Audits
 - Integrated Campaigns
 - 'E-Commerce: Setup + Management'
+- Project Management
 - Influencer Marketing
 - Digital Advertising
-- Project Management
 - User Interaction + UX
 - Community Management
 - SEO + Analytics
 - Prototyping
-- Digital Strategy
 clients-list:
 - Lapponia (Kalevala Group)
 - ZEF
