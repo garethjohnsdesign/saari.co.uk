@@ -9,8 +9,11 @@ is-featured: true
 is-hero: true
 services:
 - Digital Marketing
+- International
 - Advertising
+- eCommerce
 - Strategy
+- Brands
 feature-image: "/uploads/lapponia-jewelry-feature.jpg"
 images: 
 details:
