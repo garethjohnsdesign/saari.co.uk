@@ -9,8 +9,10 @@ lead: Strategic work for a leading Nordic software company, auditing client  bra
 is-featured: false
 services:
 - Strategy
+- 'Workshops '
+- Growth havking
 - Digital Marketing
-- Workshops
+- Training and development
 feature-image: "/uploads/zef-feature.jpg"
 images: 
 details:
@@ -22,12 +24,13 @@ details:
   text: Brainstorm in a workshop environment with the aim to openly discuss and audit
     existing marketing framework and brand. On board wider Zef digital marketing and
     brand communications teams to discuss Zef brand approach and set new ways of working
-    to develop future marketing setup.
+    to develop future ways of working.
 - title: Outcome
-  text: Confirmation and the auditing of existing Zef brand framework. Suggestions
-    for digital advertising and further team building. Auditing of existing digital
-    marketing and advertising budgets with a 5 year view to the future. A happy client
-    with a confidence to pursue their long term strategy to the future.
+  text: Auditing and the evaluation of existing Zef brand framework. Suggestions for
+    digital advertising and further team building. Auditing of existing digital marketing
+    and advertising budgets with a 5 year view to the future. A happy client with
+    a confidence to pursue their long term marketing strategy to the future with international
+    focus.
 layout: project
 ---
 
