@@ -22,11 +22,11 @@ services-list:
 - 'Content Strategy + Management '
 - 'Content Production + Development '
 - Content Production
-- Copywriting (German, English, Finnish, Swedish)
-- Social Media Marketing + Community Management
+- Social Media Marketing
+- Copywriting (German, English, French, Finnish, Swedish)
 - Brand Identity, Guidelines + Naming
 - 'Fundraising: Start Ups + Lifting Ideas'
-- Digital Transformation + Team Building
+- Digital Transformation
 - Business Development + Partnerships
 - Media Research + PR Coordination
 - Partner Research + Management
@@ -35,13 +35,15 @@ services-list:
 - Logo + typography design
 - Multi-channel Strategy + Audits
 - Integrated Campaigns
+- 'E-Commerce: Setup + Management'
 - Influencer Marketing
 - Digital Advertising
 - Project Management
 - User Interaction + UX
-- 'E-Commerce: Setup + Management'
+- Community Management
 - SEO + Analytics
 - Prototyping
+- Digital Strategy
 clients-list:
 - Lapponia (Kalevala Group)
 - ZEF
