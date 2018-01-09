@@ -2,20 +2,20 @@
 title: Profile
 position: 2
 image: "/uploads/profile.jpg"
-profile-text: 'Established in London in 2013 Saari ltd. is a strategic digital marketing
-  and brand development consultancy / agency. We aim to develop our clients’ digital
-  footprint increasing market awareness and growth for our clients. '
-approach-text: 'Our approach is sensitive to the long term development of our clients
+profile-text: We are a London-based digital strategy, marketing and brand development
+  consultancy delivering increased market awareness and growth for our clients alongside
+  advise on strategic business development.
+approach-text: Our approach is sensitive to the long term development of our clients
   internal teams and resource working alongside and upskilling internal teams with
-  the best mix tackling digital platforms, media and communications. '
-partners-text: Saari ltd partners include Cornfield + Partners where we act as their
-  exclusive digital performance agency, delivering content and brand marketing projects
-  alongside strategic consultancy work. Fst are a leading creative design agency based
-  in Marlow, Saari works alongside fst with a number of digital marketing projects
-  that span from insights and strategy to project management of digital media and
-  content marketing. Our sister company Saari Music works exclusively with creators
-  delivering business and audience development through content marketing and strategy
-  through insights.
+  the best mix of digital platforms, media and communications.
+partners-text: "Current Saari partners include Cornfield + Partners, a London based
+  business consultancy where we design and deliver C&P digital performance and marketing
+  work. This includes content and brand marketing projects alongside our strategic
+  digital consultancy. \n\nFst are a leading creative design agency based in Marlow,
+  Saari works alongside fst with a number of digital marketing projects that span
+  from insights and strategy to project management of digital media and content marketing.
+  \n\nOur sister company Saari Music works exclusively with creators (primarily in
+  music) delivering strategic business and audience development work in content marketing."
 services-list:
 - Webdesign + Development
 - Research + Brand Positioning
@@ -43,7 +43,7 @@ services-list:
 - SEO + Analytics
 - Prototyping
 clients-list:
-- Lapponia / Kalevala Group
+- Lapponia (Kalevala Group)
 - ZEF
 - Supercan
 - BBC
