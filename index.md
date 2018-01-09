@@ -3,20 +3,17 @@ title: Saari
 position: 0
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/hero.jpg"
-about-text: London-based consultancy offering digital marketing, brand development
-  and digital strategy services with the aim to reach increased market awareness and
-  growth from an international point of view. Digital storytelling, social media management
-  and content production are some of the areas where Saari can help develop brand
-  value and bring sales and raise awareness. Our key selling point is a true global
-  take on delivering a message through global platforms being culturally on message.
+about-text: We are a London-based strategic digital marketing and brand development
+  consultancy(/agency) delivering increased market awareness and growth for our clients
+  alongside advise on strategic business development.
 services-text: Saari ltd. is a digital marketing and brand development consultancy
-  / agency with the aim for increased market awareness and growth for our clients.
-  As long term international digital marketing professionals and consultants (in the
-  field of digital marketing) we offer a David’s approach to Goliath with a simple
-  to understand services covering all online requirements from a marketing brand and
-  infrastructure perspectives. We aim to work towards clear KPI’s to achieve common
-  goals without friction. This is our approach to achieve customer satisfaction appreciating
-  client long term strategies.
+  (/agency) with the aim for increased market awareness and growth for our clients.
+  We are digital natives and our work is firmly rooted in the understanding of data
+  and market insights. As business development consultants we offer a David’s approach
+  to Goliath with a simple to understand services being able to advise on all online
+  requirements from copyright & IP to communications and required web infrastructure.
+  We aim to work towards clear KPI’s achieving common goals without friction always
+  with client long term strategy in mind.
 contact-text: Saari is open for business, please contact us for enquiries, to discuss
   projects or collaborations
 contacts:
@@ -25,7 +22,7 @@ contacts:
 - title: New Business
   email: nikke@saari.co.uk
 - title: Internships / Careers
-  email: mathew@saari.co.uk
+  email: info@saari.co.uk
 navigation-light: true
 layout: index
 ---
