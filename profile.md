@@ -5,9 +5,10 @@ image: "/uploads/profile.jpg"
 profile-text: We are a London-based digital strategy, marketing and brand development
   consultancy delivering increased market awareness and growth for our clients alongside
   advise on strategic business development.
-approach-text: Our approach is sensitive to the long term development of our clients
-  internal teams and resource working alongside and upskilling internal teams with
-  the best mix of digital platforms, media and communications.
+approach-text: Our approach is sensitive to our clients' long term strategic development
+  goals considering relevant internal resources and working efficiently alongside
+  internal teams. Our advise is sensitive considering the best mix of digital platforms,
+  media and communications achieving a truly modern approach.
 partners-text: "Current Saari partners include Cornfield + Partners, a London based
   business consultancy where we design and deliver C&P digital performance and marketing
   work. This includes content and brand marketing projects alongside our strategic
