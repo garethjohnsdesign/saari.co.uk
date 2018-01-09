@@ -3,9 +3,9 @@ title: Supercan
 date: 2013-03-04 00:00:00 Z
 position: 5
 image: "/uploads/supercan.jpg"
-lead: Successfully developed a leading international media business digital eco system
-  and marketing operation. Managed digital teams and launched new products to accomplish
-  digital business growth.
+lead: A brand new tech startup operating in the messenger space, Saari were employed
+  to define client B2B and B2C customer acquisition strategies alongside wider business
+  development and strategic business consultancy.
 is-featured: false
 services:
 - Digital Marketing Strategy
