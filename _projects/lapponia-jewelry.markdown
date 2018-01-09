@@ -3,7 +3,7 @@ title: Lapponia / Kalevala Group
 date: 2013-03-04 00:00:00 Z
 position: 1
 image: "/uploads/lapponia-thumb-8f6998.png"
-lead: Digital strategy (multichannel)  . Digital advertising strategy for a leading
+lead: International multichannel strategy and digital marketing strategy for a leading
   Nordic jewellery brand.
 is-featured: true
 is-hero: true
