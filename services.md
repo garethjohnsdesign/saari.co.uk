@@ -51,13 +51,6 @@ services:
     segment can assist in forming an even more insightful digital strategy to support
     sales and brand performance. An audience insights study can be delivered alongside
     wider research to understand and benchmark an industry.
-- service-title: Project Management
-  service-text: We project manage websites, eCommerce, marketing applications, cross
-    platform apps (iOS / Android) to support and develop company brand strategy and
-    business approach. As necessary all project managed infrastructure are developed
-    to match the multilingual and cultural challenge. Here development techniques
-    such as customised content management systems, IP detection, localisation and
-    automation can come into play.
 - service-title: Business Development & Partnerships
   service-text: With our extensive network and deep understanding of media we are
     able to help you find, research and suggest potential partners to tackle this
@@ -67,6 +60,13 @@ services:
     likes of Guardian or a creative campaign opportunity with tech a la Spotify. Perhaps
     your enterprise needs a suitable media agency or is in need of an update to the
     overall tech infrastructure. Where we can’t help we know who can.
+- service-title: Project Management
+  service-text: We project manage websites, eCommerce, marketing applications, cross
+    platform apps (iOS / Android) to support and develop company brand strategy and
+    business approach. As necessary all project managed infrastructure are developed
+    to match the multilingual and cultural challenge. Here development techniques
+    such as customised content management systems, IP detection, localisation and
+    automation can come into play.
 - service-title: Content Production
   service-text: We work with the best photographers, videographers and animators to
     produce any content that is required for a well versed multi channel campaign.
