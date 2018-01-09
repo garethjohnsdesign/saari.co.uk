@@ -46,36 +46,18 @@ clients-list:
 - Lapponia (Kalevala Group)
 - ZEF
 - Supercan
-- BBC
-- People Are Awesome
-- Jukin Media
-- Ker + Downey
-- ATC
-- EMDM
-- Mission Media
-- Amazon
-- LVMH
-- Tiffany
-- Fossil
-- SaabMiller
-- Matalan
-- Red Bull
+- People Are Awesome (Jukin Media)
+- Mission Media (Amazon, LVMH, Tiffany, Red Bull)
 - Nordic Playlist
-- Concord
+- EMDM
+- ATC
+- BBC
 - Kingdom of Origin
-- Our Creators
-- Benjamin Clementine
-- David Gray
-- Orbital
-- Nick Cave
-- Barry Adamson
-- Goldfrapp
-- Magnus Magnusson
-- Jeb Loy Nichols
-- Tubecon
-- OJ + Fridel
 - Arcada
 - One Fest
+- Benjamin Clementine
+- Nick Cave
+- Goldfrapp
 layout: profile
 ---
 
