@@ -11,7 +11,7 @@ services-text: Saari ltd. is a digital marketing and brand development consultan
   We are digital natives and our work is firmly rooted in the understanding of data
   and market insights. As business development consultants we offer a David’s approach
   to Goliath with a simple to understand services being able to advise on all online
-  requirements from copyright & IP to communications and required web infrastructure.
+  requirements from copyright & IP to communications and appropriate web infrastructure.
   We aim to work towards clear KPI’s achieving common goals without friction always
   with client long term strategy in mind.
 contact-text: Saari is open for business, please contact us for enquiries, to discuss
