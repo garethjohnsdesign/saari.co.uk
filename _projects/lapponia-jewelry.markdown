@@ -1,5 +1,5 @@
 ---
-title: Lapponia / Kalevala Group
+title: Lapponia  (Kalevala Group)
 date: 2013-03-04 00:00:00 Z
 position: 1
 image: "/uploads/lapponia-thumb-8f6998.png"
