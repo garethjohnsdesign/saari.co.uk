@@ -14,9 +14,9 @@ enquiries:
   email: info@saari.co.uk
 address-text: |-
   207 Regent Street
-  W1B 3HH
-  London
-  UK
+   W1B 3HH
+   London
+   UK
 additional:
 - title: PDF Request
   text: We have PDF’s covering a range of our work in more detail. For more information
