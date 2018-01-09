@@ -9,13 +9,12 @@ lead: Strategic brand activation, original content production and an internation
 is-featured: true
 is-hero: true
 services:
-- Brands
-- Digital strategy
-- Original content
-- Burberry, music
 - International marketing
-- Music
+- Original content
+- Digital strategy
 - Burberry
+- Brands
+- Music
 feature-image: "/uploads/benjamin-clementine-feature.jpg"
 images: 
 details:
