@@ -60,6 +60,7 @@ clients-list:
 - Benjamin Clementine
 - Nick Cave
 - Goldfrapp
+- More clients coming soon.
 layout: profile
 ---
 
