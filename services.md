@@ -13,7 +13,7 @@ partners-text: Cum sociis natoque penatibus et magnis dis parturient montes, nas
   penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus
   eget urna mollis ornare vel eu leo.
 services:
-- service-title: Marketing, Social Media and Advertising
+- service-title: Marketing, Social Media & Advertising
   service-text: "Saari offers 360 digital marketing services including social media
     management, digital advertising, content marketing, influencer marketing, audience
     development and channel management all firmly rooted into our internationally
@@ -25,14 +25,7 @@ services:
     and language. Our digital advertising strategies are firmly rooted in deep understanding
     of SEO, chosen channel approach, social media, content and influencer marketing
     techniques in mind."
-- service-title: Content Production
-  service-text: We work with the best photographers, videographers and animators to
-    produce any content that is required for a well versed multi channel campaign.
-    In addition to content production at Saari we understand how UGC, crowdfunding,
-    influencer driven content initiatives or partnerships can supercharge the delivery
-    of a content campaign. In our world content strategy follows the overall brand
-    strategy through audience insights.
-- service-title: Digital Transformation and Strategic Consultation
+- service-title: Digital Transformation & Strategic Consultation
   service-text: Our consultancy is aimed at achieving a competitive advantage and
     seize the opportunity in the global business marketplace. This is possible with
     best practice of using digital technologies, cultural shift and means to communicate.
@@ -42,7 +35,7 @@ services:
     businesses and brands. Our services in this respect include workshops, keynotes
     and team development helping brands and enterprise fine tune and develop existing
     teams.
-- service-title: Brand Building, Design and Development
+- service-title: Brand Building, Design & Development
   service-text: In the current communications environment B2B companies alongside
     B2C need to refine and think like a brand to attract a new set of customers, buyers,
     business contacts and appease financiers. Brand building is not just the typography,
@@ -74,6 +67,13 @@ services:
     likes of Guardian or a creative campaign opportunity with tech a la Spotify. Perhaps
     your enterprise needs a suitable media agency or is in need of an update to the
     overall tech infrastructure. Where we can’t help we know who can.
+- service-title: Content Production
+  service-text: We work with the best photographers, videographers and animators to
+    produce any content that is required for a well versed multi channel campaign.
+    In addition to content production at Saari we understand how UGC, crowdfunding,
+    influencer driven content initiatives or partnerships can supercharge the delivery
+    of a content campaign. In our world content strategy follows the overall brand
+    strategy through audience insights.
 - service-title: Digital Law & Contracts
   service-text: 'Saari services include expert legal and commercial advice in digital
     rights, contracts and the general practices of digital law. Here we know how to
