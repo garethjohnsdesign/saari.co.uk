@@ -2,20 +2,19 @@
 title: Benjamin Clementine with Burberry
 date: 2013-03-04 00:00:00 Z
 position: 0
-image: "/uploads/BCprojectthumb.png"
+image: "/uploads/benjamin-projecthumb-2.png"
 lead: Strategic brand activation, original content production and an international
   marketing campaign for a Mercury Prize winning artist Benjamin Clementine and a
   leading British fashion brand Burberry.
 is-featured: true
 is-hero: true
 services:
-- Brands
-- Digital strategy
-- Original content
-- Burberry, music
 - International marketing
-- Music
+- Original content
+- Digital strategy
 - Burberry
+- Brands
+- Music
 feature-image: "/uploads/benjamin-clementine-feature.jpg"
 images: 
 details:

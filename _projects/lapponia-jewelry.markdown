@@ -2,17 +2,17 @@
 title: Lapponia / Kalevala Group
 date: 2013-03-04 00:00:00 Z
 position: 1
-image: "/uploads/lapponia-jewelry.jpg"
-feature-image: "/uploads/lapponia-jewelry-feature.jpg"
-images: 
-services:
-- Digital Marketing
-- Advertising
-- Strategy
+image: "/uploads/lapponia-thumb.png"
 lead: Digital strategy, marketing strategy, channel strategy, digital advertising
   strategy for a leading Nordic jewelry brand.
 is-featured: true
 is-hero: true
+services:
+- Digital Marketing
+- Advertising
+- Strategy
+feature-image: "/uploads/lapponia-jewelry-feature.jpg"
+images: 
 details:
 - title: Brief
   text: To benchmark, research and develop a renowned Nordic jewelry brand Lapponia.
