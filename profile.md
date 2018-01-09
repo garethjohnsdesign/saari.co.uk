@@ -3,19 +3,25 @@ title: Profile
 position: 2
 profile-text: We are a London-based digital strategy, marketing and brand development
   consultancy delivering increased market awareness and growth for our clients alongside
-  advise on strategic business development.
-approach-text: Our approach is sensitive to our clients' long term strategic development
-  goals considering relevant internal resources and working efficiently alongside
-  internal teams. Our advise is sensitive considering the best mix of digital platforms,
-  media and communications achieving a truly modern approach.
+  advice on strategic business development.
+approach-text: "Most organisations and businesses are now faced with new challenges
+  and opportunities relating directly to digital technologies. This development alters
+  the dynamics of how internal resources are best conjoined with external teams in
+  order to allow a leaner, more efficient organisation to exist. Thus, our approach
+  is sensitive to our clients' long-term strategic development goals and our ideas
+  are translated into clearly defined outcome-based objectives. \n\nWe distinguish
+  ourselves by combining the most valuable attributes of digital technologies, platforms,
+  media and communications for our clients in order to achieve a truly modern and
+  integrated business approach. "
 partners-text: "Current Saari partners include Cornfield + Partners, a London based
-  business consultancy where we design and deliver C&P digital performance and marketing
+  business consultancy where we design and deliver group digital performance and marketing
   work. This includes content and brand marketing projects alongside our strategic
-  digital consultancy. \n\nFst are a leading creative design agency based in Marlow,
-  Saari works alongside fst with a number of digital marketing projects that span
-  from insights and strategy to project management of digital media and content marketing.
-  \n\nOur sister company Saari Music works exclusively with creators (primarily in
-  music) delivering strategic business and audience development work in content marketing."
+  digital consultancy.\n\nFst are a leading creative design agency based in Marlow,
+  Oxfordshire. Saari works alongside fst with a number of digital marketing projects
+  that span from insights and strategy to project management of digital media and
+  content marketing. \n\nOur sister company Saari Music works exclusively with creators
+  (primarily in music) delivering strategic business and audience development work
+  in the areas of content marketing, advertising and communications."
 services-list:
 - Digital Strategy
 - Digital Transformation
