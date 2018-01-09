@@ -60,6 +60,14 @@ services:
     likes of Guardian or a creative campaign opportunity with tech a la Spotify. Perhaps
     your enterprise needs a suitable media agency or is in need of an update to the
     overall tech infrastructure. Where we can’t help we know who can.
+- service-title: Digital Law & Contracts
+  service-text: 'Saari services include expert legal and commercial advice in digital
+    rights, contracts and the general practices of digital law. Here we know how to
+    setup up and understand digital marketing, eCom and product environments. You
+    may be looking to hire influencers and in need for a contract, your web environment
+    may need terms of service or your original content may have IP. These are only
+    a few of the types of services we can help to make sure you make the most out
+    of your online and protect yourself in the internationally complex legal framework. '
 - service-title: Project Management
   service-text: We project manage websites, eCommerce, marketing applications, cross
     platform apps (iOS / Android) to support and develop company brand strategy and
@@ -74,14 +82,6 @@ services:
     influencer driven content initiatives or partnerships can supercharge the delivery
     of a content campaign. In our world content strategy follows the overall brand
     strategy through audience insights.
-- service-title: Digital Law & Contracts
-  service-text: 'Saari services include expert legal and commercial advice in digital
-    rights, contracts and the general practices of digital law. Here we know how to
-    setup up and understand digital marketing, eCom and product environments. You
-    may be looking to hire influencers and in need for a contract, your web environment
-    may need terms of service or your original content may have IP. These are only
-    a few of the types of services we can help to make sure you make the most out
-    of your online and protect yourself in the internationally complex legal framework. '
 - service-title: PR Consultancy & Communications
   service-text: Through our extensive network of ‘best in class’ partner companies
     we are able to coordinate and organise an effective internationally focussed communications
