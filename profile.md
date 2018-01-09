@@ -1,7 +1,6 @@
 ---
 title: Profile
 position: 2
-image: "/uploads/profile.jpg"
 profile-text: We are a London-based digital strategy, marketing and brand development
   consultancy delivering increased market awareness and growth for our clients alongside
   advise on strategic business development.
