@@ -12,7 +12,11 @@ enquiries:
 - title: General Enquiries
   name: 
   email: info@saari.co.uk
-address-text: " Henley on Thames  \n Oxfordshire UK"
+address-text: |-
+  207 Regent Street
+   W1B 3HH
+   London
+   UK
 additional:
 - title: PDF Request
   text: We have PDF’s covering a range of our work in more detail. For more information

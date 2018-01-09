@@ -9,13 +9,12 @@ about-text: We are a London-based digital strategy, marketing and brand developm
 services-text: Saari is a digital marketing and brand development consultancy with
   the aim for increased market awareness and growth for our clients. We are digital
   natives and our work is firmly rooted in the understanding of data and market insights.
-  As business development consultants we offer a David’s approach to Goliath with
-  a simple to understand services being able to advice on all online requirements
-  from copyright & IP to communications and appropriate web infrastructure. We work
-  towards clear KPI’s achieving common goals without friction always with client long
-  term strategy in mind.
-contact-text: Saari is open for business, please contact us for enquiries, to discuss
-  projects or collaborations
+  As business development consultants, we offer a David’s approach to Goliath and
+  we are able to advise on all online requirements from copyright & IP to communications
+  and appropriate web infrastructure. We work towards clear and defined KPI’s assisting
+  clients to attain their long-term goals and bring real value to their business.
+contact-text: 'Saari is open for business. Please contact us for enquiries to discuss
+  ideas, projects or collaborations. '
 contacts:
 - title: New Business
   email: nikke@saari.co.uk
