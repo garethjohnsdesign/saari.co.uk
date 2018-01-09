@@ -22,7 +22,7 @@ contacts:
 - title: New Business
   email: nikke@saari.co.uk
 - title: Internships / Careers
-  email: mathew@saari.co.uk
+  email: info@saari.co.uk
 navigation-light: true
 layout: index
 ---
