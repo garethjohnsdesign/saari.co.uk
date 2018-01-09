@@ -2,16 +2,17 @@
 title: ZEF
 date: 2013-03-04 00:00:00 Z
 position: 2
-image: "/uploads/zef.jpg"
-feature-image: "/uploads/zef-feature.jpg"
-images: 
+image: "/uploads/zef-thumb.png"
+lead: Strategic work for a leading Nordic software company, auditing client  brand
+  framework defining principles for internal team structure, digital law and marketing
+  workforce, infrastructure and KPI’s.
+is-featured: false
 services:
 - Strategy
 - Digital Marketing
 - Workshops
-lead: Audit a leading Nordic software company’s brand framework, help define principles
-  for digital law and marketing workforce, infrastructure and KPI’s.
-is-featured: false
+feature-image: "/uploads/zef-feature.jpg"
+images: 
 details:
 - title: Brief
   text: Help deliver and audit Zef brand framework. Brainstorm brand positioning in
