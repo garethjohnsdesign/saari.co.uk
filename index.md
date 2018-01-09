@@ -6,8 +6,8 @@ hero-image: "/uploads/hero.jpg"
 about-text: We are a London-based digital strategy, marketing and brand development
   consultancy delivering increased market awareness and growth for our clients alongside
   advise on strategic business development.
-services-text: Saari ltd. is a digital marketing and brand development consultancy
-  with the aim for increased market awareness and growth for our clients. We are digital
+services-text: Saari is a digital marketing and brand development consultancy with
+  the aim for increased market awareness and growth for our clients. We are digital
   natives and our work is firmly rooted in the understanding of data and market insights.
   As business development consultants we offer a David’s approach to Goliath with
   a simple to understand services being able to advise on all online requirements
