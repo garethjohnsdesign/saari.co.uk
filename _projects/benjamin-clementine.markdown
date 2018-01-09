@@ -1,19 +1,19 @@
 ---
-title: Benjamin Clementine and Burberry
+title: Benjamin Clementine with Burberry
 date: 2013-03-04 00:00:00 Z
 position: 0
 image: "/uploads/benjamin-clementine.jpg"
-feature-image: "/uploads/benjamin-clementine-feature.jpg"
-images: 
-services:
-- Digital Marketing
-- Advertising
-- Strategy
 lead: Brand activation, digital strategy, original content, international marketing
   campaign for a Mercury Prize winning artist Benjamin Clementine and a leading fashion
   brand Burberry.
 is-featured: true
 is-hero: true
+services:
+- Digital Marketing
+- Advertising
+- Strategy
+feature-image: "/uploads/benjamin-clementine-feature.jpg"
+images: 
 details:
 - title: Brief
   text: To design, develop and deliver an internationally aware communications and
