@@ -270,7 +270,7 @@
 		"oAP": "\/_uploads\/benjamin-clementine.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/contact.jpg": {
@@ -370,7 +370,7 @@
 		"oAP": "\/_uploads\/supercan.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/zef-feature.jpg": {
@@ -390,7 +390,7 @@
 		"oAP": "\/_uploads\/zef.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/css\/app.css": {

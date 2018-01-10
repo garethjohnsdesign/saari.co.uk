@@ -2,7 +2,7 @@
 title: Supercan
 date: 2013-03-04 00:00:00 Z
 position: 5
-image: "/uploads/supercan-thumb.jpg"
+image: "/uploads/supercan.jpg"
 lead: A brand new tech startup operating in the messenger space, Saari were employed
   to define client B2B and B2C customer acquisition strategies alongside wider business
   development and strategic business consultancy.

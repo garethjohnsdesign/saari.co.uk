@@ -1,12 +1,12 @@
-- title: Facebook
-  url: "https://www.facebook.com/SaariLtd/"
-  
-- title: Instagram
-  url: "https://www.instagram.com/saariltd/"
-  
-- title: LinkedIn
-  url: "https://uk.linkedin.com/company/saari-ltd-"
-  
+# - title: Facebook
+#   url: "https://www.facebook.com/SaariLtd/"
+#   
+# - title: Instagram
+#   url: "https://www.instagram.com/saariltd/"
+#   
+# - title: LinkedIn
+#   url: "https://uk.linkedin.com/company/saari-ltd-"
+#   
 - title: info@saari.co.uk
   url: "mailto:info@saari.co.uk"
 
