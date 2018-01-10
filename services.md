@@ -14,17 +14,16 @@ partners-text: Cum sociis natoque penatibus et magnis dis parturient montes, nas
   eget urna mollis ornare vel eu leo.
 services:
 - service-title: Marketing, Social Media & Advertising
-  service-text: "Saari offers 360 digital marketing services including social media
+  service-text: Saari offers 360 digital marketing services, including social media
     management, digital advertising, content marketing, influencer marketing, audience
-    development and channel management all firmly rooted into our internationally
-    aware approach. Our approach to communications is both culturally and from a channel
-    perspective designed to support client long term business goals. \n\nWe are a
-    multi-channel digital advertising specialists working across all relevant media
-    and content types. With larger budgets we work with award winning partner agencies
-    being able to deliver a cost efficient global approach that is sensitive to culture
-    and language. Our digital advertising strategies are firmly rooted in deep understanding
-    of SEO, chosen channel approach, social media, content and influencer marketing
-    techniques in mind."
+    development and channel management using global insights on an international basis.
+    Our approach to communications is about speaking the language of different markets
+    in order to truly connect and engage with the audience. We are multi-channel digital
+    advertising specialists working across all relevant media and content types. With
+    larger advertising budgets, we partner with international, award-winning agencies
+    in order to deliver cost-efficient global solutions sensitive to both culture
+    and language. Our strategies are firmly rooted in a deep understanding of SEO,
+    chosen channel approach, social media, content and influencer marketing techniques.
 - service-title: Digital Transformation & Strategic Consultation
   service-text: Our consultancy is aimed at achieving a competitive advantage and
     seize the opportunity in the global business marketplace. This is possible with
