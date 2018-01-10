@@ -363,6 +363,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/supercan-thumb.jpg": {
+		"ft": 16384,
+		"iS": 269439,
+		"oA": 0,
+		"oAP": "\/_uploads\/supercan-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/supercan.jpg": {
 		"ft": 16384,
 		"iS": 93925,
@@ -381,6 +391,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/zef-thumb.png": {
+		"ft": 32768,
+		"iS": 443153,
+		"oA": 0,
+		"oAP": "\/_uploads\/zef-thumb.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_uploads\/zef.jpg": {
@@ -421,11 +442,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/android-chrome-256x256.png": {
+	"\/assets\/favicons\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 1084,
+		"iS": 0,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/android-chrome-256x256.png",
+		"oAP": "\/assets\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -487,11 +508,55 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/assets\/favicons\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 1518,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 598,
+		"iS": 1521,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 1801,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 3632,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
