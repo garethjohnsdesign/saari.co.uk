@@ -1,7 +1,7 @@
 ---
 title: Contact
 position: 4
-image: "/uploads/contact-thumb2.jpg"
+image: "/uploads/contact.jpg"
 enquiries:
 - title: New Business
   name: Nikke Osterback
