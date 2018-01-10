@@ -1,8 +1,8 @@
 ---
-title: Lapponia  (Kalevala Group)
+title: Lapponia  / Kalevala Group
 date: 2013-03-04 00:00:00 Z
 position: 1
-image: "/uploads/lapponia-thumb-3.png"
+image: "/uploads/lapponia-jewelry.jpg"
 lead: International multichannel and digital marketing strategy for a leading Nordic
   jewellery brand.
 is-featured: true
