@@ -1,7 +1,7 @@
 ---
 title: Contact
 position: 4
-image: "/uploads/contact-thumb2.jpg"
+image: "/uploads/contact.jpg"
 enquiries:
 - title: New Business
   name: Nikke Osterback
@@ -14,9 +14,9 @@ enquiries:
   email: info@saari.co.uk
 address-text: |-
   207 Regent Street
-   W1B 3HH
-   London
-   UK
+  <br>W1B 3HH
+  <br>London
+  <br>UK
 additional:
 - title: PDF Request
   text: We have PDF’s covering a range of our work in more detail. For more information
