@@ -13,15 +13,10 @@ approach-text: "Most organisations and businesses are now faced with new challen
   ourselves by combining the most valuable attributes of digital technologies, platforms,
   media and communications for our clients in order to achieve a truly modern and
   integrated business approach. "
-partners-text: "Current Saari partners include Cornfield+Partners, an international
-  business consultancy, where we deliver group digital performance and strategic marketing.
-  Our work includes content and brand marketing projects alongside our strategic digital
-  consultancy.\n\nFst are a leading creative design agency based in Marlow, Oxfordshire.
-  Saari works alongside fst with a number of digital marketing projects that span
-  from insights and strategy to project management of digital media and content marketing.
-  \n\nOur sister company, Saari Music, works exclusively with creators (primarily
-  in music) delivering strategic business and audience development work in the areas
-  of content marketing, advertising and communications."
+partners-text: |-
+  Current Saari partners include Cornfield+Partners, an international business consultancy. Saari are responsible for the delivery of group digital performance and strategic marketing. Our work includes content and brand marketing projects, web development alongside our strategic digital consultancy.
+
+  Our sister company, Saari Music, works exclusively with creators (primarily in music) delivering strategic business and audience development work in the areas of content marketing, advertising and communications.
 services-list:
 - Digital Strategy
 - Digital Transformation
