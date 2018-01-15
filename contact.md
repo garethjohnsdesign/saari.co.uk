@@ -13,8 +13,8 @@ enquiries:
   name: 
   email: info@saari.co.uk
 address-text: |-
-  207 Regent Street
-  <br>W1B 3HH
+  Powis Square
+  <br>Notting Hill Gate
   <br>London
   <br>UK
 additional:
