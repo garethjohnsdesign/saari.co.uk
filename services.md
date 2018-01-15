@@ -41,14 +41,6 @@ services:
     With this in mind, we work to respond to the global opportunity still appreciating
     local key markets and culture. Our aim is to develop viable brands that deliver
     a clear message for search and outgoing marketing.
-- service-title: Audience Insights Projects
-  service-text: Public data online is at the disposal of brands and enterprises to
-    understand audience segments through consumer insights. Social media insights
-    alongside business data can help redefine customer opportunity but also study
-    competitors and the opportunity at hand. Studying your audience or business segment
-    can assist in forming a more insightful digital strategy to support sales and
-    brand performance. An audience insights study can be delivered alongside wider
-    research to understand and benchmark an industry.
 - service-title: Business Development and Partnerships
   service-text: With our extensive network and deep understanding of media, we are
     able to help you find, research and suggest potential partners to tackle this
@@ -58,6 +50,14 @@ services:
     likes of Guardian or a creative campaign opportunity with tech a la Spotify. Perhaps
     your enterprise needs a suitable media agency or is in need of an update to the
     overall tech infrastructure. Where we can’t help we know who can.
+- service-title: Audience Insights Projects
+  service-text: Public data online is at the disposal of brands and enterprises to
+    understand audience segments through consumer insights. Social media insights
+    alongside business data can help redefine customer opportunity but also study
+    competitors and the opportunity at hand. Studying your audience or business segment
+    can assist in forming a more insightful digital strategy to support sales and
+    brand performance. An audience insights study can be delivered alongside wider
+    research to understand and benchmark an industry.
 - service-title: Digital Law and Contracts
   service-text: Saari services include expert legal and commercial advice in digital
     rights, contracts and the general practices of digital law. Here we know how to
