@@ -16,7 +16,6 @@ services:
 - Brands
 - Music
 feature-image: "/uploads/benjamin-clementine-feature.jpg"
-images: 
 details:
 - title: Brief
   text: Saari were hired to design, develop and deliver an internationally aware communications
@@ -34,7 +33,7 @@ details:
     for the artist with extremely engaged audiences for both Burberry and the artist.
     The campaign was delivered with the launch for a new Burberry men's fragrance.
 testimonial:
-- text: Nikke & Saari Ltd. were hired to deliver the campaign strategy and wider international
+  text: Nikke & Saari Ltd. were hired to deliver the campaign strategy and wider international
     marketing for Benjamin's collaboration with Burberry. His dedication to work,
     the understanding of creativity, his passion for success and hard work mentality
     testify to his character and values. Most importantly he has unparalleled insight
