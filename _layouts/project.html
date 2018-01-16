@@ -52,6 +52,21 @@ layout: light
 {% endif %}
 <!-- End Images -->
 
+<!-- Testimonial -->
+{% if page.testimonial %}
+<section class="project__testimonial">
+    <div class="row">
+      {% for testimonial in page.testimonial %}
+      <div class="small-12 columns project__testimonial">
+        <h4>"{{ testimonial.text }}"</h4>
+        <p>— {{ testimonial.cite }}</p>
+      </div>
+      {% endfor %}
+    </div>
+</section>
+{% endif %}
+<!-- End Testimonial -->
+
 <!-- Pagination -->
 {% include pagination.html %}
 <!-- End Pagination -->

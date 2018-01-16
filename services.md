@@ -1,9 +1,7 @@
 ---
 title: Services
 position: 3
-lead-text: London-based digital strategy, marketing and brand development consultancy,
-  delivering increased market awareness and growth for our clients. Our services include
-  strategic business development in media.
+lead-text: London-based digital strategy, marketing, brand and business development consultancy, delivering increased market awareness and growth for our clients.
 approach-text: Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis
   in, egestas eget quam. Donec sed odio dui. Sed posuere consectetur est at lobortis.
   Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet
