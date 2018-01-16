@@ -33,12 +33,12 @@ details:
     for the artist with extremely engaged audiences for both Burberry and the artist.
     The campaign was delivered with the launch for a new Burberry men's fragrance.
 testimonial:
-  text: Nikke & Saari Ltd. were hired to deliver the campaign strategy and wider international
+- text: Nikke & Saari Ltd. were hired to deliver the campaign strategy and wider international
     marketing for Benjamin's collaboration with Burberry. His dedication to work,
     the understanding of creativity, his passion for success and hard work mentality
     testify to his character and values. Most importantly he has unparalleled insight
     into the workings of digital media and the logistics for the delivery of a creative
-    campaign at this level.2
+    campaign at this level
   cite: Peter Hall
 layout: project
 ---
