@@ -23,6 +23,14 @@ defaults:
     layout: project
     services:
     - 
+    feature-image: 
+    images: 
+    details:
+    - title: 
+      text: 
+    testimonial:
+    - text: 
+      cite: 
 url: https://www.saari.co.uk
 description: London-based digital strategy, marketing, brand and business development
   consultancy, delivering increased market awareness and growth for our clients.
