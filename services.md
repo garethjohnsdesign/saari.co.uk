@@ -96,9 +96,9 @@ services:
   service-text: Through our vast network of ‘best in class’ partner companies, we
     are able to co-ordinate and effectively organise and launch an internationally
     focused communications approach.
-outro-text: "## Our team has broad capabilities across a wide range of industries
-  and we’re always happy to help. Visit our [contact us](/contact) page or drop us
-  a [line](mailto:info@saari.co.uk) to get in touch."
+outro-text: "## Our team has a broad range of expertise across a wide range of industry
+  sectors and we are always happy to help. Visit our [contact us](/contact) page or
+  drop us a [line](mailto:info@saari.co.uk) to get in touch."
 layout: services
 ---
 
