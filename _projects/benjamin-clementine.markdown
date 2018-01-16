@@ -38,7 +38,7 @@ testimonial:
     the understanding of creativity, his passion for success and hard work mentality
     testify to his character and values. Most importantly he has unparalleled insight
     into the workings of digital media and the logistics for the delivery of a creative
-    campaign at this level.
+    campaign at this level.2
   cite: Peter Hall
 layout: project
 ---
