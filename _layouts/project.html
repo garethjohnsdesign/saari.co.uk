@@ -25,10 +25,8 @@ layout: light
 </section>
 <!-- End Overview -->
 
-{{ page.test }}
-
 <!-- Details -->
-{% if page.testimonial %}
+{% if page.testimonial.text %}
 <section class="project__details">
     <div class="row small-up-1 medium-up-2 large-up-4">
       {% for detail in page.details %}
@@ -37,13 +35,11 @@ layout: light
         <p>{{ detail.text }}</p>
       </div>
       {% endfor %}
-      {% for testimonial in page.testimonial %}
       <div class="columns project__detail">
         <h3>Testimonial</h3>
-        <p>{{ testimonial.text }}</p>
-        <p>— {{ testimonial.cite }}</p>
+        <p>{{ page.testimonial.text }}2</p>
+        <p>— {{ page.testimonial.cite }}</p>
       </div>
-      {% endfor %}
     </div>
 </section>
 {% else %}
@@ -73,23 +69,6 @@ layout: light
 </section>
 {% endif %}
 <!-- End Images -->
-
-<!-- Testimonial -->
-<!--
-{% if page.testimonial %}
-<section class="project__testimonial">
-    <div class="row align-center">
-      {% for testimonial in page.testimonial %}
-      <div class="small-12 medium-8 columns project__testimonial">
-        <h4>"{{ testimonial.text }}"</h4>
-        <p>— {{ testimonial.cite }}</p>
-      </div>
-      {% endfor %}
-    </div>
-</section>
-{% endif %}
--->
-<!-- End Testimonial -->
 
 <!-- Pagination -->
 {% include pagination.html %}
