@@ -16,7 +16,7 @@ services:
 - Brands
 - Music
 feature-image: "/uploads/benjamin-clementine-feature.jpg"
-images: 
+images:
 details:
 - title: Brief
   text: Saari were hired to design, develop and deliver an internationally aware communications

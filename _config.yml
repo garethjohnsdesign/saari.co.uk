@@ -25,6 +25,7 @@ defaults:
     - 
     feature-image:
     images:
+    details:
     - title:
       text:
     testimonial:

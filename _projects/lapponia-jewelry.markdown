@@ -33,6 +33,7 @@ details:
     multilingual Lapponia customer. Considering PR amplifications alongside new original
     storytelling, content activations and influencer marketing to reach new audiences.
     Alignment of agency approach considering digital buys and budgeting.
+testimonials:
 layout: project
 ---
 
