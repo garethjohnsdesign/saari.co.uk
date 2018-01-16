@@ -23,10 +23,9 @@ defaults:
     layout: project
     services:
     - 
-url: http://saari.co.uk
-description: London-based Saari ltd. offers digital marketing, brand development and
-  digital strategy services with the aim to reach increased market awareness and growth
-  from an international point of view.
+url: https://www.saari.co.uk
+description: London-based digital strategy, marketing, brand and business development
+  consultancy, delivering increased market awareness and growth for our clients.
 permalink: pretty
 exclude:
 - bower.json

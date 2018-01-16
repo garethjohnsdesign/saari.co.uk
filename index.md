@@ -3,9 +3,8 @@ title: Saari
 position: 0
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/hero.jpg"
-about-text: London-based digital strategy, marketing and brand development consultancy,
-  delivering increased market awareness and growth for our clients. Our services include
-  strategic business development in media.
+about-text: London-based digital strategy, marketing, brand and business development
+  consultancy, delivering increased market awareness and growth for our clients.
 services-text: Digital natives with work firmly rooted in the understanding of data
   and market insights. As business development consultants we are able to advise on
   all online requirements, from copyright and intellectual property — to communications
