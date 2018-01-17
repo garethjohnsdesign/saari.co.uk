@@ -14,20 +14,20 @@ services:
 - Growth hacking
 - Digital Strategy
 feature-image: "/uploads/supercan-feature.jpg"
-images: 
 details:
 - title: Brief
   text: Saari were tasked to define a newly formed startup B2B and B2C customer acquisition
-    strategies alongside consultancy work and to work on wider business development
+    strategies alongside consultancy work and execute on wider business development
     and strategic positioning of the client proposition.
 - title: Approach
-  text: 'Plugging into the internal team at Supercan we upskilled and helped define
-    the best most cost efficient approach for the delivery of a new Nordic startup
-    for app user acquisition and B2B brand marketing. '
+  text: Redefining the internal workforce at Supercan by upskilling  and training
+    to define the best most cost efficient approach for the delivery of a new Nordic
+    startup, their app user acquisition and B2B brand marketing strategy.
 - title: Outcome
   text: Finalist in Techstars 2017 over a thousand startup applicants. Aligned brand
     and communication strategy. A newly focussed internal team to maximise resources
-    for a year two in the life of an exciting Nordic startup.
+    for a year two in the life of an exciting Nordic startup. An existing business
+    development client.
 layout: project
 ---
 
