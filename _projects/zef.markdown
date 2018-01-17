@@ -10,27 +10,25 @@ is-featured: false
 services:
 - Strategy
 - 'Workshops '
-- Growth havking
+- Growth Hacking
 - Digital Marketing
-- Training and development
+- Training and Development
 feature-image: "/uploads/zef-feature.jpg"
-images: 
 details:
 - title: Brief
-  text: Help deliver and audit Zef brand framework. Brainstorm brand positioning in
-    the global marketplace. Discuss and implement framework for KPI’s and team development.
+  text: Deliver and audit Zef brand framework. Brainstorm brand positioning in the
+    global marketplace. Discuss and implement framework for KPI’s and team development.
     Assess Zef internal team capabilities for management considerations.
 - title: Approach
   text: Brainstorm in a workshop environment with the aim to openly discuss and audit
     existing marketing framework and brand. On board wider Zef digital marketing and
-    brand communications teams to discuss Zef brand approach and set new ways of working
-    to develop future ways of working.
+    communications teams for an integrated approach in order for a more effective
+    brand management online.
 - title: Outcome
   text: Auditing and the evaluation of existing Zef brand framework. Suggestions for
     digital advertising and further team building. Auditing of existing digital marketing
     and advertising budgets with a 5 year view to the future. A happy client with
-    a confidence to pursue their long term marketing strategy to the future with international
-    focus.
+    a confidence to pursue their long term marketing strategy in 2018.
 layout: project
 ---
 
