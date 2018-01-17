@@ -9,11 +9,11 @@ lead: Developing and implementing a leading international media business digital
 is-featured: true
 is-hero: true
 services:
-- Strategy
+- New Product Development
 - Digital Transformation
 - Brand Marketing
+- Strategy
 - Insights
-- New Product Development
 feature-image: "/uploads/mission-media-feature.jpg"
 details:
 - title: Brief
