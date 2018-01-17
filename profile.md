@@ -26,14 +26,14 @@ services-list:
 - Research + Brand Positioning
 - Brand Identity, Guidelines + Naming
 - Social Media Marketing
-- Copywriting (DE, ENG, FR, FIN, SE)
+- Copywriting (DE, ENG, FR, ES, SE, FIN, ES)
 - 'Fundraising: Start Ups + Lifting Ideas'
 - Business Development + Partnerships
 - Media Research + PR Coordination
 - Partner Research + Management
 - Audience Insights + Reporting
 - Branding + Digital Design
-- Logo + typography design
+- Logo + Typography Design
 - Multi-channel Strategy + Audits
 - Integrated Campaigns
 - 'E-Commerce: Setup + Management'
@@ -60,7 +60,6 @@ clients-list:
 - Benjamin Clementine
 - Nick Cave
 - Goldfrapp
-- More clients coming soon.
 layout: profile
 ---
 
