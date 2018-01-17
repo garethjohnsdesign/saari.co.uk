@@ -28,10 +28,11 @@ details:
     reach out to potential younger demographics in multiple markets were set out as
     a key objective.
 - title: Outcome
-  text: Relaunching a modernised, multichannel strategy and platform for a global
-    multilingual Lapponia customer. Considering PR amplifications alongside new original
-    storytelling, content activations and influencer marketing to reach new audiences.
-    Alignment of agency approach considering digital buys and budgeting.
+  text: Successful relaunch of a modernised, multichannel strategy and platform to
+    service existing and new global multilingual Lapponia customers. Considering PR
+    amplifications alongside new original content activations and influencer marketing
+    to reach new audiences for a rich storytelling of the brand. Digital advertising
+    considerations to support a long term international amplification of content marketing.
 testimonials: 
 layout: project
 ---
