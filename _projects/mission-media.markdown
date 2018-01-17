@@ -15,27 +15,33 @@ services:
 - Insights
 - New Product Development
 feature-image: "/uploads/mission-media-feature.jpg"
-images: 
 details:
 - title: Brief
-  text: Tasked to define company global digital strategy considering Mission digital
-    marketing framework, all teams and international offering. Understanding client
-    workforce, specialities and skills our work was aimed to define requirements for
-    a new integrated organisation. Alongside transformation consultancy work Saari
-    consulted for the development of the digital revenue streams, the development
-    of the digital marketing team(s) and new business growth.
+  text: Tasked to define and deliver a global digital strategy for the company in
+    the context of Mission’s existing digital marketing framework, teams and international
+    offering. Having regard to the client’s workforce, specialities and skills, our
+    work was aimed at defining the requirements for a new integrated organisation
+    and making core transformations in the company’s marketing strategy and operations
+    to build an end-to-end vision. Alongside transformation marketing consultancy,
+    Saari advised on the creation and development of new digital revenue streams,
+    the remodelling of marketing teams and the implementation of new business growth
+    models.
 - title: Approach
-  text: Looking at the global organisation, synergies and specific partners and their
-    relation to digital technologies we surveyed, interviewed and co-worked with the
-    international organisation upskilling and re-defining digital marketing offering
-    and developing the intergrated communications offering.
+  text: Analysing the global agency, its synergies, specific partners and the company’s
+    use of digital technologies, we surveyed, interviewed and collaborated with the
+    international organisation to influence, upskill and restructure its digital marketing
+    offering and develop an integrated communications strategy in alignment with the
+    company’s global plan. Harnessing the company’s digital marketing operation to
+    transform business effectiveness and drive higher sales and productivity.
 - title: Outcome
-  text: A focussed, integrated organisation with a deeper understanding of digital
-    technologies across the wider communications and creative agency. New take on
-    agency disciplines, areas of business development, digital team development and
-    digital marketing as part of new business growth. Direct digital business grew
-    just short of 200% year on year with new digital product value (insights, consultancy
-    & new partnerships) up to 100k year on year.
+  text: A focused, integrated organisation with a deeper understanding of digital
+    technologies across the wider communications and creative agency on a global scale.
+    Design and integration of new agency disciplines and concentration on new areas
+    of business development and growth models. Creation and maintenance of a robust
+    and effective operating model with the appropriate systems and teams as part of
+    new business development.  Generation of direct digital business growth just short
+    of 200% year on year with new digital product value (insights, consultancy & new
+    partnerships) up to 100k year on year.
 layout: project
 ---
 
