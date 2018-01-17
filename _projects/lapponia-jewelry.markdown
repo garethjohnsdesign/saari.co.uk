@@ -15,7 +15,6 @@ services:
 - Strategy
 - Brands
 feature-image: "/uploads/lapponia-jewelry-feature.jpg"
-images: 
 details:
 - title: Brief
   text: To benchmark, research and develop a renowned Nordic jewellery brand Lapponia.
@@ -26,8 +25,8 @@ details:
   text: Working closely with the internal Kalevala Group teams and external PR agencies
     to develop a classic Nordic brand. 'Looking back to look forward' with an integrated
     approach and a clear audience segmentation under focus. Brand positioning and
-    reach out to potential younger demographics in multiple markets set out as a key
-    objective.
+    reach out to potential younger demographics in multiple markets were set out as
+    a key objective.
 - title: Outcome
   text: Relaunching a modernised, multichannel strategy and platform for a global
     multilingual Lapponia customer. Considering PR amplifications alongside new original
