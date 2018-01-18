@@ -13,20 +13,22 @@ services:
 - Digital Law
 - Digital Transformation
 feature-image: "/uploads/kingdom-of-origin-feature.jpg"
-images: 
 details:
 - title: Brief
-  text: Saari were tasked to define and deliver the legal framework required to launch
-    a new children’s eCommerce apparel brand.
+  text: Saari were tasked to define and deliver a structured legal framework required
+    to launch a new children’s eCommerce apparel brand and protect the company's rights
+    in the digital field.
 - title: Approach
-  text: Considering digital law in eCommerce in relation to relevant aspects of the
-    use of data we looked at the potential and existing global audience and customer
-    base to define a framework that considers the latest changes in GDPR in the international
-    legal context.
+  text: Considering the relevant facets relating to the use and application of  data
+    and websites in the context of digital law in the field of eCommerce. Taking into
+    account the potential and existing global audience and customer base in order
+    to design and implement a legal framework mindful of the impending changes coming
+    into effect as a result of the GDPR in the international legal context.
 - title: Outcome
-  text: A simple but comprehensive legal framework for a small business with a global
-    ambition with a service that supports and safeguards KOO strategic in brand and
-    eCommerce development.
+  text: A comprehensive and regulatory compliant legal framework, including website
+    terms and conditions, privacy & cookies policies, contract documentation and confidentiality
+    agreements for a small business with a global ambition in order to fully support
+    and safeguard KOO's brand strategy and eCommerce development.
 layout: project
 ---
 
