@@ -30,9 +30,9 @@ details:
   text: Analysing the global agency, its synergies, specific partners and the company’s
     use of digital technologies, we surveyed, interviewed and collaborated with the
     international organisation to influence, upskill and restructure its digital marketing
-    offering and develop an integrated communications strategy in alignment with the
-    company’s global plan. Harnessing the company’s digital marketing operation to
-    transform business effectiveness and drive higher sales and productivity.
+    offering and develop an integrated digital strategy in alignment with the company’s
+    global plan. Harnessing the company’s digital marketing operation to transform
+    business effectiveness and drive higher sales and productivity.
 - title: Outcome
   text: A focused, integrated organisation with a deeper understanding of digital
     technologies across the wider communications and creative agency on a global scale.
@@ -41,7 +41,7 @@ details:
     and effective operating model with the appropriate systems and teams as part of
     new business development.  Generation of direct digital business growth just short
     of 200% year on year with new digital product value (insights, consultancy & new
-    partnerships) up to 100k year on year.
+    partnerships) up to 70k in the first 9 months of operation.
 layout: project
 ---
 
