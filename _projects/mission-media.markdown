@@ -3,9 +3,9 @@ title: Mission Media
 date: 2013-03-04 00:00:00 Z
 position: 4
 image: "/uploads/mission-media.jpg"
-lead: Developing and implementing a leading international media business digital ecosystem
-  and marketing operation. Managing digital teams and launching innovative products
-  to accomplish exponential digital business growth.
+lead: Developing and implementing a digital ecosystem and marketing operation for
+  a leading international media business on a global scale. Managing digital teams
+  and launching innovative products to accomplish exponential digital business growth.
 is-featured: true
 is-hero: true
 services:
