@@ -25,8 +25,8 @@ details:
     to design and implement a legal framework mindful of the impending changes coming
     into effect as a result of the GDPR in the international legal context.
 - title: Outcome
-  text: A comprehensive and regulatory compliant legal framework, including website
-    terms and conditions, privacy & cookies policies, contract documentation and confidentiality
+  text: A concise and regulatory compliant legal framework, including website terms
+    and conditions, privacy & cookies policies, contract documentation and confidentiality
     agreements for a small business with a global ambition in order to fully support
     and safeguard KOO's brand strategy and eCommerce development.
 layout: project
