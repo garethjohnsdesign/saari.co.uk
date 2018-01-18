@@ -1,9 +1,8 @@
 ---
 title: Profile
 position: 2
-profile-text: We are a London-based digital strategy, marketing and brand development
-  consultancy delivering increased market awareness and growth for our clients alongside
-  advice on strategic business development.
+profile-text: London-based digital strategy, marketing, brand and business development
+  consultancy, delivering increased market awareness and growth for our clients.
 approach-text: "Most organisations and businesses are now faced with new challenges
   and opportunities relating directly to digital technologies. This development alters
   the dynamics of how internal resources are best conjoined with external teams in
