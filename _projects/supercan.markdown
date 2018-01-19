@@ -11,7 +11,7 @@ services:
 - Digital Marketing Strategy
 - Business Development
 - Digital Advertising
-- Growth hacking
+- Growth Hacking
 - Digital Strategy
 feature-image: "/uploads/supercan-feature.jpg"
 details:
