@@ -29,6 +29,14 @@ details:
     digital advertising and further team building. Auditing of existing digital marketing
     and advertising budgets with a 5 year view to the future. A happy client with
     a confidence to pursue their long term marketing strategy in 2018.
+testimonial:
+  text: Nikke's in depth understanding of the international brand and content marketing
+    paradigm helped us verify our plans, audit our current structure and come up with
+    a bag of creative ideas on how to approach our brand with a global audience in
+    mind. We defined our global customer against a local market strategies against
+    our 5 year plan. I would highly recommend Nikke for his experience, in depth understanding
+    of tech, software products and customer acquisition strategies.
+  cite: Sami Kivensalo - ZEF, COO
 layout: project
 ---
 
