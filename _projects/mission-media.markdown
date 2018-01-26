@@ -44,6 +44,17 @@ details:
     new business development.  Generation of direct digital business growth just short
     of 200% year on year with new digital product value (insights, consultancy & new
     partnerships) worth 70k in the first 9 months of operation.
+testimonial:
+  text: I hired Nikke to lead our digital strategy and direction for Mission Media.
+    His job was to develop our approach as a truly integrated creative communications
+    agency alongside new product development in digital marketing and insights.  Nikke
+    collaborated with all Mission teams working with everyone in order to develop
+    the company's overall strategy. He excelled in new business for the likes of Unilever
+    and Amazon alongside delivering successful campaigns for some of our biggest clients
+    and brands, including Allergan and Peroni. I would highly recommend Nikke for
+    his leadership skills and future-forward approach as well as for his progressive,
+    strategic thought processes as an effective marketeer for the communications business.
+  cite: Nicola Stephenson - Mission Media, Founder, Owner & CEO
 layout: project
 ---
 
