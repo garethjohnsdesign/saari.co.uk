@@ -7,7 +7,7 @@
 		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/404.md": {
 		"cB": 0,
@@ -246,6 +246,7 @@
 	"\/_uploads\/benjamin-clementine-feature-two.jpg": {
 		"ft": 16384,
 		"iS": 88206,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/benjamin-clementine-feature-two.jpg",
 		"oF": 0,
@@ -256,6 +257,7 @@
 	"\/_uploads\/benjamin-clementine-feature.jpg": {
 		"ft": 16384,
 		"iS": 106555,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/benjamin-clementine-feature.jpg",
 		"oF": 0,
@@ -266,6 +268,7 @@
 	"\/_uploads\/benjamin-clementine.jpg": {
 		"ft": 16384,
 		"iS": 63029,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/benjamin-clementine.jpg",
 		"oF": 0,
@@ -276,6 +279,7 @@
 	"\/_uploads\/contact.jpg": {
 		"ft": 16384,
 		"iS": 448137,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/contact.jpg",
 		"oF": 0,
@@ -286,6 +290,7 @@
 	"\/_uploads\/kingdom-of-origin-feature.jpg": {
 		"ft": 16384,
 		"iS": 82639,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/kingdom-of-origin-feature.jpg",
 		"oF": 0,
@@ -296,6 +301,7 @@
 	"\/_uploads\/kingdom-of-origin.jpg": {
 		"ft": 16384,
 		"iS": 133871,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/kingdom-of-origin.jpg",
 		"oF": 0,
@@ -306,6 +312,7 @@
 	"\/_uploads\/lapponia-jewelry-feature.jpg": {
 		"ft": 16384,
 		"iS": 160781,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/lapponia-jewelry-feature.jpg",
 		"oF": 0,
@@ -316,6 +323,7 @@
 	"\/_uploads\/lapponia-jewelry.jpg": {
 		"ft": 16384,
 		"iS": 138344,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/lapponia-jewelry.jpg",
 		"oF": 0,
@@ -326,6 +334,7 @@
 	"\/_uploads\/mission-media-feature.jpg": {
 		"ft": 16384,
 		"iS": 186267,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/mission-media-feature.jpg",
 		"oF": 0,
@@ -336,6 +345,7 @@
 	"\/_uploads\/mission-media.jpg": {
 		"ft": 16384,
 		"iS": 175759,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/mission-media.jpg",
 		"oF": 0,
@@ -346,6 +356,7 @@
 	"\/_uploads\/profile.jpg": {
 		"ft": 16384,
 		"iS": 295283,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/profile.jpg",
 		"oF": 0,
@@ -356,6 +367,7 @@
 	"\/_uploads\/supercan-feature.jpg": {
 		"ft": 16384,
 		"iS": 91161,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/supercan-feature.jpg",
 		"oF": 0,
@@ -366,6 +378,7 @@
 	"\/_uploads\/supercan-thumb.jpg": {
 		"ft": 16384,
 		"iS": 269439,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/supercan-thumb.jpg",
 		"oF": 0,
@@ -376,6 +389,7 @@
 	"\/_uploads\/supercan.jpg": {
 		"ft": 16384,
 		"iS": 93925,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/supercan.jpg",
 		"oF": 0,
@@ -386,6 +400,7 @@
 	"\/_uploads\/zef-feature.jpg": {
 		"ft": 16384,
 		"iS": 118952,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/zef-feature.jpg",
 		"oF": 0,
@@ -407,6 +422,7 @@
 	"\/_uploads\/zef.jpg": {
 		"ft": 16384,
 		"iS": 121419,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/zef.jpg",
 		"oF": 0,
@@ -7753,7 +7769,8 @@
 	"creationDate": 499792706,
 	"displayValue": "Saari",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "\/assets\/favicons\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -7761,6 +7778,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -8324,6 +8342,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -9551,6 +9573,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
