@@ -139,6 +139,13 @@
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
+	"\/_layouts\/details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/details.html",
+		"oF": 0
+		},
 	"\/_layouts\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -7649,6 +7656,24 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/privacy-policy.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/privacy-policy.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/profile.md": {
 		"cB": 0,
 		"cS": 0,
@@ -7720,6 +7745,24 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/services.md",
+		"oF": 1,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/terms.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/terms.md",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,

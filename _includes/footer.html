@@ -1,16 +1,19 @@
 <div class="footer row small-collapse expanded align-middle align-justify">
   
-  <div class="shrink columns align-middle">
+  <div class="shrink columns align-middle show-for-large">
     <ul class="menu align-middle">
       <li><a href="/" class="footer__title">{{site.title}}</a></li>
       {% for link in site.data.footer %}
-      <li class="show-for-large"><a href="{{link.url}}">{{link.title}}</a></li>
+      <li><a href="{{link.url}}">{{link.title}}</a></li>
       {% endfor %}
     </ul>
   </div>
   
   <div class="shrink columns">
-    <a href="{{site.colophon}}">Colophon</a>
+    <ul class="menu align-middle">
+      <li><a href="/privacy-policy">Privacy Policy</a></li>
+      <li><a href="/terms">Terms and Conditions</a></li>
+    </ul>
   </div>
   
 </div>
