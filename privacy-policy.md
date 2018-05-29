@@ -29,26 +29,44 @@ Uses made of the information - We use information held about you in the followin
 •	to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us;
 •	to provide you with information about other services we offer that are similar to those that you have already purchased or enquired about;
 •	to provide you, or permit selected third parties to provide you, with information about services we feel may be of interest you. If you are a new client, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this by submitting the contact form on our website;
+
 •	to notify you about changes to our service;
+
 •	to ensure that content from our site is presented in the most effective manner for you and for your computer. 
 •	Information we collect about you. We will use this information:
+
 •	to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+
 •	to improve our site to ensure that content is presented in the most effective manner for you and for your computer; 
+
 •	to allow you to participate in interactive features of our service, when you choose to do so;
 •	as part of our efforts to keep our site safe and secure;
+
 •	to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+
 •	to make suggestions and recommendations to you and other users of our site about services that may interest you or them.
+
 •	Information we receive from other sources. We will combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 Disclosure of your information
+
 You agree that we have the right to share your personal information with:
+
 •	Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
 •	Selected third parties including:
+
 •	business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
+
 •	advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. 
+
 •	analytics and search engine providers that assist us in the improvement and optimisation of our site;
+
 We will disclose your personal information to third parties:
+
 •	In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
+
 •	If Saari Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its clients will be one of the transferred assets.
+
 •	If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Saari Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 Where we store your personal data. The data that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). By submitting your personal data, you agree to this transfer, storing or processing. Saari Ltd will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
