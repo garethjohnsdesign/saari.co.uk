@@ -9,9 +9,15 @@ Saari Ltd ("We") are committed to protecting and respecting your privacy. This p
 
 Information we collect from you
 We will collect and process the following data about you:
-•	Information you give us. This is information about you that you give us by filling in forms on our site https://www.saari.co.uk (our site) or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number.
+
+•	Information you give us. This is information about you that you give us by filling in forms on our site https://www.saari.co.uk (our site) or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site and when you report a problem with our site. 
+
+The information you give us may include your name, address, e-mail address and phone number.
+
 •	Information we collect about you. With regard to each of your visits to our site, we will automatically collect the following information:
+
 •	technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; 
+
 •	information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page and any phone number used to call our customer service number. 
 
 Information we receive from other sources. This is information we receive about you if you use any of the other websites we operate or the other services we provide. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, advertising networks, analytics providers, search information providers, credit reference agencies). We will notify you if we receive information about you from them and the purposes for which we intend to use that information.
@@ -20,14 +26,21 @@ Cookies
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to use this website without changing your cookie settings, you are accepting and consenting to the use of cookies as set out in this cookies policy. Cookies are small pieces of data or text files that are stored by a website such as ours within your browser. Cookies are stored on your device for varying periods of time - from as short time as the duration of your browsing session to several months. Each time you return to the website, the browser retrieves and sends cookies to the server, which helps to improve your experience of the website by, for example, remembering settings and measuring overall use of the website so that we can see where we can make site improvements. You can manage and/or delete cookies from your device. However, please be aware that reducing cookie usage may limit the functionality and performance of the website and some features might not work as expected. You can change your cookie settings at any time using your web browser settings. To learn more about cookies and how to manage or remove them, please visit http://www.allaboutcookies.org/manage-cookies. To opt out of being tracked by Google Analytics for all websites, please visit http://tools.google.com/dlpage/gaoptout.
 
 We use the following cookies on our website:-
+
 •	Website functionality cookies - These cookies enable you to browse our website and use our features.
+
 •	Website analytics cookies - We use these cookies to measure and analyse how our customers use our website. This allows us to continuously improve our website.
+
 •	Targeting cookies or advertising cookies - These cookies are used to deliver adverts relevant to you. In addition, they limit the number of times you see an advertisement as well as helping us measure the effectiveness of our advertising campaigns. 
 
 Uses made of the information - We use information held about you in the following ways:
+
 •	Information you give to us. We will use this information:
+
 •	to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us;
+
 •	to provide you with information about other services we offer that are similar to those that you have already purchased or enquired about;
+
 •	to provide you, or permit selected third parties to provide you, with information about services we feel may be of interest you. If you are a new client, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this by submitting the contact form on our website;
 
 •	to notify you about changes to our service;
