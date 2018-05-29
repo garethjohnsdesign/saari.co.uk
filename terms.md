@@ -3,34 +3,46 @@ title: Terms and Conditions
 layout: details
 ---
 
-## Terms
-By accessing the website at saari.co.uk, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS SITE
 
-## Use License
-Permission is granted to temporarily download one copy of the materials (information or software) on Saari's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+What's in these terms?
+These terms tell you the rules for using our website https://saari.co.uk (our site). Who we are and how to contact us https://saari.co.uk is a site operated by Saari Ltd ("We"). We are a limited company registered in England and Wales under company number 08429902. We have our registered office at 15 Palace Street, Norwich, Norfolk, NR3 1RT. Our main trading address is 3rd Floor, 207 Regent Street, London, W1B 3HH. Our VAT number is 232 7947 90. To contact us, please email info@saari.co.uk. 
 
-1 — modify or copy the materials;
-2 — use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-3 — attempt to decompile or reverse engineer any software contained on Saari's website;
-4 — remove any copyright or other proprietary notations from the materials; or
-5 — transfer the materials to another person or “mirror” the materials on any other server.
+By using our site, you confirm that you accept these terms of use and that you agree to comply with them. If you do not agree to these terms, you must not use our site. We recommend that you print a copy of these terms for future reference. There are other terms that may apply to you. These terms of use refer to the following additional terms, which also apply to your use of our site:
 
-This license shall automatically terminate if you violate any of these restrictions and may be terminated by Saari at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+•	Our Privacy Policy: https://www.saari.co.uk/privacy-policy, which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using our site, you consent to such processing and you warrant that all data provided by you is accurate.
 
-## Disclaimer
-The materials on Saari's website are provided on an ‘as is’ basis. Saari makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Saari does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+•	Our Cookie Policy https://www.saari.co.uk/privacy-policy, which sets out information about the cookies on our site.
 
-## Limitations
-In no event shall Saari or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Saari's website, even if Saari or a Saari authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+We may make changes to these terms.  We amend these terms from time to time. Every time you wish to use our site, please check these terms to ensure you understand the terms that apply at that time. 
+We may make changes to our site. We may update and change our site from time to time to reflect changes to our services, our users' needs and our business priorities. We may suspend or withdraw our site Our site is made available free of charge.
+We do not guarantee that our site, or any content on it, will always be available or be uninterrupted. We may suspend or withdraw or restrict the availability of all or any part of our site for business and operational reasons. We will try to give you reasonable notice of any suspension or withdrawal. You are also responsible for ensuring that all persons who access our site through your internet connection are aware of these terms of use and other applicable terms and conditions, and that they comply with them.
+How you may use material on our site. We are the owner or the licensee of all intellectual property rights in our site, and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved. You may print off one copy, and may download extracts, of any page(s) from our site for your personal use and you may draw the attention of others within your organisation to content posted on our site. You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text. Our status (and that of any identified contributors) as the authors of content on our site must always be acknowledged. You must not use any part of the content on our site for commercial purposes without obtaining a licence to do so from us or our licensors. If you print off, copy or download any part of our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. Do not rely on information on this site
+The content on our site is provided for general information only. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site. Although we make reasonable efforts to update the information on our site, we make no representations, warranties or guarantees, whether express or implied, that the content on our site is accurate, complete or up to date. We are not responsible for websites we link to Where our site contains links to other sites and resources provided by third parties, these links are provided for your information only. Such links should not be interpreted as approval by us of those linked websites or information you may obtain from them.
+We have no control over the contents of those sites or resources. 
 
-## Accuracy of Materials
-The materials appearing on Saari's website could include technical, typographical, or photographic errors. Saari does not warrant that any of the materials on its website are accurate, complete or current. Saari may make changes to the materials contained on its website at any time without notice. However Saari does not make any commitment to update the materials.
+Our responsibility for loss or damage suffered by you. Whether you are a consumer or a business user:
 
-## Links
-Saari has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Saari of the site. Use of any such linked website is at the user’s own risk.
+•	We do not exclude or limit in any way our liability to you where it would be unlawful to do so. This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors and for fraud or fraudulent misrepresentation.
+If you are a business user:
 
-## Modifications
-Saari may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+•	We exclude all implied conditions, warranties, representations or other terms that may apply to our site or any content on it.
 
-## Governing Law
-These terms and conditions are governed by and construed in accordance with the laws of United Kingdom and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+•	We will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
+
+•	use of, or inability to use, our site; or
+•	use of or reliance on any content displayed on our site.
+
+•	In particular, we will not be liable for:
+•	loss of profits, sales, business, or revenue;
+•	business interruption;
+•	loss of anticipated savings;
+•	loss of business opportunity, goodwill or reputation; or
+•	any indirect or consequential loss or damage.
+
+We are not responsible for viruses and you must not introduce them. We do not guarantee that our site will be secure or free from bugs or viruses.
+You are responsible for configuring your information technology, computer programmes and platform to access our site. You should use your own virus protection software. You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.
+
+Which country's laws apply to any disputes?
+If you are a consumer, please note that these terms of use, their subject matter and their formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.
+If you are a business, these terms of use, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales.
