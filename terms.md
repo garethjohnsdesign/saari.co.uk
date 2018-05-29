@@ -3,7 +3,7 @@ title: Terms and Conditions
 layout: details
 ---
 
-PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS SITE
+PLEASE READ THESE TERMS AND CONDITIONS USING THIS WEBSITE
 
 What's in these terms?
 These terms tell you the rules for using our website https://saari.co.uk (our site). Who we are and how to contact us https://saari.co.uk is a site operated by Saari Ltd ("We"). We are a limited company registered in England and Wales under company number 08429902. We have our registered office at 15 Palace Street, Norwich, Norfolk, NR3 1RT. Our main trading address is 3rd Floor, 207 Regent Street, London, W1B 3HH. Our VAT number is 232 7947 90. To contact us, please email info@saari.co.uk. 
