@@ -37,6 +37,7 @@ description: London-based digital strategy, marketing, brand and business develo
 permalink: pretty
 exclude:
 - bower.json
+- Gemfile.lock
 - package.json
 - config.codekit3
 - README*
