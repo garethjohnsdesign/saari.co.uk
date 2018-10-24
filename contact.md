@@ -1,5 +1,6 @@
 ---
 title: Contact
+description:
 position: 4
 image: "/uploads/contact.jpg"
 enquiries:
