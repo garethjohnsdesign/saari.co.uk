@@ -17,6 +17,7 @@ defaults:
     type: projects
   values:
     image: 
+    description:
     lead: 
     is-featured: 
     is-hero: 
