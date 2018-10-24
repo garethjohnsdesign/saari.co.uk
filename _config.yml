@@ -17,6 +17,7 @@ defaults:
     type: projects
   values:
     image: 
+    description: 
     lead: 
     is-featured: 
     is-hero: 
@@ -31,12 +32,18 @@ defaults:
     testimonial:
       text: 
       cite: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    description: 
 url: https://www.saari.co.uk
 description: London-based digital strategy, marketing, brand and business development
   consultancy, delivering increased market awareness and growth for our clients.
 permalink: pretty
 exclude:
 - bower.json
+- Gemfile.lock
 - package.json
 - config.codekit3
 - README*

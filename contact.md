@@ -1,6 +1,7 @@
 ---
 title: Contact
 position: 4
+description: Contact us if you want to find out how we can help you business grow
 image: "/uploads/contact.jpg"
 enquiries:
 - title: New Business
