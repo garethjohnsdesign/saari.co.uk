@@ -13,7 +13,7 @@ collections:
     output: false
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: projects
   values:
     image: 
@@ -32,10 +32,10 @@ defaults:
       text: 
       cite: 
 - scope:
-      path: ""
-      type: "pages"
-    values:
-      description: ""
+    path: ''
+    type: pages
+  values:
+    description: 
 url: https://www.saari.co.uk
 description: London-based digital strategy, marketing, brand and business development
   consultancy, delivering increased market awareness and growth for our clients.
