@@ -1,7 +1,7 @@
 ---
 title: Contact
-description:
 position: 4
+description: 
 image: "/uploads/contact.jpg"
 enquiries:
 - title: New Business
