@@ -14,8 +14,8 @@ enquiries:
   name: 
   email: info@saari.co.uk
 address-text: |-
-  207 Regent Street
-  <br>W1B 3HH
+  92 Lots Road
+  <br>SW10 0QD
   <br>London
   <br>UK
 additional:
