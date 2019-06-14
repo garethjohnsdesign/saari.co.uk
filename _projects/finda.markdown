@@ -16,7 +16,7 @@ feature-image: "/uploads/FindaBanner.jpg"
 details:
 - title: Brief
   text: 'Saari were hired to produce content strategy, strategic concepts and website
-    content writing for FINDA, a revolutionary fashion model booking platform. Saari
+    content writing for FINDA, a revolutionary fashion model-booking platform. Saari
     were engaged to create inspirational copy to increase FINDA’s reach and services,
     grow trust and understanding in the market -place and to build an online digital
     presence to enable FINDA to stand apart in their sector. '
