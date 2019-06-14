@@ -8,11 +8,11 @@ lead: Strategic work for a leading Nordic software company, auditing client  bra
   workforce, infrastructure and KPI’s.
 is-featured: false
 services:
-- Strategy
-- 'Workshops '
-- Growth Hacking
-- Digital Marketing
 - Training and Development
+- Digital Marketing
+- Growth Hacking
+- 'Workshops '
+- Strategy
 feature-image: "/uploads/zef-feature.jpg"
 details:
 - title: Brief
