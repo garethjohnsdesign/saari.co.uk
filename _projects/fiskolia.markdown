@@ -15,7 +15,7 @@ services:
 - Consulting
 - Brands
 - FMCG
-feature-image: "/uploads/Fiskolia%20Banner.jpg"
+feature-image: "/uploads/FiskoliaBanner1.jpg"
 details:
 - title: Brief
   text: "FISKOLíA defines a healthy mindset and a positive attitude towards life.
