@@ -9,9 +9,9 @@ lead: A comprehensive legal framework including confidentiality agreements, term
 is-featured: true
 is-hero: true
 services:
-- Strategy
-- Digital Law
 - Digital Transformation
+- Digital Law
+- Strategy
 feature-image: "/uploads/kingdom-of-origin-feature.jpg"
 details:
 - title: Brief
