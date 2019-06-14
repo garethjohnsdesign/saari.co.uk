@@ -7,15 +7,15 @@ lead: 'Content marketing, influencer marketing, digital advertising, strategy co
 is-featured: true
 is-hero: true
 services:
-- Creative Marketing
-- Digital Strategy
-- Channel Strategy
-- Digital Advertising
 - Influencer Marketing
+- Creative Marketing
+- Digital Advertising
+- Channel Strategy
+- Digital Strategy
 - Consulting
 - Brands
 - FMCG
-feature-image: "/uploads/FiskoliaBanner1.jpg"
+feature-image: "/uploads/FiskoliaBanner2.jpg"
 details:
 - title: Brief
   text: "FISKOLíA defines a healthy mindset and a positive attitude towards life.
