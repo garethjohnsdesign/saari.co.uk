@@ -7,9 +7,9 @@ lead: Digital strategy, creative content writing and digital innovation for fash
 is-featured: true
 is-hero: true
 services:
-- Copywriting
-- Creative Marketing
 - Fashion and Brands
+- Creative Marketing
+- Copywriting
 - Startups
 - 
 feature-image: "/uploads/FindaBanner.jpg"
