@@ -1,7 +1,7 @@
 ---
 title: Compusoft Group
 date: 2019-06-17 11:50:00 Z
-image: "/uploads/CSG%20photo.jpg"
+image: "/uploads/csg.png"
 lead: A comprehensive and modern multilingual website solution for a leading global
   Enterprise. Designed to service an international marketing workforce, a diverse
   set of clients, partners and software users. Setting forth an agile approach for
@@ -16,7 +16,7 @@ services:
 - Software Development
 - Salesforce
 - Digital Transformation
-feature-image: "/uploads/csg.png"
+feature-image: "/uploads/CSG%20photo.jpg"
 details:
 - title: Brief
   text: "Compusoft Group are one of the fastest-growing global kitchen and bathroom
