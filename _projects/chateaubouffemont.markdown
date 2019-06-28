@@ -1,5 +1,5 @@
 ---
-title: chateaubouffemont
+title: Chateau Bouffemont
 date: 2019-06-28 11:06:00 Z
 image: "/uploads/chateaubouffemontproject.jpg"
 lead: 'Content ideation, curation and creative copywriting for luxury 19th century
