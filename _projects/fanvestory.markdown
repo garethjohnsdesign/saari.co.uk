@@ -13,7 +13,7 @@ services:
 - Start-Ups
 - Advisory
 - Tech
-feature-image: "/uploads/WhatsApp%20Image%202019-06-28%20at%2014.44.21.jpeg"
+feature-image: "/uploads/FanvestoryDeckNikke_3Aug18.001.jpeg"
 details:
 - title: Brief
   text: Saari were approached by Fanvestory, a crowd-funding platform pioneering an
