@@ -1,7 +1,7 @@
 ---
 title: Chateau Bouffemont
 date: 2019-06-28 11:06:00 Z
-image: "/uploads/chateaubouffemontproject-18bd21.jpg"
+image: "/uploads/chateaubouffemontproject-ff4915.jpg"
 lead: 'Content ideation, curation and creative copywriting for luxury 19th century
   château in France, Château Bouffémont. '
 is-featured: true
