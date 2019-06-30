@@ -1,7 +1,7 @@
 ---
 title: ZEF
 date: 2013-03-04 00:00:00 Z
-position: 2
+position: 9
 image: "/uploads/zef-thumb.png"
 lead: Strategic work for a leading Nordic software company, auditing client  brand
   framework defining principles for internal team structure, digital law and marketing
