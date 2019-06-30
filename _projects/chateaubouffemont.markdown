@@ -5,7 +5,7 @@ image: "/uploads/chateaubouffemontproject-ff4915.jpg"
 lead: 'Content ideation, curation and creative copywriting for luxury 19th century
   château in France, Château Bouffémont. '
 is-featured: false
-is-hero: true
+is-hero: false
 services:
 - Creative Copywriting
 - Content Marketing
