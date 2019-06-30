@@ -1,7 +1,7 @@
 ---
 title: FISKOLíA
 date: 2019-06-14 12:38:00 Z
-position: 6
+position: 4
 image: "/uploads/fiskoliahomepage.jpg"
 lead: 'Content marketing, influencer marketing, digital advertising, strategy consulting
   and branding for sustainable fish oil company, FISKOLíA. '

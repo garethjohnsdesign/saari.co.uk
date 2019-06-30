@@ -1,7 +1,7 @@
 ---
 title: FINDA
 date: 2019-06-13 13:27:00 Z
-position: 4
+position: 3
 image: "/uploads/FindaShoeMainPage.jpg"
 lead: Digital strategy, creative content writing and digital innovation for fashion,
   model-booking platform, FINDA.
