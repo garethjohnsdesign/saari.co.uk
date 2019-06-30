@@ -4,7 +4,7 @@ date: 2019-06-28 14:10:00 Z
 image: "/uploads/IMG_3154.JPG"
 lead: Advisory and business development services for crowd-funding, micro-licensing
   platform, Fanvestory.
-is-featured: true
+is-featured: false
 is-hero: true
 services:
 - Business Development
