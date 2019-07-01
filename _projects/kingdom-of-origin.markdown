@@ -1,7 +1,7 @@
 ---
 title: Kingdom of Origin
 date: 2013-03-04 00:00:00 Z
-position: 3
+position: 5
 image: "/uploads/kingdom-of-origin.jpg"
 lead: A comprehensive legal framework including confidentiality agreements, terms
   & conditions of service and privacy policies for a brand new children’s apparel
@@ -9,9 +9,9 @@ lead: A comprehensive legal framework including confidentiality agreements, term
 is-featured: true
 is-hero: true
 services:
-- Strategy
-- Digital Law
 - Digital Transformation
+- Digital Law
+- Strategy
 feature-image: "/uploads/kingdom-of-origin-feature.jpg"
 details:
 - title: Brief

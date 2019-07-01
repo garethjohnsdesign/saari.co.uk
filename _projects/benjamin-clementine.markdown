@@ -1,6 +1,6 @@
 ---
 title: Benjamin Clementine with Burberry
-date: 2013-03-04 00:00:00 Z
+date: 2019-06-30 00:00:00 Z
 position: 0
 image: "/uploads/benjamin-clementine.jpg"
 lead: Strategic brand activation, original content production and an international

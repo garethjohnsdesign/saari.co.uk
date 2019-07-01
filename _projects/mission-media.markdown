@@ -1,7 +1,7 @@
 ---
 title: Mission Media
 date: 2013-03-04 00:00:00 Z
-position: 4
+position: 2
 image: "/uploads/mission-media.jpg"
 lead: Developing and implementing a digital ecosystem and marketing operation for
   a leading international media business on a global scale. Managing digital teams
