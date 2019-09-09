@@ -2,7 +2,7 @@
 title: Fanvestory
 date: 2019-06-28 14:10:00 Z
 position: 7
-image: "/uploads/IMG_3154.JPG"
+image: "/uploads/Untitled-1-582768.jpg"
 lead: Advisory and business development services for crowd-funding, micro-licensing
   platform, Fanvestory.
 is-featured: false
