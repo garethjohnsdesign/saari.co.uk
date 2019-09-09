@@ -2,7 +2,7 @@
 title: Compusoft Group
 date: 2019-06-17 11:50:00 Z
 position: 6
-image: "/uploads/compusoft-3aa1f5.jpg"
+image: "/uploads/compusoft-b2ad4a.jpg"
 lead: A comprehensive and modern multilingual website solution for a leading global
   Enterprise. Designed to service an international marketing workforce, a diverse
   set of clients, partners and software users. Setting forth an agile approach for
