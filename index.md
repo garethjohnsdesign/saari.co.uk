@@ -1,6 +1,7 @@
 ---
 title: Saari
 position: 0
+description: test
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/hero.jpg"
 about-text: London-based digital strategy, marketing, brand and business development
