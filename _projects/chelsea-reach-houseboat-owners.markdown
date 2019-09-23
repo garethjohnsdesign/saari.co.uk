@@ -25,6 +25,13 @@ tags:
 - community project
 - property development
 image: "/uploads/chelseaboat2.jpeg"
+services:
+- Engagement
+- Content strategy
+- Digital planning
+- 'Content creation '
+- Channel strategy
+- Consulting
 feature-image: "/uploads/chelseaboat%20header.jpg"
 details:
 - title: Brief
