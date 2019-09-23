@@ -1,6 +1,22 @@
 ---
 title: FINDA
 date: 2019-06-13 13:27:00 Z
+categories:
+- fashion
+- creative content writing
+- digital strategy
+- content strategy
+- finda
+tags:
+- Fashion
+- Model
+- Modelling
+- Bookings
+- Startup
+- Tech
+- Modelpreneur
+- Platform
+- finda
 position: 3
 image: "/uploads/finda.jpg"
 lead: Digital strategy, creative content writing and digital innovation for fashion,

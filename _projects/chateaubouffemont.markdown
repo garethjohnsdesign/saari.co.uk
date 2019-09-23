@@ -1,6 +1,26 @@
 ---
 title: Chateau Bouffemont
 date: 2019-06-28 11:06:00 Z
+categories:
+- Creative Copywriting
+- Content Marketing
+- Luxury Hospitality
+- Travel & Tourism
+- SEO
+tags:
+- Montmorency Forest
+- Paris
+- Private stay
+- Weddings
+- Events
+- Manor
+- Luxury
+- Suites
+- Gatherings
+- Venue
+- chateau bouffemont
+- travel & tourism
+- luxury hospitality
 position: 8
 image: "/uploads/chateau-630557.jpg"
 lead: 'Content ideation, curation and creative copywriting for luxury 19th century

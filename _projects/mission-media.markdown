@@ -1,6 +1,30 @@
 ---
 title: Mission Media
 date: 2013-03-04 00:00:00 Z
+categories:
+- New product development
+- Digital Transformation
+- Brand Marketing
+- Strategy
+- Insights
+- Digital revenue stream
+- new business growth models
+- Restructure
+- publicity
+- red carpet events
+tags:
+- Marketing
+- Digital Marketing
+- Media
+- mission media
+- amazon
+- redbull
+- matalan
+- tiffany
+- lvmh
+- fossil
+- saabmiller
+- red bull
 position: 2
 image: "/uploads/mission-media.jpg"
 lead: Developing and implementing a digital ecosystem and marketing operation for

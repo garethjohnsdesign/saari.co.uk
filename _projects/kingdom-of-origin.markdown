@@ -1,6 +1,29 @@
 ---
 title: Kingdom of Origin
 date: 2013-03-04 00:00:00 Z
+categories:
+- Digital Law
+- Strategy
+- Digital Transformation
+- Legal Framework
+- Terms and Conditions
+- Privacy
+- Cookies
+- Policies
+- Confidentiality Agreement
+tags:
+- eCommerce
+- Apparel
+- Children
+- Clothing
+- Luxury
+- Fashion
+- Sustainable
+- Girls wear
+- British
+- Ethical
+- Design
+- kingdom of origin
 position: 5
 image: "/uploads/kingdom-of-origin.jpg"
 lead: A comprehensive legal framework including confidentiality agreements, terms

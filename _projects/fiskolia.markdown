@@ -1,6 +1,28 @@
 ---
 title: FISKOLíA
 date: 2019-06-14 12:38:00 Z
+categories:
+- Influencer Marketing
+- Creative Marketing
+- Digital Advertising
+- Channel Strategy
+- Digital Strategy
+- Consulting
+- Brands
+- FMCG
+tags:
+- Health
+- Wellbeing
+- Vitamins
+- Iceland
+- Fish oil
+- Supplements
+- Omega-3
+- Herring
+- Natural
+- Sustainable
+- fiskolia
+- fmcg
 position: 4
 image: "/uploads/fiskoliahomepage.jpg"
 lead: 'Content marketing, influencer marketing, digital advertising, strategy consulting

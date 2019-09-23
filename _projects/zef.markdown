@@ -1,6 +1,21 @@
 ---
 title: ZEF
 date: 2013-03-04 00:00:00 Z
+categories:
+- Training and Development
+- Digital Marketing
+- Growth Hacking
+- Workshops
+- Strategy
+- Brand Positioning
+tags:
+- Nordic
+- Norway
+- Software
+- Tech
+- Deliver
+- Audit
+- zef
 position: 9
 image: "/uploads/zef-thumb.png"
 lead: Strategic work for a leading Nordic software company, auditing client  brand

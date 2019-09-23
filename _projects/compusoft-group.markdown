@@ -1,6 +1,22 @@
 ---
 title: Compusoft Group
 date: 2019-06-17 11:50:00 Z
+categories:
+- Web Development
+- Digital Strategy
+- Wordpress for Enterprise
+- Enterprise
+- Software Development
+- Salesforce
+- Digital Transformation
+tags:
+- Kitchen
+- Bathroom
+- Software
+- Design
+- Refurbishment
+- Tech
+- compusoft
 position: 6
 image: "/uploads/compusoft-b2ad4a.jpg"
 lead: A comprehensive and modern multilingual website solution for a leading global
