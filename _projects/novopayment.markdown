@@ -1,5 +1,5 @@
 ---
-title: Novapayment
+title: Novopayment
 date: 2019-09-23 13:27:00 Z
 categories:
 - Fintech
@@ -13,8 +13,8 @@ tags:
 - Digital
 - finance
 - transactional service
-- novapayment
 - fintech
+- novopayment
 image: "/uploads/novapayment%20project%20pic.jpg"
 lead: 'Keyword research, analysis and SEO optimisation project for a leading Miami-based
   fintech business. '
