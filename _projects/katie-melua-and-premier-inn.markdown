@@ -1,7 +1,6 @@
 ---
 title: Katie Melua & Premier Inn
 date: 2019-09-23 13:54:00 Z
-published: false
 categories:
 - Brands
 - digital strategy
@@ -18,7 +17,7 @@ tags:
 - tv
 - artist
 - international
-image: "/uploads/katie%20meula%20premier%20inn%20project%20image%20cropped.jpg"
+image: "/uploads/katie%20meula%20premier%20inn%20project%20image%20cropped%20(1)%20copy.jpg"
 lead: Brand activation, digital strategy, original content, international brand activation
   campaign for a leading international artist and Premier Inn.
 feature-image: "/uploads/katiemeluaheader.png"
