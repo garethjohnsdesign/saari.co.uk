@@ -1,7 +1,28 @@
 ---
 title: Tiny Changes
 date: 2019-09-30 10:34:00 Z
+categories:
+- Website design
+- marketing strategy
+- content marketing
+- social media
+- online community
+- multi-channel content
+tags:
+- charity
+- tiny changes
+- frightened rabbit
+- scott hutchison
+- wordpress
+- website
+- mental health
+- awareness
+- young people
+- children
+- scottish
 image: "/uploads/tiny%20changes%20project%20image%20temporary%20copy.jpg"
+lead: Designing and developing Tiny Changes website and multi-channel content marketing
+  strategy for a fast-growing Scottish mental health charity.
 services:
 - Website Design
 - Marketing Strategy
