@@ -1,7 +1,6 @@
 ---
 title: Katie Melua & Premier Inn
 date: 2019-09-23 13:54:00 Z
-published: false
 categories:
 - Brands
 - digital strategy

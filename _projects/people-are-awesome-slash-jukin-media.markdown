@@ -1,7 +1,6 @@
 ---
 title: People Are Awesome / Jukin Media
 date: 2019-09-23 14:05:00 Z
-published: false
 categories:
 - Digital strategy
 - digital marketing
