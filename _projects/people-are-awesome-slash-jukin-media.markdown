@@ -19,8 +19,10 @@ tags:
 - youtuber
 - people are awesome
 - jukin media
+image: "/uploads/people-are-awesome%20project%20image%20copy.jpg"
 lead: 'Digital strategy, setup and online brand development for a leading short-form
   video content provider People Are Awesome. '
+feature-image: "/uploads/people%20are%20awesome%20header.jpg"
 details:
 - title: Brief
   text: 'Saari were tasked to outline a marketing strategy and plan for People Are
