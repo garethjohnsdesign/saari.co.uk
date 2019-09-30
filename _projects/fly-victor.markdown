@@ -22,14 +22,12 @@ tags:
 - beyond offset
 - climate action
 image: "/uploads/fly%20victor%20project%20image.jpg"
-lead: Social media advertising and lead generation for an award-winning leader in
-  private air charter, flight management and environmentalism, Fly Victor. Fly Victor
-  is a leading on-demand B2C jet charter platform ranked in the Sunday Times Tech
-  Track 100 for 4 consecutive years and the Deloitte UK Tech Fast 50 for 2. Saari
-  were employed to campaign and deliver vetted lead generation and to demonstrate
-  that social media has a place in the digital advertising space for delivering sales,
+lead: 'Social media advertising and lead generation for an award-winning leader in
+  private air charter, flight management and environmentalism, Fly Victor. Saari were
+  employed to campaign and deliver vetted lead generation and to demonstrate that
+  social media has a place in the digital advertising space for delivering sales,
   scaling new business opportunities and amplifying their voices in the luxury aviation
-  industry. Technical delivery of tracking to salesforce for API vetted leads.
+  industry. '
 services:
 - Digital advertising
 - Social Media Advertising
