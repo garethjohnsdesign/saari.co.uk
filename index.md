@@ -1,7 +1,8 @@
 ---
 title: Saari
 position: 0
-description: test
+description: London-based digital strategy, marketing, brand and business development
+  consultancy, delivering increased market awareness and growth for our clients.
 image: "/assets/img/og-image.png"
 hero-image: "/uploads/hero.jpg"
 about-text: London-based digital strategy, marketing, brand and business development
