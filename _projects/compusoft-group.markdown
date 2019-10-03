@@ -17,7 +17,7 @@ tags:
 - Refurbishment
 - Tech
 - compusoft
-position: 6
+position: 12
 image: "/uploads/compusoft-b2ad4a.jpg"
 lead: A comprehensive and modern multilingual website solution for a leading global
   Enterprise. Designed to service an international marketing workforce, a diverse

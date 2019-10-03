@@ -18,6 +18,7 @@ tags:
 - tv
 - artist
 - international
+position: 4
 image: "/uploads/katie%20meula%20premier%20inn%20project%20image%20cropped%20(1)%20copy.jpg"
 lead: Brand activation, digital strategy, original content, international brand activation
   campaign for a leading international artist and Premier Inn.

@@ -24,6 +24,7 @@ tags:
 - borough of kensington and chelsea
 - community project
 - property development
+position: 2
 image: "/uploads/CRBAprojectimage.jpg"
 services:
 - Engagement

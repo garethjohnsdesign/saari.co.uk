@@ -16,7 +16,7 @@ tags:
 - Deliver
 - Audit
 - zef
-position: 9
+position: 15
 image: "/uploads/zef-thumb.png"
 lead: Strategic work for a leading Nordic software company, auditing client  brand
   framework defining principles for internal team structure, digital law and marketing

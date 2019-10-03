@@ -19,6 +19,7 @@ tags:
 - youtuber
 - people are awesome
 - jukin media
+position: 1
 image: "/uploads/people-are-awesome%20project%20image%20copy.jpg"
 lead: 'Digital strategy, setup and online brand development for a leading short-form
   video content provider People Are Awesome. '

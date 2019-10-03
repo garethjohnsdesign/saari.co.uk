@@ -15,7 +15,7 @@ tags:
 - investing
 - Tech
 - fanvestory
-position: 7
+position: 13
 image: "/uploads/fanvestory-e9b874.jpg"
 lead: Advisory and business development services for crowd-funding, micro-licensing
   platform, Fanvestory.

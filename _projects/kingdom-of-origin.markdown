@@ -24,7 +24,7 @@ tags:
 - Ethical
 - Design
 - kingdom of origin
-position: 5
+position: 11
 image: "/uploads/kingdom-of-origin.jpg"
 lead: A comprehensive legal framework including confidentiality agreements, terms
   & conditions of service and privacy policies for a brand new children’s apparel

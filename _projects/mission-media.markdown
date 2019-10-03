@@ -25,7 +25,7 @@ tags:
 - fossil
 - saabmiller
 - red bull
-position: 2
+position: 8
 image: "/uploads/mission-media.jpg"
 lead: Developing and implementing a digital ecosystem and marketing operation for
   a leading international media business on a global scale. Managing digital teams

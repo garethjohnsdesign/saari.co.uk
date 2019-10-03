@@ -23,7 +23,7 @@ tags:
 - Sustainable
 - fiskolia
 - fmcg
-position: 4
+position: 10
 image: "/uploads/fiskoliahomepage.jpg"
 lead: 'Content marketing, influencer marketing, digital advertising, strategy consulting
   and branding for sustainable fish oil company, FISKOLíA. '
