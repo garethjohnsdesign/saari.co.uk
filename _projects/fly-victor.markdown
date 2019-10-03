@@ -23,12 +23,10 @@ tags:
 - climate action
 position: 5
 image: "/uploads/fly%20victor%20project%20image.jpg"
+description: 'Social media advertising and lead generation for an award-winning leader
+  in private air charter, flight management and environmentalism, Fly Victor. '
 lead: 'Social media advertising and lead generation for an award-winning leader in
-  private air charter, flight management and environmentalism, Fly Victor. Saari were
-  employed to campaign and deliver vetted lead generation and to demonstrate that
-  social media has a place in the digital advertising space for delivering sales,
-  scaling new business opportunities and amplifying their voices in the luxury aviation
-  industry. '
+  private air charter, flight management and environmentalism, Fly Victor. '
 services:
 - Digital advertising
 - Social Media Advertising

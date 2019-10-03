@@ -25,4 +25,3 @@ Digital agency: Digital marketing
 layout: index
 ---
 
-London-based digital strategy, marketing, brand and business development consultancy, delivering increased market awareness and growth for our clients.

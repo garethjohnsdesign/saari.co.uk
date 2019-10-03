@@ -17,6 +17,8 @@ tags:
 - fanvestory
 position: 13
 image: "/uploads/fanvestory-e9b874.jpg"
+description: Advisory and business development services for crowd-funding, micro-licensing
+  platform, Fanvestory.
 lead: Advisory and business development services for crowd-funding, micro-licensing
   platform, Fanvestory.
 is-featured: false

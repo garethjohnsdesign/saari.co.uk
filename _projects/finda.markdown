@@ -19,6 +19,8 @@ tags:
 - finda
 position: 9
 image: "/uploads/finda.jpg"
+description: Digital strategy, creative content writing and digital innovation for
+  fashion, model-booking platform, FINDA.
 lead: Digital strategy, creative content writing and digital innovation for fashion,
   model-booking platform, FINDA.
 is-featured: true

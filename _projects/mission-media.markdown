@@ -27,6 +27,9 @@ tags:
 - red bull
 position: 8
 image: "/uploads/mission-media.jpg"
+description: Developing and implementing a digital ecosystem and marketing operation
+  for a leading international media business on a global scale. Managing digital teams
+  and launching innovative products to accomplish exponential digital business growth.
 lead: Developing and implementing a digital ecosystem and marketing operation for
   a leading international media business on a global scale. Managing digital teams
   and launching innovative products to accomplish exponential digital business growth.

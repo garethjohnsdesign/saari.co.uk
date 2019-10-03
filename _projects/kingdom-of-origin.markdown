@@ -26,6 +26,9 @@ tags:
 - kingdom of origin
 position: 11
 image: "/uploads/kingdom-of-origin.jpg"
+description: A comprehensive legal framework including confidentiality agreements,
+  terms & conditions of service and privacy policies for a brand new children’s apparel
+  brand and eCommerce proposition.
 lead: A comprehensive legal framework including confidentiality agreements, terms
   & conditions of service and privacy policies for a brand new children’s apparel
   brand and eCommerce proposition.

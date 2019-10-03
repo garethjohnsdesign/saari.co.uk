@@ -26,6 +26,11 @@ tags:
 - property development
 position: 2
 image: "/uploads/CRBAprojectimage.jpg"
+description: Producing a multi-platform content strategy and increasing awareness
+  for the Chelsea Reach Houseboat Owners, a community of houseboat owners fighting
+  eviction.
+lead: Produce multi-platform content strategy and increase awareness for the Chelsea
+  Reach Houseboat Owners campaign.
 services:
 - Engagement
 - Content strategy

@@ -21,6 +21,9 @@ tags:
 - supercan
 position: 16
 image: "/uploads/supercan.jpg"
+description: A brand new tech startup operating in the messenger space, Saari were
+  employed to define client B2B and B2C customer acquisition strategies alongside
+  wider business development and strategic business consultancy.
 lead: A brand new tech startup operating in the messenger space, Saari were employed
   to define client B2B and B2C customer acquisition strategies alongside wider business
   development and strategic business consultancy.

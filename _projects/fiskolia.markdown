@@ -25,6 +25,8 @@ tags:
 - fmcg
 position: 10
 image: "/uploads/fiskoliahomepage.jpg"
+description: 'Content marketing, influencer marketing, digital advertising, strategy
+  consulting and branding for sustainable fish oil company, FISKOLíA. '
 lead: 'Content marketing, influencer marketing, digital advertising, strategy consulting
   and branding for sustainable fish oil company, FISKOLíA. '
 is-featured: true

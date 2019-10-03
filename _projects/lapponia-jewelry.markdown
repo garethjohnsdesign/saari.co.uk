@@ -21,6 +21,8 @@ tags:
 - kalevala group
 position: 7
 image: "/uploads/lapponia-jewelry.jpg"
+description: International multichannel and digital marketing strategy for a leading
+  Nordic jewellery brand.
 lead: International multichannel and digital marketing strategy for a leading Nordic
   jewellery brand.
 is-featured: true

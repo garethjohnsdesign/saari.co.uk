@@ -18,6 +18,9 @@ tags:
 - zef
 position: 15
 image: "/uploads/zef-thumb.png"
+description: Strategic work for a leading Nordic software company, auditing client  brand
+  framework defining principles for internal team structure, digital law and marketing
+  workforce, infrastructure and KPI’s.
 lead: Strategic work for a leading Nordic software company, auditing client  brand
   framework defining principles for internal team structure, digital law and marketing
   workforce, infrastructure and KPI’s.

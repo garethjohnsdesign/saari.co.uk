@@ -19,6 +19,10 @@ tags:
 - compusoft
 position: 12
 image: "/uploads/compusoft-b2ad4a.jpg"
+description: A comprehensive and modern multilingual website solution for a leading
+  global Enterprise. Designed to service an international marketing workforce, a diverse
+  set of clients, partners and software users. Setting forth an agile approach for
+  a market leader.
 lead: A comprehensive and modern multilingual website solution for a leading global
   Enterprise. Designed to service an international marketing workforce, a diverse
   set of clients, partners and software users. Setting forth an agile approach for

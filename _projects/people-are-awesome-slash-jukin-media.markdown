@@ -21,6 +21,8 @@ tags:
 - jukin media
 position: 1
 image: "/uploads/people-are-awesome%20project%20image%20copy.jpg"
+description: 'Digital strategy, setup and online brand development for a leading short-form
+  video content provider People Are Awesome. '
 lead: 'Digital strategy, setup and online brand development for a leading short-form
   video content provider People Are Awesome. '
 feature-image: "/uploads/people%20are%20awesome%20header.jpg"
