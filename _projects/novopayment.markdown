@@ -30,7 +30,7 @@ services:
 - B2B
 - Websites
 - API
-feature-image: "/uploads/760536160_640.jpg"
+feature-image: "/uploads/0.jpeg"
 details:
 - title: 'Brief:'
   text: Novopayment required a clear path to optimise their website and content marketing
