@@ -25,7 +25,7 @@ tags:
 - New York
 - Catwalk
 position: 0
-image: "/uploads/benjamin-clementine.jpg"
+image: "/uploads/Jewel%20Paymentech%202.jpg"
 description: Strategic brand activation, original content production and an international
   marketing campaign for a Mercury Prize winning artist Benjamin Clementine and a
   leading British fashion brand Burberry.
