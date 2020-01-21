@@ -1,6 +1,7 @@
 ---
 title: Fanvestory
 date: 2019-06-28 14:10:00 Z
+published: false
 categories:
 - Business development
 - starts-ups
