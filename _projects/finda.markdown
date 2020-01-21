@@ -17,7 +17,7 @@ tags:
 - Modelpreneur
 - Platform
 - finda
-position: 9
+position: 10
 image: "/uploads/finda.jpg"
 description: Digital strategy, creative content writing and digital innovation for
   fashion, model-booking platform, FINDA.

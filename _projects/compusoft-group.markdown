@@ -17,7 +17,7 @@ tags:
 - Refurbishment
 - Tech
 - compusoft
-position: 12
+position: 13
 image: "/uploads/compusoft-b2ad4a.jpg"
 description: A comprehensive and modern multilingual website solution for a leading
   global Enterprise. Designed to service an international marketing workforce, a diverse

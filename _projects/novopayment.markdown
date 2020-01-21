@@ -15,7 +15,7 @@ tags:
 - transactional service
 - fintech
 - novopayment
-position: 3
+position: 6
 image: "/uploads/novapayment%20project%20pic.jpg"
 description: 'Keyword research, analysis and SEO optimisation project for a leading
   Miami-based fintech business. '

@@ -19,7 +19,7 @@ tags:
 - Brand Positioning
 - lapponia
 - kalevala group
-position: 7
+position: 5
 image: "/uploads/lapponia-jewelry.jpg"
 description: International multichannel and digital marketing strategy for a leading
   Nordic jewellery brand.

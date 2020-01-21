@@ -27,6 +27,7 @@ tags:
 - security
 - end to end
 - data
+position: 1
 image: "/uploads/jewelpaymentech.jpg"
 description: Channel & digital communications strategy for a leading Fintech business
   based in Singapore. Defining specific content pillars and channel relevancy for

@@ -19,7 +19,7 @@ tags:
 - App
 - Techstars 2017
 - supercan
-position: 16
+position: 17
 image: "/uploads/supercan.jpg"
 description: A brand new tech startup operating in the messenger space, Saari were
   employed to define client B2B and B2C customer acquisition strategies alongside

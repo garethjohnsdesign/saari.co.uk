@@ -21,7 +21,7 @@ tags:
 - chateau bouffemont
 - travel & tourism
 - luxury hospitality
-position: 14
+position: 15
 image: "/uploads/chateau-630557.jpg"
 description: 'Content ideation, curation and creative copywriting for luxury 19th
   century château in France, Château Bouffémont. '
