@@ -1,6 +1,21 @@
 ---
 title: More2Screen
 date: 2020-01-21 11:29:00 Z
+categories:
+- Digital marketing
+- Digital advertising
+- social media advertising
+- Live music
+- Cinema
+tags:
+- Cinema
+- Soft Cell
+- More2Screen
+- O2
+- Europe
+- live
+- streaming
+- live streaming
 image: "/uploads/more2screen1.jpeg"
 description: Digital advertising for More2Screen, a specialist in world-class events,
   in order to promote an international cinema screening of Soft Cell live at the O2.
@@ -8,6 +23,12 @@ description: Digital advertising for More2Screen, a specialist in world-class ev
   Soft Cell content marketing in order to maximise the reach of a major live screening
   event.
 lead: 'Digital Advertising to international markets. '
+services:
+- Localised digital advertising
+- International markets (North America, Europe)
+- Social Media Advertising
+- Salesforce Integration
+- Digital Platforms
 feature-image: "/uploads/softcell.png"
 details:
 - title: Brief
