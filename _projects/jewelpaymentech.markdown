@@ -27,7 +27,7 @@ tags:
 - security
 - end to end
 - data
-image: "/uploads/jewelpaymentech1.jpg"
+image: "/uploads/jewelpaymentech.jpg"
 description: Channel & digital communications strategy for a leading Fintech business
   based in Singapore. Defining specific content pillars and channel relevancy for
   B2B and B2C communications to align with JPT media strategy. Content recommendations
@@ -48,7 +48,6 @@ services:
 - Communications strategy
 - Insights
 - Content strategy
-feature-image: "/uploads/jewelpaymentech2-991a85.jpg"
 details:
 - title: Brief
   text: Saari were engaged by this leading Fintech business to develop a company-wide
