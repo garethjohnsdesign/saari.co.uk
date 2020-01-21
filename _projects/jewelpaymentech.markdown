@@ -27,7 +27,7 @@ tags:
 - security
 - end to end
 - data
-image: "/uploads/Jewel%20Paymentech%202.jpg"
+image: "/uploads/Jewel%202.jpg"
 description: Channel & digital communications strategy for a leading Fintech business
   based in Singapore. Defining specific content pillars and channel relevancy for
   B2B and B2C communications to align with JPT media strategy. Content recommendations
