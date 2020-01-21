@@ -29,7 +29,7 @@ description: 'Content marketing, influencer marketing, digital advertising, stra
   consulting and branding for sustainable fish oil company, FISKOLíA. '
 lead: 'Content marketing, influencer marketing, digital advertising, strategy consulting
   and branding for sustainable fish oil company, FISKOLíA. '
-is-featured: true
+is-featured: false
 is-hero: true
 services:
 - Influencer Marketing
