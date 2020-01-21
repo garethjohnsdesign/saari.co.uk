@@ -44,19 +44,27 @@ services-list:
 - SEO + Analytics
 - Prototyping
 clients-list:
+- Jewel Paymentech
+- Chelsea Reach Houseboat Owners
+- Fly Victor
 - Lapponia (Kalevala Group)
+- Novopayment
+- Mission Media (+ Amazon, LVMH, Tiffany, Red Bull, BBC)
+- Tiny Changes
+- FINDA
+- Fiskolía
+- Kingdom of Origin
 - ZEF
 - Supercan
 - People Are Awesome (Jukin Media)
-- Mission Media (+ Amazon, LVMH, Tiffany, Red Bull, BBC)
 - Nordic Playlist
 - EMDM
 - ATC
-- Kingdom of Origin
 - One Fest
 - Benjamin Clementine
 - Nick Cave
 - Goldfrapp
+- Universal Music / Elton John
 layout: profile
 ---
 

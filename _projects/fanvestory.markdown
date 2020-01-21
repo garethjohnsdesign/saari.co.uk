@@ -21,8 +21,6 @@ description: Advisory and business development services for crowd-funding, micro
   platform, Fanvestory.
 lead: Advisory and business development services for crowd-funding, micro-licensing
   platform, Fanvestory.
-is-featured: false
-is-hero: false
 services:
 - Business Development
 - Micro-Licensing
