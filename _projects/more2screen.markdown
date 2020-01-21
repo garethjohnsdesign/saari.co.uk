@@ -30,7 +30,7 @@ services:
 - Social Media Advertising
 - Salesforce Integration
 - Digital Platforms
-feature-image: "/uploads/softcell.png"
+feature-image: "/uploads/SmartSize.jpeg"
 details:
 - title: Brief
   text: Saari were approached to run location and interest specific digital advertising
