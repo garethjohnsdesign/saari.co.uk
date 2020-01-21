@@ -48,7 +48,7 @@ services:
 - Communications strategy
 - Insights
 - Content strategy
-feature-image: "/uploads/jewelpaymentech2.jpg"
+feature-image: "/uploads/jewelpaymentech2-991a85.jpg"
 details:
 - title: Brief
   text: Saari were engaged by this leading Fintech business to develop a company-wide
