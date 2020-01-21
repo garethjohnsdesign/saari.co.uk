@@ -23,6 +23,7 @@ description: Digital advertising for More2Screen, a specialist in world-class ev
   Soft Cell content marketing in order to maximise the reach of a major live screening
   event.
 lead: 'Digital Advertising to international markets. '
+is-featured: true
 services:
 - Localised digital advertising
 - International markets (North America, Europe)
