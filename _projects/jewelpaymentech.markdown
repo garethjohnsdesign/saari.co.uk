@@ -48,6 +48,7 @@ services:
 - Communications strategy
 - Insights
 - Content strategy
+images: "/uploads/paymentech2.jpg"
 details:
 - title: Brief
   text: Saari were engaged by this leading Fintech business to develop a company-wide
