@@ -48,13 +48,11 @@ clients-list:
 - ZEF
 - Supercan
 - People Are Awesome (Jukin Media)
-- Mission Media (+ Amazon, LVMH, Tiffany, Red Bull)
+- Mission Media (+ Amazon, LVMH, Tiffany, Red Bull, BBC)
 - Nordic Playlist
 - EMDM
 - ATC
-- BBC
 - Kingdom of Origin
-- Arcada
 - One Fest
 - Benjamin Clementine
 - Nick Cave
