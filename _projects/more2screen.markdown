@@ -16,7 +16,7 @@ tags:
 - live
 - streaming
 - live streaming
-image: "/uploads/more2screen1.jpeg"
+image: "/uploads/more2screenimage.jpg"
 description: Digital advertising for More2Screen, a specialist in world-class events,
   in order to promote an international cinema screening of Soft Cell live at the O2.
   Delivering digital advertising for international cinema audiences. Aligning with
