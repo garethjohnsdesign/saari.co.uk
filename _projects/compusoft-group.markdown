@@ -67,5 +67,13 @@ details:
     and browsers guiding them from the design stage through to production. The new
     website provides sales and marketing with a tool to allow Compusoft Group to scale
     in line with their growth strategy.
+testimonial:
+  text: Nikke and the team worked very hard to create our website in a short time-scale.
+    This was impressive considering the complexities that were discovered along the
+    way, as they often do in any project. They overcame them and were very committed
+    to delivering the project quickly and to a good standard. Nikke’s extensive knowledge
+    was very helpful in managing the project and providing solutions to the challenges
+    along the way.
+  cite: Freddie McGrath, Digital Marketing Manager
 ---
 
