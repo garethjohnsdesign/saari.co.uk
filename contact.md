@@ -2,7 +2,7 @@
 title: Contact
 position: 4
 description: Contact us if you want to find out how we can help you business grow
-image: "/uploads/IMG_8678.JPG"
+image: "/uploads/contact-fc55a2.jpg"
 enquiries:
 - title: New Business
   name: Nikke Osterback
