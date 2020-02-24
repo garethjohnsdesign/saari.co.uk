@@ -43,6 +43,6 @@ details:
     campaign in order to deliver competitive media rates for the end-client.
 - title: Outcome
   text: An exciting, international live screening event for fans of Soft Cell and
-    Mark Almond.
+    Marc Almond.
 ---
 
