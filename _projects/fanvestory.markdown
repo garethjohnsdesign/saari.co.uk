@@ -1,12 +1,27 @@
 ---
 title: Fanvestory
 date: 2019-06-28 14:10:00 Z
-position: 7
-image: "/uploads/IMG_3154.JPG"
+published: false
+categories:
+- Business development
+- starts-ups
+- tech
+- crowd funding
+tags:
+- crowd funding
+- micro licensing
+- advisory
+- music
+- fans
+- investing
+- Tech
+- fanvestory
+position: 14
+image: "/uploads/fanvestory-e9b874.jpg"
+description: Advisory and business development services for crowd-funding, micro-licensing
+  platform, Fanvestory.
 lead: Advisory and business development services for crowd-funding, micro-licensing
   platform, Fanvestory.
-is-featured: false
-is-hero: false
 services:
 - Business Development
 - Micro-Licensing

@@ -1,8 +1,29 @@
 ---
 title: Supercan
 date: 2013-03-04 00:00:00 Z
-position: 10
+categories:
+- Digital Marketing Strategy
+- Business Development
+- Digital Advertising
+- Growth Hacking
+- Digital Strategy
+- B2B
+- Customer Acquisition
+- Consultancy
+tags:
+- Tech
+- Start up
+- Messenger
+- Nordic
+- Norway
+- App
+- Techstars 2017
+- supercan
+position: 17
 image: "/uploads/supercan.jpg"
+description: A brand new tech startup operating in the messenger space, Saari were
+  employed to define client B2B and B2C customer acquisition strategies alongside
+  wider business development and strategic business consultancy.
 lead: A brand new tech startup operating in the messenger space, Saari were employed
   to define client B2B and B2C customer acquisition strategies alongside wider business
   development and strategic business consultancy.

@@ -1,8 +1,28 @@
 ---
 title: Lapponia  / Kalevala Group
 date: 2013-03-04 00:00:00 Z
-position: 1
+categories:
+- Digital Marketing
+- International
+- Advertising
+- eCommerce
+- Strategy
+- Brands
+- Influencer Marketing
+- Content Marketing
+tags:
+- Norway
+- Nordic
+- Jewellery
+- Kalevala Group
+- Audience Segmentation
+- Brand Positioning
+- lapponia
+- kalevala group
+position: 5
 image: "/uploads/lapponia-jewelry.jpg"
+description: International multichannel and digital marketing strategy for a leading
+  Nordic jewellery brand.
 lead: International multichannel and digital marketing strategy for a leading Nordic
   jewellery brand.
 is-featured: true

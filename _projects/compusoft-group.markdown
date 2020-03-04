@@ -1,8 +1,28 @@
 ---
 title: Compusoft Group
 date: 2019-06-17 11:50:00 Z
-position: 6
-image: "/uploads/csg.png"
+categories:
+- Web Development
+- Digital Strategy
+- Wordpress for Enterprise
+- Enterprise
+- Software Development
+- Salesforce
+- Digital Transformation
+tags:
+- Kitchen
+- Bathroom
+- Software
+- Design
+- Refurbishment
+- Tech
+- compusoft
+position: 13
+image: "/uploads/compusoft-b2ad4a.jpg"
+description: A comprehensive and modern multilingual website solution for a leading
+  global Enterprise. Designed to service an international marketing workforce, a diverse
+  set of clients, partners and software users. Setting forth an agile approach for
+  a market leader.
 lead: A comprehensive and modern multilingual website solution for a leading global
   Enterprise. Designed to service an international marketing workforce, a diverse
   set of clients, partners and software users. Setting forth an agile approach for
@@ -47,5 +67,13 @@ details:
     and browsers guiding them from the design stage through to production. The new
     website provides sales and marketing with a tool to allow Compusoft Group to scale
     in line with their growth strategy.
+testimonial:
+  text: Nikke and the team worked very hard to create our website in a short time-scale.
+    This was impressive considering the complexities that were discovered along the
+    way, as they often do in any project. They overcame them and were very committed
+    to delivering the project quickly and to a good standard. Nikke’s extensive knowledge
+    was very helpful in managing the project and providing solutions to the challenges
+    along the way.
+  cite: Freddie McGrath, Digital Marketing Manager
 ---
 

@@ -1,8 +1,34 @@
 ---
 title: Benjamin Clementine with Burberry
 date: 2019-06-30 00:00:00 Z
+categories:
+- International Marketing
+- Original Content
+- Digital Strategy
+- New Markets
+- Campaign Strategy
+tags:
+- music
+- Benjamin
+- Clementine
+- Fashion
+- Music
+- Burberry
+- Folk
+- Artist
+- Mercury
+- Prize
+- Winning
+- British
+- Fashion shows
+- Los Angeles
+- New York
+- Catwalk
 position: 0
 image: "/uploads/benjamin-clementine.jpg"
+description: Strategic brand activation, original content production and an international
+  marketing campaign for a Mercury Prize winning artist Benjamin Clementine and a
+  leading British fashion brand Burberry.
 lead: Strategic brand activation, original content production and an international
   marketing campaign for a Mercury Prize winning artist Benjamin Clementine and a
   leading British fashion brand Burberry.

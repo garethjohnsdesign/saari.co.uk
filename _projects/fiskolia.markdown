@@ -1,11 +1,35 @@
 ---
 title: FISKOLíA
 date: 2019-06-14 12:38:00 Z
-position: 4
+categories:
+- Influencer Marketing
+- Creative Marketing
+- Digital Advertising
+- Channel Strategy
+- Digital Strategy
+- Consulting
+- Brands
+- FMCG
+tags:
+- Health
+- Wellbeing
+- Vitamins
+- Iceland
+- Fish oil
+- Supplements
+- Omega-3
+- Herring
+- Natural
+- Sustainable
+- fiskolia
+- fmcg
+position: 11
 image: "/uploads/fiskoliahomepage.jpg"
+description: 'Content marketing, influencer marketing, digital advertising, strategy
+  consulting and branding for sustainable fish oil company, FISKOLíA. '
 lead: 'Content marketing, influencer marketing, digital advertising, strategy consulting
   and branding for sustainable fish oil company, FISKOLíA. '
-is-featured: true
+is-featured: false
 is-hero: true
 services:
 - Influencer Marketing

@@ -1,8 +1,34 @@
 ---
 title: Kingdom of Origin
 date: 2013-03-04 00:00:00 Z
-position: 5
+categories:
+- Digital Law
+- Strategy
+- Digital Transformation
+- Legal Framework
+- Terms and Conditions
+- Privacy
+- Cookies
+- Policies
+- Confidentiality Agreement
+tags:
+- eCommerce
+- Apparel
+- Children
+- Clothing
+- Luxury
+- Fashion
+- Sustainable
+- Girls wear
+- British
+- Ethical
+- Design
+- kingdom of origin
+position: 12
 image: "/uploads/kingdom-of-origin.jpg"
+description: A comprehensive legal framework including confidentiality agreements,
+  terms & conditions of service and privacy policies for a brand new children’s apparel
+  brand and eCommerce proposition.
 lead: A comprehensive legal framework including confidentiality agreements, terms
   & conditions of service and privacy policies for a brand new children’s apparel
   brand and eCommerce proposition.
