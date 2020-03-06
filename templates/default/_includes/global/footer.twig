@@ -1,0 +1,29 @@
+<!-- Header -->
+<footer class="grid-x grid-padding-x grid-padding-y align-justify sans-display">
+
+  <div class="small-12 medium-shrink cell">
+    <ul class="menu align-left margin-top-1">
+        <li><a href="mailto:{{company.email}}">{{company.email}}</a></li>
+        <li><a href="{{company.phoneNumber}}">{{company.phoneNumber}}</a></li>
+        {% for block in socials.socials.all() %}
+        {% switch block.type %}
+          {% case "facebook" %}
+            <li><a href="{{block.socialLink}}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+          {% case "instagram" %}
+            <li><a href="{{block.socialLink}}" target="_blank"><svg class="icon icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
+          {% case "twitter" %}
+              <li><a href="{{block.socialLink}}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+          {% endswitch %}
+        {% endfor %}
+      </ul>
+  </div>
+
+  <div class="small-12 medium-shrink cell">
+    <ul class="menu align-left margin-top-1">
+      <li><a href="/privacy-policy">Privacy Policy</a></li>
+      <li><a href="/terms">Terms and Conditions</a></li>
+    </ul>
+  </div>
+
+</footer>
+<!-- End  Header -->

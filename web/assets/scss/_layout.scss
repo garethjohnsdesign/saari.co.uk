@@ -1,0 +1,597 @@
+//  Table of Contents:
+//
+//   1. Mixins
+//   2. Global
+//   3. Animations
+//   4. Color
+//   5. Typography
+//   6. Layout
+
+
+// 1. Mixins
+// ---------
+
+@mixin links ($link, $hover) {
+  a {
+    color: $link;
+    &:hover {
+      color: $hover;   
+    }
+  }
+}
+
+
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+ .content {
+    transition: $primary-transition;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie);
+}
+
+// 2. Global
+// ---------
+
+.viewheight {
+  min-height: 100vh;
+  min-height: calc(var(--vh, 1vh) * 100);
+}
+
+a {
+//   transition: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+a:focus {
+color: $white;
+}
+
+body {
+  cursor: default;
+  font-kerning: normal ;
+  margin: 0;
+  transition: $primary-transition;
+}
+
+svg {
+  max-width: 100%;
+}
+
+::selection {
+  background: $primary-color;
+  color: $black;
+}
+
+:focus {
+  outline: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+color: $primary-color;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+color: $primary-color;
+}
+
+// 3. Animations
+// -------------
+
+.swup-transition-fade-up {
+  transition: 0.5s;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+html.is-animating .swup-transition-fade-up {
+  opacity: 0;
+  transform: translateY(-10px);
+}
+
+.swup-transition-fade {
+  transition: 0.5s;
+  opacity: 1;
+}
+
+html.is-animating .swup-transition-fade {
+  opacity: 0;
+}
+
+.swup-transition-color {
+  transition: 0.5s;
+  opacity: 1;
+}
+
+html.is-animating .swup-transition-color {
+  opacity: 0;
+}
+
+// 2. Loading
+// ----------
+
+.loader {
+    z-index: 10;
+    position: fixed;
+    background: $white;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%; 
+    opacity: 0;
+    visibility: visible; 
+    transform: translateY(0%);
+    transition: transform 800ms;
+    transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+    overflow: hidden;
+  &.loading {
+    opacity: 1;
+  }
+  &.loaded {
+    transform: translateY(-100%);
+    transition: transform 800ms;
+    transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+  }
+}
+
+// 4. Color
+// --------
+
+.primary-color {
+  color: get-color(primary);
+}
+
+.secondary-color {
+  color: get-color(secondary);
+}
+
+.tertiary-color {
+  color: get-color(tertiary);
+}
+
+.primary-background-color {
+  background-color: get-color(primary);
+  color: $white;
+  @include links($white, $secondary-color)
+}
+
+
+.secondary-background-color {
+  background-color: get-color(secondary);
+  color: $primary-color;
+  @include links($primary-color, $secondary-color)
+}
+
+.light-gray-background-color {
+  background-color: $light-gray;
+  color: $black;
+  @include links($primary-color, $secondary-color)
+}
+
+.dark-gray-background-color {
+  background-color: $dark-gray;
+  color: $white;
+  @include links($primary-color, $secondary-color)
+}
+
+
+.black-background-color {
+  background-color: $black;
+  color: $white;
+  @include links($white, $secondary-color)
+}
+
+.tertiary-background-colour {
+  background-color: get-color(tertiary);
+  color: $primary-color;
+  @include links($primary-color, $secondary-color)
+}
+
+.white {
+  color: $white;
+  @include links ($white, $medium-gray);
+}
+
+.medium-gray {
+  color: $medium-gray;
+  @include links ($medium-gray, $black);
+}
+
+.light-gray {
+  color: $light-gray;
+  @include links ($light-gray, $medium-gray);
+}
+
+.dark-gray {
+  color: $dark-gray;
+  @include links ($dark-gray, $white);
+}
+
+.black {
+  color: $black;
+  @include links ($black, $medium-gray);
+}
+
+// 5. Typography
+// -------------
+
+.underline {
+  padding-bottom: 2px;
+  border-bottom: 3px solid;
+}
+
+i, cite, em, var, address, dfn {
+  font-style: normal;
+}
+
+p a {
+  color: get-color(secondary);
+}
+
+.logo {
+  font-family: $serif-regular;
+//   letter-spacing: 0.5px;
+}
+
+.sans-light {
+  font-family: $sans-light;
+}
+
+.sans-regular {
+  font-family: $sans-regular;
+}
+
+.sans-bold {
+  font-family: $sans-bold;
+}
+
+.sans-display {
+  font-family: $sans-display;
+}
+
+.serif-light {
+  font-family: $serif-light;
+}
+
+.serif-regular {
+  font-family: $serif-regular;
+}
+
+.serif-italic {
+  font-family: $serif-italic;
+}
+
+.serif-bold {
+  font-family: $serif-bold;
+}
+
+.serif-display {
+  font-family: $serif-display;
+}
+
+.small {
+  font-size: $small-font-size;
+}
+
+// 6. Layout
+// ---------
+
+.image--1-1 {
+  @include aspect-ratio (1, 1);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+
+.image--5-4 {
+  @include aspect-ratio (5, 4);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--6-4 {
+  @include aspect-ratio (6, 4);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--3-4 {
+  @include aspect-ratio (3, 4);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--5-7 {
+  @include aspect-ratio (5, 7);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--7-5 {
+  @include aspect-ratio (7, 5);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--16-9 {
+  @include aspect-ratio (16, 9);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--24-1 {
+  @include aspect-ratio (2.4, 1);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.image--hero {
+  background-size: cover; 
+  background-position: 50% 20%;
+  height: 70vh;
+/*
+  @include breakpoint(small) {
+  @include aspect-ratio (1, 1);
+  }
+  @include breakpoint(medium) {
+  @include aspect-ratio (16, 9);
+  }
+*/
+ .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: red;
+  }
+}
+
+
+// 6. Navigation
+// -------------
+
+.navigation {
+  width: 100%;
+  .cell {
+	z-index: 14; 
+  }
+}
+
+.hamburger-inner {
+  &,
+  &::before,
+  &::after {
+    background-color: $white;
+  }
+}
+
+// 9. Home
+// -------
+
+/*
+.home .navigation, .about .navigation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+*/
+
+.wrapper {
+  min-height: 100vh;
+}
+
+.footer {
+// border-top: 1px solid $light-gray;
+/*
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+*/
+}
+
+.off-canvas .menu .active > a {
+  background: transparent;
+  color: $black;
+}
+
+.navigation {
+  transform: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.home__title {
+  transform: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.home__menu {
+  transform: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+.viewheight {
+//   min-height: 100vh;
+  min-height: calc(var(--vh, 1vh) * 100);
+}
+
+.act--link {
+  .content:hover {
+  background-color: rgba($black, 0.6);
+  }
+  &:hover .act__title {
+  opacity: 0;
+  transition: $primary-transition;
+  }
+  &:hover .act__hover {
+  opacity: 1;
+  transition: $primary-transition;
+  } 
+}
+
+.act__title {
+  z-index: 1;
+  opacity: 1;
+}
+
+.act__hover {
+  z-index: 1;
+  opacity: 0;
+}
+
+
+/*
+.vimeo-wrapper {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: -1;
+   pointer-events: none;
+   overflow: hidden;
+}
+*/
+
+
+
+/*
+#portfolio-wrap {
+		height:100vh;
+    width:100%;
+		overflow:hidden;  
+	}
+*/
+
+
+
+
+/*
+#blocks {
+transition: all 1.0s cubic-bezier(0, 0, 0.58, 1);
+transform: translate3d(0,calc(var(--shiftY) * -5%),0);
+}
+*/
+
+
+// 9. Hover Effect
+// ---------------
+
+
+/*
+ .testing {
+max-width:100%;
+max-height:50vh;
+height: auto;
+width:auto;
+    }
+*/
+
+
+/*
+.swiper-slide {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+width: 100%;
+height: 100%;
+}
+
+.swiper-button-prev-test,
+.swiper-button-next-test {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  z-index: 10;
+}
+
+.swiper-button-prev-test {
+  left: 0rem;
+  right: auto;
+}
+.swiper-button-next-test {
+  right: 0rem;
+  left: auto;
+}
+
+.swiper-button-prev-test {
+cursor: w-resize;
+cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-left.png') 1x,
+url('/assets/img/arrow-left@2x.png') 2x,
+url('/assets/img/arrow-left@3x.png') 3x
+) 16 16, auto !important;
+}
+
+.swiper-button-next-test {
+cursor: e-resize;
+cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
+cursor: -webkit-image-set(
+url('/assets/img/arrow-right.png') 1x,
+url('/assets/img/arrow-right@2x.png') 2x,
+url('/assets/img/arrow-right@3x.png') 3x
+) 16 16, auto !important;
+}
+*/
+
+.home .navigation, .project .navigation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+//   border-bottom: 1px solid $white;
+  @include links ($white, $primary-color);
+
+}
+
+/*
+.swiper-slide {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+*/
+
+.slide {
+  @include aspect-ratio (16, 9);
+  background-size: cover; 
+  background-position: 50%;
+}
+
+.swiper-wrapper {
+  align-items: center; /* add this will all relevant prefixes */
+}
+
+.excerpt {
+  .content {
+    @include opacity(0);
+  }
+  &:hover .content {
+    transition: $primary-transition;
+    background: $color--licorice;
+    background-blend-mode: multiply;
+    @include opacity(0.9);
+  }
+}

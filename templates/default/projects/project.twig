@@ -1,0 +1,82 @@
+{% set bodyClass = 'project' %}
+
+{# Set parameters for prev/next elements list #}
+{% set params = craft.entries
+.section('projects')
+.orderBy('postDate desc') %}
+
+{% set title = entry.title %}
+
+{# Get the prev/next elements #}
+{% set prevEntry = entry.getPrev(params) %}
+{% set nextEntry = entry.getNext(params) %}
+
+{% extends "_layouts/site" %}
+
+
+{% block navigation %}
+{% include "_includes/global/navigation" %}
+{% endblock %}
+
+
+{% block main %}
+{# Hero Image #}
+<div class="grid-x">
+  <div class="small-12 cell">
+    {% set image = entry.image.one() %}
+    <div class="light-gray-background-color">
+    <div class="image--hero" {% if image %}data-interchange="{% include "_includes/images/contained/16-9/interchange-img-small-12-medium-12" %}" data-aos="fade-in" data-aos-delay="100"{% endif %}>
+
+      <div class="content">
+        <div class="grid-y align-bottom" style="height: 100%">
+          <div class="small-6 cell">
+          <h1>{{entry.title}}</h1>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    </div>  
+  </div>
+</div>
+{# End Hero Image #}
+
+<div class="grid-container">
+  {# Description #}
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 large-6 cell">
+          {% set services = entry.services %}
+          {% for service in services.all() %}
+          <div>{{service.title}}</div>
+          {% endfor %}
+    </div>
+    <div class="small-12 large-6 cell">
+      <h2>{{entry.description|striptags|raw}}</h2>
+    </div>
+  </div>
+  {# End Description #}
+  
+  {# Details #}
+  <div class="grid-x grid-padding-x grid-padding-y medium-u">
+    <div class="small-12 medium-auto cell">
+      <h3>Brief</h3>
+      {{entry.brief}}
+    </div>
+    <div class="small-12 medium-auto cell">
+      <h3>Approach</h3>
+      {{entry.approach}}
+    </div>
+    <div class="small-12 medium-auto cell">
+      <h3>Outcome</h3>
+      {{entry.approach}}
+    </div>
+  </div>
+  {# End Details #}
+</div>
+
+{% endblock %}
+
+
+{% block footer %}
+{% include "_includes/global/footer" %}
+{% endblock %}

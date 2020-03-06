@@ -1,0 +1,37 @@
+{% set bodyClass = 'services' %}
+{% set title = "Services" %}
+
+{% extends "_layouts/site" %}
+
+{% block navigation %}
+{% include "_includes/global/navigation" %}
+{% endblock %}
+
+
+{% block main %}
+
+<div class="grid-container">
+
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 medium-10 large-8 cell">
+        {{entry.description}}
+    </div>
+  </div>
+
+  <div class="grid-x grid-padding-x grid-padding-y align-left medium-up-2">
+    {% for detail in entry.details.all() %}
+    <div class="cell">
+        <div class="h3">{{detail.header}}</div>
+        {{detail.copy}}
+    </div>
+    {% endfor %}
+  </div>
+
+</div>
+
+{% endblock %}
+
+
+{% block footer %}
+{% include "_includes/global/footer" %}
+{% endblock %}
