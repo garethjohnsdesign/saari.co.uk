@@ -335,6 +335,14 @@
 		"oAP": "/templates/default/503.twig",
 		"oF": 0
 		},
+	"/templates/default/_includes/blocks/excerpt--music.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/templates/default/_includes/blocks/excerpt--music.twig",
+		"oF": 0
+		},
 	"/templates/default/_includes/blocks/excerpt.twig": {
 		"cB": 0,
 		"ft": 8192,
@@ -853,6 +861,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/templates/default/info/info.twig",
+		"oF": 0
+		},
+	"/templates/default/music/index.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/templates/default/music/index.twig",
+		"oF": 0
+		},
+	"/templates/default/music/music.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/templates/default/music/music.twig",
 		"oF": 0
 		},
 	"/templates/default/offline.twig": {

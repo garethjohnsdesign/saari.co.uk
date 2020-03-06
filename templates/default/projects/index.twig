@@ -18,7 +18,9 @@
 <div class="grid-x grid-padding-x grid-padding-y {% if projectCount > 2 %}align-left{% else %}align-center{% endif %}">
   {% for project in projects %}
     <div class="small-12 large-6 xxlarge-4 cell">
+      <a href="{{ project.url }}">
       {% include "_includes/blocks/excerpt" %}
+      </a>
     </div>
   {% endfor %}
 </div>

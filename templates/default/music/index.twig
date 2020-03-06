@@ -1,4 +1,4 @@
-{% set bodyClass = 'home' %}
+{% set bodyClass = 'music' %}
 
 {% extends "default/_layouts/site" %}
 
@@ -11,7 +11,7 @@
 {# Carousel #}
 <div class="grid-x">
   <div class="small-12 medium-12 cell">
-<div class="swiper-container">
+  <div class="swiper-container">
 
 {#
   <div class="swiper-button-prev-test flex-container align-center-middle"></div>
@@ -19,7 +19,7 @@
 #}
 
   <div class="swiper-wrapper">
-  {% set carouselQuery = entry.carousel.order('RAND()').all() %}
+  {% set carouselQuery = entry.carouselMusic.order('RAND()').all() %}
   {% for project in carouselQuery %}
     <div class="swiper-slide small-12 cell">
       {% set image = project.image.one() %}
@@ -37,7 +37,7 @@
                 </div>
                 <div class="small-12 medium-6 cell show-for-medium">
                   <div class="padding-2 text-right">
-                    <a href="{{ project.url }}" class="white">View Project</a>
+{#                     <a href="{{ project.url }}" class="white">View Project</a> #}
                   </div>
                 </div>
 
@@ -62,57 +62,83 @@
   {# Description #}
   <div class="grid-x grid-padding-x grid-padding-y">
     <div class="small-12 medium-10 cell text-left">
-      <h2>{{seo.seoDescription}}</h2>
-      <a href="/profile" class="secondary-color">Learn More</a>
+      <h2>{{entry.description |striptags|raw }}</h2>
     </div>
   </div>
   {# End Description #}
 
+  {# Details #}
+  {% for detail in entry.details.all() %}
+  <div class="grid-x grid-padding-x grid-padding-y align-left">
+    <div class="small-12 medium-4 cell hide-for-small-only">
+      <div class="h3 margin-bottom-0">{{detail.header}}</div>
+    </div>
+    <div class="small-12 medium-8 cell">
+      <div class="h3 show-for-small-only">{{detail.header}}</div>
+      {{detail.copy}}
+    </div>
+  </div>
+  {% endfor %}
+  {# End Details #}
+
+
   {# Projects #}
-  {% set projectsQuery = entry.projects.all() %}
+  {% set projectsQuery = entry.projectsMusic.all() %}
 
   {% set projectCount = projectsQuery|length %}
     <div class="grid-x grid-padding-x grid-padding-y align-left">
       {% for project in projectsQuery %}
         <div class="small-12 medium-6 cell">
-          <a href="{{ project.url }}">
-          {% include "_includes/blocks/excerpt" %}
-          </a>
+
+
+{% set image = project.image.one() %}
+<div class="light-gray-background-color excerpt">
+  <div class="image--16-9" {% if image %}data-interchange="{% include "_includes/images/contained/16-9/interchange-img-small-12-medium-4" %}" data-aos="fade-in" data-aos-delay="100"{% endif %}>
+
+
+    <div class="grid-y content show-for-medium">
+      <div class="shrink cell padding-1 white h4">
+      {{project.description|striptags|raw }}
+      </div>
+    </div>
+
+  </div>
+</div>
+<div class="margin-top-1 sans-display h5">{{ project.title }}</div>
+
+<div class="show-for-small-only">
+    {{project.description|striptags|raw }}
+</div>
+
+
+
         </div>
       {% endfor %}
     </div>
   {# End Projects #}
-  
-  {# Services #}
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 medium-8 cell text-left">
-      <h2>Services</h2>
-      {{entry.servicesCopy}}
-      <a href="/services" class="secondary-color">Learn More</a>
+
+
+{# Clients #}
+
+  <div class="grid-x small-up-2 medium-up-3 large-up-4 align-center align-middle">
+
+    {% for client in entry.clientsMusic.all() %}
+
+
+    <div class="cell text-center padding-vertical-2">
+
+      <img src="{{client.url}}" alt="">
+
     </div>
+    {% endfor %}
+
+
+
+
   </div>
-  {# End Services #}
+</div>
+{# End Clients #}
   
-  {# Contact #}
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 medium-8 cell text-left">
-      <h2>Contact</h2>
-
-
-      <div class="grid-x grid-padding-x medium-up-3">
-        {% for contact in entry.contacts.all() %}
-        <div class="cell margin-bottom-1">
-        <h4 class="margin-bottom-0">{{contact.header}}</h4>
-        <a href="mailto:{{contact.email}}">{{contact.email}}</a>  
-        </div>
-        {% endfor %}
-      </div>
-
-
-      <a href="/contact" class="secondary-color">Learn More</a>
-    </div>
-  </div>
-  {# End Contact #}
 
 </div>
 

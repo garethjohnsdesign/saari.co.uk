@@ -9549,8 +9549,7 @@ p a {
     top: 0;
     left: 0;
     height: 100%;
-    width: 100%;
-    background-color: red; }
+    width: 100%; }
 
 .navigation {
   width: 100%; }
@@ -9653,56 +9652,44 @@ width:auto;
   display: flex;
   justify-content: center;
   align-items: center;
-width: 100%;
-height: 100%;
+  width: 100%;
+  height: 100%;
 }
-
+*/
 .swiper-button-prev-test,
 .swiper-button-next-test {
   position: absolute;
   top: 0;
   width: 50%;
   height: 100%;
-  z-index: 10;
-}
+  z-index: 10; }
 
 .swiper-button-prev-test {
   left: 0rem;
-  right: auto;
-}
+  right: auto; }
+
 .swiper-button-next-test {
   right: 0rem;
-  left: auto;
-}
+  left: auto; }
 
 .swiper-button-prev-test {
-cursor: w-resize;
-cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
-cursor: -webkit-image-set(
-url('/assets/img/arrow-left.png') 1x,
-url('/assets/img/arrow-left@2x.png') 2x,
-url('/assets/img/arrow-left@3x.png') 3x
-) 16 16, auto !important;
-}
+  cursor: w-resize;
+  cursor: url("/assets/img/arrow-left.png") 16 16, auto !important;
+  cursor: -webkit-image-set(url("/assets/img/arrow-left.png") 1x, url("/assets/img/arrow-left@2x.png") 2x, url("/assets/img/arrow-left@3x.png") 3x) 16 16, auto !important; }
 
 .swiper-button-next-test {
-cursor: e-resize;
-cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
-cursor: -webkit-image-set(
-url('/assets/img/arrow-right.png') 1x,
-url('/assets/img/arrow-right@2x.png') 2x,
-url('/assets/img/arrow-right@3x.png') 3x
-) 16 16, auto !important;
-}
-*/
-.home .navigation, .project .navigation {
+  cursor: e-resize;
+  cursor: url("/assets/img/arrow-right.png") 16 16, auto !important;
+  cursor: -webkit-image-set(url("/assets/img/arrow-right.png") 1x, url("/assets/img/arrow-right@2x.png") 2x, url("/assets/img/arrow-right@3x.png") 3x) 16 16, auto !important; }
+
+.home .navigation, .project .navigation, .music .navigation {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%; }
-  .home .navigation a, .project .navigation a {
+  .home .navigation a, .project .navigation a, .music .navigation a {
     color: #fefefe; }
-    .home .navigation a:hover, .project .navigation a:hover {
+    .home .navigation a:hover, .project .navigation a:hover, .music .navigation a:hover {
       color: #31354D; }
 
 /*
