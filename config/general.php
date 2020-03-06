@@ -81,7 +81,7 @@ return [
     'production' => [
 
         'siteUrl' => [
-            'default' => 'https://saari-prod.frb.io',
+            'default' => 'https://saari.frb.io',
         ],
 
         'devMode' => false,
