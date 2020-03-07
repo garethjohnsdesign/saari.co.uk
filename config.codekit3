@@ -1022,14 +1022,6 @@
 		"oAP": "/web/assets/favicons/favicon.ico",
 		"oF": 0
 		},
-	"/web/assets/favicons/manifest.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/web/assets/favicons/manifest-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/web/assets/favicons/mstile-144x144.png": {
 		"ft": 32768,
 		"iS": 2297,
@@ -1094,6 +1086,14 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"/web/assets/favicons/site.webmanifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/web/assets/favicons/site.webmanifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"/web/assets/fonts/adelle-sans-basic-regular.ttf": {
 		"cB": 0,
