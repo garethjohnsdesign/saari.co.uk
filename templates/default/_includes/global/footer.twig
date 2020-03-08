@@ -5,7 +5,7 @@
     <ul class="menu align-left align-middle">
         <li><a href="/" class="h2 text-lowercase sans-display">{{ siteName }}</a></li>
         <li><a href="mailto:{{company.email}}">{{company.email}}</a></li>
-        <li><a href="{{company.phoneNumber}}">{{company.phoneNumber}}</a></li>
+        <li><a href="tel:{{company.phoneNumber}}">{{company.phoneNumber}}</a></li>
         {% for block in socials.socials.all() %}
         {% switch block.type %}
           {% case "facebook" %}
