@@ -596,3 +596,7 @@ url('/assets/img/arrow-right@3x.png') 3x
     @include opacity(0.9);
   }
 }
+
+.menu li:last-child a {
+  padding-right: 0;
+}
