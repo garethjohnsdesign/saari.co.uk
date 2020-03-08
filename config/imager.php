@@ -45,17 +45,5 @@ return [
       // When transforming external images, Imager might have to download the external file to be
       // able to figure out what the size of the transformed file is. Disable for even better performance.
       'imgixGetExternalImageDimensions' => true,
-
-/*
-      'storages' => ['gcs'],
-      'storageConfig' => [
-          'gcs' => [
-              'keyFile' => '/key/old-blue-last-beer-238617-a12b9b142c4a.json',
-              'bucket' => 'tom-okeefe',
-              'folder' => '',
-          ]
-            
-      ]
-*/
  
 ];
