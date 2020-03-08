@@ -335,36 +335,12 @@
 		"oAP": "/templates/default/503.twig",
 		"oF": 0
 		},
-	"/templates/default/_includes/blocks/excerpt--music.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/templates/default/_includes/blocks/excerpt--music.twig",
-		"oF": 0
-		},
 	"/templates/default/_includes/blocks/excerpt.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/templates/default/_includes/blocks/excerpt.twig",
-		"oF": 0
-		},
-	"/templates/default/_includes/blocks/form.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/_includes/blocks/form.twig",
-		"oF": 0
-		},
-	"/templates/default/_includes/blocks/hero.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/_includes/blocks/hero.twig",
 		"oF": 0
 		},
 	"/templates/default/_includes/blocks/layout.twig": {
@@ -821,14 +797,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/templates/default/_layouts/site.twig",
-		"oF": 0
-		},
-	"/templates/default/archive/archive.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/archive/archive.twig",
 		"oF": 0
 		},
 	"/templates/default/contact/contact.twig": {
