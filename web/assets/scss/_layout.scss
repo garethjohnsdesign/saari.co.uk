@@ -564,26 +564,7 @@ url('/assets/img/arrow-right@3x.png') 3x
 
 }
 
-/*
-.swiper-slide {
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100%;
-}
-*/
 
-.slide {
-  @include aspect-ratio (16, 9);
-  background-size: cover; 
-  background-position: 50%;
-}
-
-.swiper-wrapper {
-  align-items: center; /* add this will all relevant prefixes */
-}
 
 .excerpt {
   .content {
