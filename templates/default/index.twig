@@ -57,7 +57,7 @@
 </div>
 {# End Carousel #}
 
-<div class="grid-container padding-top-2">
+<div class="grid-container padding-2">
 
   {# Description #}
   <div class="grid-x grid-padding-x grid-padding-y">
@@ -72,9 +72,9 @@
   {% set projectsQuery = entry.projects.all() %}
 
   {% set projectCount = projectsQuery|length %}
-    <div class="grid-x grid-padding-x grid-padding-y align-left">
+    <div class="grid-x grid-padding-x align-left">
       {% for project in projectsQuery %}
-        <div class="small-12 medium-6 cell">
+        <div class="small-12 medium-6 cell padding-top-1">
           <a href="{{ project.url }}">
           {% include "_includes/blocks/excerpt" %}
           </a>

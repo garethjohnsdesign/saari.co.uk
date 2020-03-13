@@ -245,6 +245,10 @@ p a {
   color: get-color(secondary);
 }
 
+h2 a {
+  color: get-color(secondary);
+}
+
 .link {
   color: get-color(secondary);
 }
@@ -582,6 +586,6 @@ url('/assets/img/arrow-right@3x.png') 3x
   }
 }
 
-.menu li:last-child a {
+.footer .menu li:last-child a {
   padding-right: 0;
 }
