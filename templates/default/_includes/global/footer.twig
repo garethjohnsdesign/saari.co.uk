@@ -3,7 +3,6 @@
 
   <div class="small-12 medium-shrink cell">
     <ul class="menu align-left align-middle">
-        <li><a href="/" class="h2 text-lowercase sans-display">{{ siteName }}</a></li>
         <li><a href="mailto:{{company.email}}">{{company.email}}</a></li>
         <li><a href="tel:{{company.phoneNumber}}">{{company.phoneNumber}}</a></li>
         {% for block in socials.socials.all() %}
@@ -19,7 +18,7 @@
       </ul>
   </div>
 
-  <div class="small-12 medium-shrink cell">
+  <div class="small-12 medium-shrink cell show-for-medium">
     <ul class="menu align-left align-middle">
       <li><a href="/privacy-policy">Privacy Policy</a></li>
       <li><a href="/terms">Terms and Conditions</a></li>
