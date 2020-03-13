@@ -823,14 +823,6 @@
 		"oAP": "/templates/default/index.twig",
 		"oF": 0
 		},
-	"/templates/default/info/info.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/info/info.twig",
-		"oF": 0
-		},
 	"/templates/default/music/index.twig": {
 		"cB": 0,
 		"ft": 8192,
