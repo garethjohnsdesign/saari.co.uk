@@ -8,7 +8,7 @@
 
 <title>{% if title is defined %}{{ title }} — {{ seoTitle }}{% else %}{{ seoTitle }}{% endif %}</title>
 
-<meta name="description" content="{% if seoDescription is defined %}{{ seoDescription }}{% else %}{{ globalSeoDescription|raw }}{% endif %}">
+<meta name="description" content="{% if seoDescription is defined %}{{ seoDescription|raw }}{% else %}{{ globalSeoDescription|raw }}{% endif %}">
 
 <!-- Facebook Opengraph -->
 <meta property="og:type" content="{% if seoType is defined %}{{ seoType }}{% else %}website{% endif %}">
@@ -46,5 +46,5 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/app.{{staticAssetsVersion}}.css">
 
 {% if env == 'production' %}
-  {% include "default/_includes/global/analytics" %}
+{% include "default/_includes/global/analytics" %}
 {% endif %}
