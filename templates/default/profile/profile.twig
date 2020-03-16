@@ -28,18 +28,25 @@
 
   {# Services #}
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-3 cell">
+    <div class="small-12 medium-3 cell hide-for-small-only">
       <div class="h3">Services</div>
     </div>
     
     <div class="small-12 medium-9 cell">
       <div class="grid-x grid-padding-x medium-up-3">
+
+        <div class="small-12 medium-3 cell show-for-small-only">
+          <div class="h3">Services</div>
+        </div>
+
         {% set services = craft.categories.group('services').order('title asc') %}
         {% for service in services.all() %}
         <div class="cell margin-bottom-1">
         {{service.title}}
         </div>
         {% endfor %}
+
+
       </div>
     </div>
   </div>
@@ -47,12 +54,17 @@
 
   {# Clients #}
   <div class="grid-x grid-padding-x grid-padding-y align-center">
-    <div class="small-12 medium-3 cell">
+    <div class="small-12 medium-3 cell hide-for-small-only">
       <div class="h3">Clients</div>
     </div>
     
     <div class="small-12 medium-9 cell">
       <div class="grid-x grid-padding-x medium-up-3">
+
+        <div class="small-12 medium-3 cell show-for-small-only">
+          <div class="h3">Clients</div>
+        </div>
+
         {% for client in entry.clients.all() %}
         <div class="cell margin-bottom-1">
         {{client.header}}

@@ -2,7 +2,7 @@
 {% set title = "Projects" %}
 
 {% set projects = craft.entries
-.section('projects')
+.section('primaryProjects')
 .all() %}
 
 {% extends "_layouts/site" %}
@@ -19,7 +19,7 @@
 
 <!-- Projects -->
 {% set projectCount = projects|length %}
-<div class="grid-x grid-padding-x {% if projectCount > 2 %}align-left{% else %}align-center{% endif %}">
+<div class="grid-x grid-padding-x grid-padding-y align-left">
   {% for project in projects %}
     <div class="small-12 large-6 xxlarge-4 cell padding-top-1">
       <a href="{{ project.url }}">
@@ -31,9 +31,9 @@
 <!-- End Projects -->
 
 <!-- Extra Projects Text -->
-<div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 large-6 xxlarge-4 cell">
-      <h3>Further case studies to follow</h3>
+<div class="grid-x grid-padding-x">
+    <div class="small-12 large-12 cell">
+     {{entry.copy}}
     </div>
 </div>
 <!-- End Extra Projects Text -->

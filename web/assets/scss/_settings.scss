@@ -67,7 +67,8 @@
 
 $global-font-size: 100%;
 $global-width: rem-calc(1200);
-$global-lineheight: 1.5;
+// $global-lineheight: 1.5;
+$global-lineheight: 1.4;
 /*
 $foundation-palette: (
   primary: #1779ba,
@@ -91,7 +92,7 @@ $foundation-palette: (
   primary: $color--licorice,
 //   secondary: #767676,
   secondary: $color--royal-blue,
-  tertiary: #fbeed6,
+  tertiary: $color--zircon,
   success: #3adb76,
   warning: #ffae00,
   alert: #cc4b37,
@@ -190,7 +191,7 @@ $header-styles: (
 $header-styles: (
   'small': (
     'h1': ('font-size': 28, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 24, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 22, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h4': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
@@ -198,7 +199,7 @@ $header-styles: (
   ),
   'medium': (
     'h1': ('font-size': 30, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 28, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 26, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 18, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
@@ -206,7 +207,7 @@ $header-styles: (
   ),
   'xlarge': (
     'h1': ('font-size': 36, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 32, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 30, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 18, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
@@ -811,7 +812,8 @@ $reveal-max-width: $global-width;
 $reveal-padding: $global-padding;
 $reveal-border: 1px solid $medium-gray;
 $reveal-radius: $global-radius;
-$reveal-zindex: 1005;
+// $reveal-zindex: 1005;
+$reveal-zindex: 8;
 $reveal-overlay-background: rgba($black, 0.45);
 
 // 48. Slider
