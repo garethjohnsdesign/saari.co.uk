@@ -81,7 +81,7 @@ return [
     'production' => [
 
         'siteUrl' => [
-            'default' => 'https://saari.frb.io',
+            'default' => 'https://www.saari.co.uk',
         ],
 
         'devMode' => false,
