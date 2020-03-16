@@ -301,6 +301,10 @@ h2 a {
 // 6. Layout
 // ---------
 
+.wrapper {
+  @include padding(1, 1, 0, 1);
+}
+
 .image--1-1 {
   @include aspect-ratio (1, 1);
   background-size: cover; 
@@ -353,15 +357,7 @@ h2 a {
 .image--hero {
   background-size: cover; 
   background-position: 50% 20%;
-  height: 70vh;
-/*
-  @include breakpoint(small) {
-  @include aspect-ratio (1, 1);
-  }
-  @include breakpoint(medium) {
-  @include aspect-ratio (16, 9);
-  }
-*/
+  height: 60vh;
  .content {
     position: absolute;
     top: 0;
@@ -386,7 +382,7 @@ h2 a {
   &,
   &::before,
   &::after {
-    background-color: $white;
+    background-color: $primary-color;
   }
 }
 
@@ -401,10 +397,6 @@ h2 a {
   width: 100%;
 }
 */
-
-.wrapper {
-  min-height: 100vh;
-}
 
 .footer {
 // border-top: 1px solid $light-gray;
@@ -569,7 +561,13 @@ url('/assets/img/arrow-right@3x.png') 3x
   width: 100%;
 //   border-bottom: 1px solid $white;
   @include links ($white, $primary-color);
-
+  .hamburger-inner {
+    &,
+    &::before,
+    &::after {
+      background-color: $white;
+    }
+  }
 }
 
 

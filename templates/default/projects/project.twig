@@ -30,7 +30,7 @@
       <div class="image--hero" {% if image %}data-interchange="{% include "_includes/images/contained/16-9/interchange-img-small-12-medium-12" %}" data-aos="fade-in" data-aos-delay="100"{% endif %}>
   
         <div class="content">
-          <div class="grid-x align-middle" style="height: 100%">
+          <div class="grid-x grid-padding-x align-middle" style="height: 100%">
             <div class="small-12 cell">
 
               <div class="grid-container">
@@ -47,37 +47,39 @@
 </div>
 {# End Hero Image #}
 
-<div class="grid-container padding-top-0 padding-right-2 padding-bottom-0 padding-left-2">
-  {# Description #}
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 large-6 cell">
-          {% set services = entry.services %}
-          {% for service in services.all() %}
-          <div>{{service.title}}</div>
-          {% endfor %}
+<div class="wrapper">
+  <div class="grid-container">
+    {# Description #}
+    <div class="grid-x grid-padding-x grid-padding-y">
+      <div class="small-12 large-6 cell">
+            {% set services = entry.services %}
+            {% for service in services.all() %}
+            <div>{{service.title}}</div>
+            {% endfor %}
+      </div>
+      <div class="small-12 large-6 cell">
+        <h2>{{entry.description|striptags|raw}}</h2>
+      </div>
     </div>
-    <div class="small-12 large-6 cell">
-      <h2>{{entry.description|striptags|raw}}</h2>
+    {# End Description #}
+    
+    {# Details #}
+    <div class="grid-x grid-padding-x grid-padding-y medium-u">
+      <div class="small-12 medium-auto cell">
+        <h3>Brief</h3>
+        {{entry.brief}}
+      </div>
+      <div class="small-12 medium-auto cell">
+        <h3>Approach</h3>
+        {{entry.approach}}
+      </div>
+      <div class="small-12 medium-auto cell">
+        <h3>Outcome</h3>
+        {{entry.approach}}
+      </div>
     </div>
+    {# End Details #}
   </div>
-  {# End Description #}
-  
-  {# Details #}
-  <div class="grid-x grid-padding-x grid-padding-y medium-u">
-    <div class="small-12 medium-auto cell">
-      <h3>Brief</h3>
-      {{entry.brief}}
-    </div>
-    <div class="small-12 medium-auto cell">
-      <h3>Approach</h3>
-      {{entry.approach}}
-    </div>
-    <div class="small-12 medium-auto cell">
-      <h3>Outcome</h3>
-      {{entry.approach}}
-    </div>
-  </div>
-  {# End Details #}
 </div>
 
 {% endblock %}

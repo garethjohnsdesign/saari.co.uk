@@ -46,6 +46,14 @@ $(document).ready(function() {
   }
 });
 
+// 3. Hamburger
+// ----------
+
+var $hamburger = $(".hamburger");
+  $hamburger.on("click", function(e) {
+    $hamburger.toggleClass("is-active");
+    // Do something else, like open/close menu
+  });
 
 
 // 4. Viewport Height Fix

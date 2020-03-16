@@ -11,109 +11,108 @@
 {# Carousel #}
 <div class="grid-x">
   <div class="small-12 medium-12 cell">
-<div class="swiper-container">
+    <div class="swiper-container">
 
-{#
-  <div class="swiper-button-prev-test flex-container align-center-middle"></div>
-  <div class="swiper-button-next-test flex-container align-center-middle"></div>
-#}
-
-  <div class="swiper-wrapper">
-  {% set carouselQuery = entry.carousel.order('RAND()').all() %}
-  {% for project in carouselQuery %}
-    <div class="swiper-slide small-12 cell">
-      {% set image = project.image.one() %}
-
-
+    {#
+      <div class="swiper-button-prev-test flex-container align-center-middle"></div>
+      <div class="swiper-button-next-test flex-container align-center-middle"></div>
+    #}
+    
+      <div class="swiper-wrapper">
+      {% set carouselQuery = entry.carousel.order('RAND()').all() %}
+      {% for project in carouselQuery %}
+        <div class="swiper-slide small-12 cell">
+          {% set image = project.image.one() %}
+    
             <div class="image--hero" data-interchange="{% include "_includes/images/full/full/interchange-img-small-12-medium-12" %}">
 
-            <div class="content" style="height: 100%; width: 100%">
-              <div class="grid-x align-bottom" style="height: 100%; width: 100%">
-                <div class="small-12 medium-6 cell">
-                  <div class="padding-2">
-                    <h2 class="white">{{project.title}}</h2>
-                    <div class="white">{{project.description |striptags|raw }}</div>
+              <div class="content" style="height: 100%; width: 100%">
+                <div class="grid-x align-bottom" style="height: 100%; width: 100%">
+                  <div class="small-12 medium-6 cell">
+                    <div class="padding-2">
+                      <h2 class="white">{{project.title}}</h2>
+                      <div class="white">{{project.description |striptags|raw }}</div>
+                    </div>
                   </div>
-                </div>
-                <div class="small-12 medium-6 cell show-for-medium">
-                  <div class="padding-2 text-right">
-                    <a href="{{ project.url }}" class="white">View Project</a>
+                  <div class="small-12 medium-6 cell show-for-medium">
+                    <div class="padding-2 text-right">
+                      <a href="{{ project.url }}" class="white">View Project</a>
+                    </div>
                   </div>
+  
                 </div>
-
               </div>
-            </div>
 
             </div>
+                  
+        </div>
+      {% endfor %}
+      </div>
 
-
-              
     </div>
-  {% endfor %}
   </div>
-
-</div>
-</div>
 </div>
 {# End Carousel #}
 
-<div class="grid-container padding-2">
-
-  {# Description #}
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 medium-10 cell text-left">
-      <h2>{{seo.seoDescription}}</h2>
-      <a href="/profile" class="secondary-color">Learn More</a>
-    </div>
-  </div>
-  {# End Description #}
-
-  {# Projects #}
-  {% set projectsQuery = entry.projects.all() %}
-
-  {% set projectCount = projectsQuery|length %}
-    <div class="grid-x grid-padding-x align-left">
-      {% for project in projectsQuery %}
-        <div class="small-12 medium-6 cell padding-top-1">
-          <a href="{{ project.url }}">
-          {% include "_includes/blocks/excerpt" %}
-          </a>
-        </div>
-      {% endfor %}
-    </div>
-  {# End Projects #}
+<div class="wrapper">
+  <div class="grid-container">
   
-  {# Services #}
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 medium-8 cell text-left">
-      <h2>Services</h2>
-      {{entry.servicesCopy}}
-      <a href="/services" class="secondary-color">Learn More</a>
+    {# Description #}
+    <div class="grid-x grid-padding-x grid-padding-y">
+      <div class="small-12 medium-10 cell text-left">
+        <h2>{{seo.seoDescription}}</h2>
+        <a href="/profile" class="secondary-color">Learn More</a>
+      </div>
     </div>
-  </div>
-  {# End Services #}
+    {# End Description #}
   
-  {# Contact #}
-  <div class="grid-x grid-padding-x grid-padding-y">
-    <div class="small-12 medium-8 cell text-left">
-      <h2>Contact</h2>
-
-
-      <div class="grid-x grid-padding-x medium-up-3">
-        {% for contact in entry.contacts.all() %}
-        <div class="cell margin-bottom-1">
-        <h4 class="margin-bottom-0">{{contact.header}}</h4>
-        <a href="mailto:{{contact.email}}">{{contact.email}}</a>  
-        </div>
+    {# Projects #}
+    {% set projectsQuery = entry.projects.all() %}
+  
+    {% set projectCount = projectsQuery|length %}
+      <div class="grid-x grid-padding-x align-left">
+        {% for project in projectsQuery %}
+          <div class="small-12 medium-6 cell padding-top-1">
+            <a href="{{ project.url }}">
+            {% include "_includes/blocks/excerpt" %}
+            </a>
+          </div>
         {% endfor %}
       </div>
-
-
-      <a href="/contact" class="secondary-color">Learn More</a>
+    {# End Projects #}
+    
+    {# Services #}
+    <div class="grid-x grid-padding-x grid-padding-y">
+      <div class="small-12 medium-8 cell text-left">
+        <h2>Services</h2>
+        {{entry.servicesCopy}}
+        <a href="/services" class="secondary-color">Learn More</a>
+      </div>
     </div>
+    {# End Services #}
+    
+    {# Contact #}
+    <div class="grid-x grid-padding-x grid-padding-y">
+      <div class="small-12 medium-8 cell text-left">
+        <h2>Contact</h2>
+  
+  
+        <div class="grid-x grid-padding-x medium-up-3">
+          {% for contact in entry.contacts.all() %}
+          <div class="cell margin-bottom-1">
+          <h4 class="margin-bottom-0">{{contact.header}}</h4>
+          <a href="mailto:{{contact.email}}">{{contact.email}}</a>  
+          </div>
+          {% endfor %}
+        </div>
+  
+  
+        <a href="/contact" class="secondary-color">Learn More</a>
+      </div>
+    </div>
+    {# End Contact #}
+  
   </div>
-  {# End Contact #}
-
 </div>
 
 {% endblock %}

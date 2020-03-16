@@ -3,7 +3,13 @@
     <a data-toggle="overlayNavigation"  data-animation-in="fade-in" data-animation-out="fade-out" class="h1 sans-display text-lowercase">{{siteName}}</a>
   </div>
   <div class="shrink cell" style="z-index: 10;">
-    <a data-toggle="overlayNavigation" data-animation-in="fade-in" data-animation-out="fade-out" class="h1"><svg class="icon icon-menu"><use xlink:href="/assets/icons/symbol-defs.svg#icon-menu"></use></svg></a>
+{#     <a data-toggle="overlayNavigation" data-animation-in="fade-in" data-animation-out="fade-out" class="h1"><svg class="icon icon-menu"><use xlink:href="/assets/icons/symbol-defs.svg#icon-menu"></use></svg></a> #}
+    <button class="hamburger hamburger--collapse" type="button" data-toggle="overlayNavigation">
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+
   </div>
 </div>
 
