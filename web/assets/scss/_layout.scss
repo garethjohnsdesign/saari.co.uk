@@ -198,7 +198,7 @@ html.is-animating .swup-transition-color {
   @include links($white, $secondary-color)
 }
 
-.tertiary-background-colour {
+.tertiary-background-color {
   background-color: get-color(tertiary);
   color: $primary-color;
   @include links($primary-color, $secondary-color)
@@ -357,7 +357,7 @@ h2 a {
 .image--hero {
   background-size: cover; 
   background-position: 50% 20%;
-  height: 60vh;
+  height: 70vh;
  .content {
     position: absolute;
     top: 0;
