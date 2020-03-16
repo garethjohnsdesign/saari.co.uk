@@ -12,6 +12,14 @@
 {% set seoDescription = entry.description|striptags|raw %}
 {% endif %}
 
+{% if entry.seoImage.one() %}
+{% set asset = entry.seoImage.one() %}
+{% set seoImage = craft.imager.transformImage(asset, { width: 1200, height: 630, dpr: 1, position: asset.getFocalPoint() }) %}
+{% else %}
+{% set asset = entry.image.one() %}
+{% set seoImage = craft.imager.transformImage(asset, { width: 1200, height: 630, dpr: 1, position: asset.getFocalPoint() }) %}
+{% endif %}
+
 {# Set parameters for prev/next elements list #}
 {% set params = craft.entries
 .section('projects')
