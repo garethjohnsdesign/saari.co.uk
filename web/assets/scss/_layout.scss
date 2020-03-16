@@ -57,7 +57,7 @@
 }
 
 a {
-//   transition: all .35s cubic-bezier(.39, .575, .565, 1);
+  transition: color .35s cubic-bezier(.39, .575, .565, 1);
 }
 
 a:focus {
@@ -243,19 +243,27 @@ i, cite, em, var, address, dfn {
 
 p a {
   color: get-color(secondary);
+  &:hover {
+    color: get-color(primary);   
+  }
 }
 
 h2 a {
   color: get-color(secondary);
+  &:hover {
+    color: get-color(primary);   
+  }
 }
 
 .link {
   color: get-color(secondary);
+  &:hover {
+    color: get-color(primary);   
+  }
 }
 
 .logo {
-  font-family: $serif-regular;
-//   letter-spacing: 0.5px;
+  font-family: $sans-display;
 }
 
 .sans-light {
@@ -389,25 +397,6 @@ h2 a {
 // 9. Home
 // -------
 
-/*
-.home .navigation, .about .navigation {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-}
-*/
-
-.footer {
-// border-top: 1px solid $light-gray;
-/*
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-*/
-}
-
 .off-canvas .menu .active > a {
   background: transparent;
   color: $black;
@@ -430,6 +419,7 @@ h2 a {
   min-height: calc(var(--vh, 1vh) * 100);
 }
 
+/*
 .act--link {
   .content:hover {
   background-color: rgba($black, 0.6);
@@ -453,6 +443,7 @@ h2 a {
   z-index: 1;
   opacity: 0;
 }
+*/
 
 
 /*

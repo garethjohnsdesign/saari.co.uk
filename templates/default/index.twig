@@ -59,8 +59,8 @@
   
     {# Description #}
     <div class="grid-x grid-padding-x grid-padding-y">
-      <div class="small-12 medium-10 cell text-left">
-        <h2>{{seo.seoDescription}}</h2>
+      <div class="small-12 medium-10 large-9 cell text-left">
+        <div>{{entry.description}}</div>
         <a href="/profile" class="secondary-color">Learn More</a>
       </div>
     </div>
@@ -101,7 +101,7 @@
           {% for contact in entry.contacts.all() %}
           <div class="cell margin-bottom-1">
           <h4 class="margin-bottom-0">{{contact.header}}</h4>
-          <a href="mailto:{{contact.email}}">{{contact.email}}</a>  
+          <a href="mailto:{{contact.email}}" class="link">{{contact.email}}</a>  
           </div>
           {% endfor %}
         </div>
