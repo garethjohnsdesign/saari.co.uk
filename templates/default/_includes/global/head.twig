@@ -6,7 +6,7 @@
 <meta name="format-detection" content="telephone=no">
 <meta name="generator" content="Craft CMS, http://craftcms.com" />
 
-<title>{% if title is defined %}{{ title }} — {{ seoTitle }}{% else %}{{ seoTitle }}{% endif %}</title>
+<title>{% if seoTitle is defined %}{{ seoTitle }} — {{ globalSeoTitle }}{% else %}{{ globalSeoTitle }}{% endif %}</title>
 
 <meta name="description" content="{% if seoDescription is defined %}{{ seoDescription|raw }}{% else %}{{ globalSeoDescription|raw }}{% endif %}">
 
@@ -20,7 +20,7 @@
 <!-- Facebook Opengraph -->
 <meta property="og:type" content="{% if seoType is defined %}{{ seoType }}{% else %}website{% endif %}">
 <meta property="og:url" content="{% if seoUrl is defined %}{{ seoUrl }}{% else %}{{ siteUrl }}{% endif %}">
-<meta property="og:title" content="{% if title is defined %}{{ title }} - {% endif %}{{ siteName }}">
+<meta property="og:title" content="{% if seoTitle is defined %}{{ seoTitle }} - {% endif %}{{ siteName }}">
 <meta property="og:image" content="{% if seoImage is defined %}{{ seoImage }}{% else %}{{ globalSeoImage }}{% endif %}">
 <meta property="og:description" content="{% if seoDescription is defined %}{{ seoDescription }}{% else %}{{ globalSeoDescription|raw }}{% endif %}">
 <meta property="og:site_name" content="{{ siteName }}">
@@ -33,7 +33,7 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:url" content="{% if seoUrl is defined %}{{ seoUrl }}{% else %}{{ siteUrl }}{% endif %}">
 <meta name="twitter:title" content="{% if title is defined %}{{ title }} - {% endif %}{{ siteName }}">
-<meta name="twitter:description" content="{% if seoDescription is defined %}{{ seoDescription }}{% else %}{{ globalSeoDescription|raw }}{% endif %}">
+<meta name="twitter:description" content="{% if seoDescription is defined %}{{ seoDescription|raw }}{% else %}{{ globalSeoDescription|raw }}{% endif %}">
 <meta name="twitter:image" content="{% if seoImage is defined %}{{ seoImage }}{% else %}{{ globalSeoImage }}{% endif %}">
 
 <!-- Prefetch -->

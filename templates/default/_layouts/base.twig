@@ -1,7 +1,7 @@
-{% set seoTitle = seo.seoTitle %}
-{% set seoDescription = seo.seoDescription %}
+{% set globalSeoTitle = seo.seoTitle %}
+{% set globalSeoDescription = seo.seoDescription %}
 {% set asset = seo.seoImage.one() %}
-{% set seoImage = craft.imager.transformImage(asset, { width: 1200, height: 630, dpr: 1, position: asset.getFocalPoint() }) %}
+{% set globalSeoImage = craft.imager.transformImage(asset, { width: 1200, height: 630, dpr: 1, position: asset.getFocalPoint() }) %}
 {% set staticAssetsVersion = craft.app.config.general.staticAssetsVersion %}
 {% set env = getenv('ENVIRONMENT') %}
 
