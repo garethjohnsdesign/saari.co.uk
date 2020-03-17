@@ -19,7 +19,7 @@
     #}
     
       <div class="swiper-wrapper">
-      {% set carouselQuery = entry.carousel.order('RAND()').all() %}
+      {% set carouselQuery = entry.carousel.orderBy('RAND()').all() %}
       {% for project in carouselQuery %}
         <div class="swiper-slide small-12 cell">
           {% set image = project.image.one() %}

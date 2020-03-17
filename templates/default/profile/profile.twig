@@ -52,7 +52,7 @@
             <div class="h3">Services</div>
           </div>
   
-          {% set services = craft.categories.group('services').order('title asc') %}
+          {% set services = craft.categories.group('services').orderBy('title asc') %}
           {% for service in services.all() %}
           <div class="cell margin-bottom-1">
           {{service.title}}
