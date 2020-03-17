@@ -13,11 +13,7 @@
   <div class="small-12 medium-12 cell">
     <div class="swiper-container">
 
-    {#
-      <div class="swiper-button-prev-test flex-container align-center-middle"></div>
-      <div class="swiper-button-next-test flex-container align-center-middle"></div>
-    #}
-    
+   
       <div class="swiper-wrapper">
       {% set carouselQuery = entry.carousel.orderBy('RAND()').all() %}
       {% for project in carouselQuery %}
@@ -27,20 +23,26 @@
             <div class="image--hero" data-interchange="{% include "_includes/images/full/full/interchange-img-small-12-medium-12" %}">
 
               <div class="content" style="height: 100%; width: 100%">
-                <div class="grid-x align-bottom" style="height: 100%; width: 100%">
-                  <div class="small-12 medium-6 cell">
+
+                <div class="grid-x align-bottom" style="height: 100%; width: 100%;">
+                  <div class="small-12 medium-6 cell" style="z-index: 2">
                     <div class="padding-2">
                       <h2 class="white">{{project.title}}</h2>
                       <div class="white">{{project.description |striptags|raw }}</div>
                     </div>
                   </div>
-                  <div class="small-12 medium-6 cell show-for-medium">
+                  <div class="small-12 medium-6 cell show-for-medium" style="z-index: 2">
                     <div class="padding-2 text-right">
                       <a href="{{ project.url }}" class="white">View Project</a>
                     </div>
                   </div>
+
+              <div class="swiper-button-prev-test flex-container align-center-middle"></div>
+              <div class="swiper-button-next-test flex-container align-center-middle"></div>
   
                 </div>
+
+
               </div>
 
             </div>

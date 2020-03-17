@@ -102,9 +102,11 @@ var mySwiper = new Swiper ('.swiper-container', {
   loop: true,
   preventClicks: true,
   slideToClickedSlide: false,
+/*
   autoplay: {
     delay: 5000,
   },
+*/
 
 keyboard: {
 enabled: true,

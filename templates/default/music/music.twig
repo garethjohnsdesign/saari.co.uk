@@ -14,10 +14,8 @@
   <div class="small-12 medium-12 cell">
   <div class="swiper-container">
 
-{#
   <div class="swiper-button-prev-test flex-container align-center-middle"></div>
   <div class="swiper-button-next-test flex-container align-center-middle"></div>
-#}
 
   <div class="swiper-wrapper">
   {% set carouselQuery = entry.carouselMusic.orderBy('RAND()').all() %}
@@ -94,7 +92,7 @@
   
   
   {% set image = project.image.one() %}
-  <div class="light-gray-background-color excerpt">
+  <div class="tertiary-background-color excerpt">
     <div class="image--16-9" {% if image %}data-interchange="{% include "_includes/images/contained/16-9/interchange-img-small-12-medium-4" %}" data-aos="fade-in" data-aos-delay="100"{% endif %}>
   
   
