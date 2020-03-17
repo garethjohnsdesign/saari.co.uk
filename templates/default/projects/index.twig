@@ -1,5 +1,10 @@
 {% set bodyClass = 'projects' %}
-{% set title = "Projects" %}
+
+{% if entry.seoTitle | length %}
+{% set seoTitle = entry.seoTitle %}
+{% else %}
+{% set seoTitle = entry.title %}
+{% endif %}
 
 {% set projects = craft.entries
 .section('primaryProjects')

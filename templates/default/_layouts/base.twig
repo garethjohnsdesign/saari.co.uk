@@ -2,6 +2,27 @@
 {% set globalSeoDescription = seo.seoDescription %}
 {% set asset = seo.seoImage.one() %}
 {% set globalSeoImage = craft.imager.transformImage(asset, { width: 1200, height: 630, dpr: 1, position: asset.getFocalPoint() }) %}
+
+{% if entry.seoTitle %}
+{% set seoTitle = entry.seoTitle %}
+{% elseif entry.title %}
+{% set seoTitle = entry.title %}
+{% endif %}
+
+{% if entry.seoDescription %}
+{% set seoDescription = entry.seoDescription|striptags|raw %}
+{% elseif entry.description %}
+{% set seoDescription = entry.description|striptags|raw %}
+{% endif %}
+
+{% if entry.seoImage.one() %}
+{% set asset = entry.seoImage.one() %}
+{% set seoImage = craft.imager.transformImage(asset, { width: 1200, height: 630, dpr: 1, position: asset.getFocalPoint() }) %}
+{% elseif entry.image %}
+{% set asset = entry.image.one() %}
+{% set seoImage = craft.imager.transformImage(asset, { width: 1200, height: 630, dpr: 1, position: asset.getFocalPoint() }) %}
+{% endif %}
+
 {% set staticAssetsVersion = craft.app.config.general.staticAssetsVersion %}
 {% set env = getenv('ENVIRONMENT') %}
 
