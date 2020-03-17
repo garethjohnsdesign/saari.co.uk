@@ -122,14 +122,14 @@
   
   {# Clients #}
   
-    <div class="grid-x small-up-2 medium-up-3 large-up-4 align-center align-middle">
+    <div class="grid-x grid-padding-x small-up-3 medium-up-3 large-up-5 align-center align-middle">
   
       {% for client in entry.clientsMusic.all() %}
   
   
       <div class="cell text-center padding-vertical-2">
   
-        <img src="{{client.url}}" alt="">
+        <img src="{{craft.imager.transformImage(client, { imgixProfile: 'svg' }).url}}" alt="{{client.filename}}" class="logos">
   
       </div>
       {% endfor %}

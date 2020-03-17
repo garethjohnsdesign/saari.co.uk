@@ -2,7 +2,7 @@
 
 {# Set parameters for prev/next elements list #}
 {% set params = craft.entries
-.section('projects')
+.section('primaryProjects')
 .orderBy('postDate desc') %}
 
 {# Get the prev/next elements #}
@@ -11,14 +11,12 @@
 
 {% extends "_layouts/site" %}
 
-
 {% block navigation %}
 {% include "_includes/global/navigation" %}
 {% endblock %}
 
 
 {% block main %}
-
 
 {# Hero Image #}
 <div class="grid-x">
@@ -47,6 +45,7 @@
 
 <div class="wrapper">
   <div class="grid-container">
+
     {# Description #}
     <div class="grid-x grid-padding-x grid-padding-y">
       <div class="small-12 large-6 cell">
@@ -92,6 +91,17 @@
     </div>
     {% endif %}
     {# End Testimonial #}
+
+    {# Pagination #}
+    {% if nextEntry %}
+    <div class="grid-x grid-padding-x grid-padding-y">
+      <div class="small-12 cell text-center">
+            <h6>Next</h6>
+            <a href="{{ nextEntry.url }}">{{ nextEntry.title }}</a>
+      </div>
+    </div>
+    {% endif %}
+    {# End Pagination #}
 
   </div>
 </div>

@@ -24,6 +24,18 @@ return [
               'defaultParams' => ['auto'=>'compress,format', 'q'=>50, 'fp-debug'=>false, 'exp'=>0, 'blur'=>0, 'ch'=>'dpr', 'cs'=>'tinysrgb'],
               'apiKey' => '',
               'excludeFromPurge' => false,
+          ],
+          'svg' => [
+              'domains' => ['saari.imgix.net'],
+              'useHttps' => true,
+              'signKey' => '',
+              'sourceIsWebProxy' => false,
+              'useCloudSourcePath' => true,
+              'shardStrategy' => 'cycle',
+              'getExternalImageDimensions' => true,
+              'defaultParams' => ['auto'=>'compress', 'fm'=>'png', 'q'=>50, 'fp-debug'=>false, 'exp'=>0, 'blur'=>0, 'ch'=>'dpr', 'cs'=>'tinysrgb'],
+              'apiKey' => '',
+              'excludeFromPurge' => false,
           ]
       ],
         

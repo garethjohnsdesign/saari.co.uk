@@ -578,3 +578,10 @@ url('/assets/img/arrow-right@3x.png') 3x
 .footer .menu li:last-child a {
   padding-right: 0;
 }
+
+.logos {
+  transition: $primary-transition;
+  &:hover {
+    @include opacity(0.7);
+  }
+}
