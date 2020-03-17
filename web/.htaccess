@@ -15,6 +15,7 @@
 	AddType application/font-woff woff
 	AddType application/font-woff2 woff2
 	AddType application/x-font-woff woff
+	AddType application/x-font-woff2 woff2
 	AddType application/vnd.ms-fontobject eot
 	AddType application/x-font-ttf ttc ttf
 	AddType image/svg+xml svg svgz
@@ -128,7 +129,7 @@
 # adjust and extend to your needs
 <ifModule mod_headers.c>
   #  images expire after 1 month
-  <filesMatch ".(gif|png|jpg|jpeg|ico|pdf|svg|js)$">
+  <filesMatch ".(gif|png|jpg|jpeg|ico|pdf|svg|js|ttf|eot|woff|woff2)$">
     Header set Cache-Control "max-age=2592000"
   </filesMatch>
   # CSS expires after 1 day
