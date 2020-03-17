@@ -343,28 +343,12 @@
 		"oAP": "/templates/default/_includes/blocks/excerpt.twig",
 		"oF": 0
 		},
-	"/templates/default/_includes/blocks/layout.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/_includes/blocks/layout.twig",
-		"oF": 0
-		},
 	"/templates/default/_includes/global/analytics.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/templates/default/_includes/global/analytics.twig",
-		"oF": 0
-		},
-	"/templates/default/_includes/global/contact.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/_includes/global/contact.twig",
 		"oF": 0
 		},
 	"/templates/default/_includes/global/footer.twig": {
@@ -397,14 +381,6 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/templates/default/_includes/global/scripts.twig",
-		"oF": 0
-		},
-	"/templates/default/_includes/global/socials.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/_includes/global/socials.twig",
 		"oF": 0
 		},
 	"/templates/default/_includes/images/contained/1-1/interchange-img-small-12-medium-12.twig": {
@@ -759,14 +735,6 @@
 		"oAP": "/templates/default/_includes/reveal/navigation.twig",
 		"oF": 0
 		},
-	"/templates/default/_includes/reveal/newsletter.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/templates/default/_includes/reveal/newsletter.twig",
-		"oF": 0
-		},
 	"/templates/default/_layouts/base.twig": {
 		"cB": 0,
 		"ft": 8192,
@@ -807,14 +775,6 @@
 		"oAP": "/templates/default/index.twig",
 		"oF": 0
 		},
-	"/templates/default/music/index.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/templates/default/music/index.twig",
-		"oF": 0
-		},
 	"/templates/default/music/music.twig": {
 		"cB": 0,
 		"ft": 8192,
@@ -847,20 +807,20 @@
 		"oAP": "/templates/default/profile/profile.twig",
 		"oF": 0
 		},
-	"/templates/default/projects/index.twig": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/templates/default/projects/index.twig",
-		"oF": 0
-		},
 	"/templates/default/projects/project.twig": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/templates/default/projects/project.twig",
+		"oF": 0
+		},
+	"/templates/default/projects/projects.twig": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/templates/default/projects/projects.twig",
 		"oF": 0
 		},
 	"/templates/default/services/services.twig": {
