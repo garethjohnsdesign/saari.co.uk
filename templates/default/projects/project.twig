@@ -49,9 +49,9 @@
     {# Description #}
     <div class="grid-x grid-padding-x grid-padding-y">
       <div class="small-12 large-6 cell">
-        {% set services = entry.services %}
-        {% for service in services.all() %}
-        <div>{{service.title}}</div>
+        {% set tags = entry.tags.all() %}
+        {% for tag in tags %}
+        <p class="lead margin-bottom-0">{{tag.title}}</p>
         {% endfor %}
       </div>
       <div class="small-12 large-6 cell">
@@ -97,7 +97,7 @@
     <div class="grid-x grid-padding-x grid-padding-y">
       <div class="small-12 cell text-center">
             <h6>Next</h6>
-            <a href="{{ nextEntry.url }}">{{ nextEntry.title }}</a>
+            <a href="{{ nextEntry.url }}" class="link">{{ nextEntry.title }}</a>
       </div>
     </div>
     {% endif %}
