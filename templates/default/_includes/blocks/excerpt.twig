@@ -3,11 +3,11 @@
   <div class="image--16-9" {% if image %}data-interchange="{% include "_includes/images/contained/16-9/interchange-img-small-12-medium-4" %}" data-aos="fade-in" data-aos-delay="100"{% endif %}>
 
     <div class="grid-y content">
-      <div class="shrink cell padding-1 white h4">
+      <div class="shrink cell padding-1 white h4 margin-top-0">
       {{project.description|striptags|raw }}
       </div>
     </div>
 
   </div>
 </div>
-<div class="margin-top-1 sans-display h5">{{ project.title }}</div>
+<div class="sans-display h4">{{ project.title }}</div>

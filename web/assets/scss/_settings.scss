@@ -167,7 +167,8 @@ $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-color: inherit;
 $header-lineheight: 1.4;
-$header-margin-bottom: 1rem;
+// $header-margin-bottom: 1rem;
+$header-margin-bottom: 0.75rem;
 /*
 $header-styles: (
   small: (
@@ -191,17 +192,17 @@ $header-styles: (
 $header-styles: (
   'small': (
     'h1': ('font-size': 28, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h2': ('font-size': 22, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h3': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h5': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
+    'h2': ('font-size': 22, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': 0.5rem),
+    'h3': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': 0.5rem),
+    'h4': ('font-size': 18, 'line-height': $header-lineheight, 'margin-top': 0.75rem, 'margin-bottom': 0.5rem),
+    'h5': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': 0.5rem),
+    'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': 0.5rem)
   ),
   'medium': (
     'h1': ('font-size': 30, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h2': ('font-size': 26, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 18, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
@@ -209,7 +210,7 @@ $header-styles: (
     'h1': ('font-size': 36, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h2': ('font-size': 30, 'line-height': 1.2, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h3': ('font-size': 24, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
-    'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 1rem, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 18, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   ),
@@ -218,7 +219,8 @@ $header-text-rendering: optimizeLegibility;
 $small-font-size: 80%;
 $header-small-font-color: $medium-gray;
 $paragraph-lineheight: 1.6;
-$paragraph-margin-bottom: 1rem;
+// $paragraph-margin-bottom: 1rem;
+$paragraph-margin-bottom: 0.75rem;
 $paragraph-text-rendering: optimizeLegibility;
 $enable-code-inline: true;
 $anchor-color: $primary-color;
