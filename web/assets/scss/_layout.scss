@@ -248,7 +248,7 @@ p a {
   }
 }
 
-h2 a {
+h1 a, h2 a, h3 a, h4 a {
   color: get-color(secondary);
   &:hover {
     color: get-color(primary);   
