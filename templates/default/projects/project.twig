@@ -21,7 +21,12 @@
 {# Hero Image #}
 <div class="grid-x">
   <div class="small-12 cell">
+
+    {% if entry.heroImage.one()|length %}
+    {% set image = entry.heroImage.one() %}
+    {% else %}
     {% set image = entry.image.one() %}
+    {% endif %}
     <div class="light-gray-background-color">
       <div class="image--hero" {% if image %}data-interchange="{% include "_includes/images/contained/16-9/interchange-img-small-12-medium-12" %}" data-aos="fade-in" data-aos-delay="100"{% endif %}>
   

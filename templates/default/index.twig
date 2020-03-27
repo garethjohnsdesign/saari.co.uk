@@ -18,8 +18,11 @@
       {% set carouselQuery = entry.carousel.orderBy('RAND()').all() %}
       {% for project in carouselQuery %}
         <div class="swiper-slide small-12 cell">
-          {% set image = project.image.one() %}
-    
+            {% if project.heroImage.one()|length %}
+            {% set image = project.heroImage.one() %}
+            {% else %}
+            {% set image = project.image.one() %}
+            {% endif %}
             <div class="image--hero" data-interchange="{% include "_includes/images/full/full/interchange-img-small-12-medium-12" %}">
 
               <div class="content" style="height: 100%; width: 100%">
