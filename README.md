@@ -4,4 +4,4 @@ Website for Saari. Please go to [www.saari.co.uk](https://www.saari.co.uk) in ca
 
 * * *
 
-Copyright (c) 2020 Gareth Johns Design + Development – info@garethjohnsdesign.com
+Copyright (c) 2022 Gareth Johns Design + Development – info@garethjohnsdesign.com
