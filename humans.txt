@@ -38,9 +38,6 @@ TOOLS
 Coda - Text editor
 panic.com/coda/
 
-Sketch - Graphics editor
-sketchapp.com
-
 Illustrator & Photoshop - Graphics editor
 adobe.com
 
