@@ -37,6 +37,12 @@
 	{% endblock %}
 </head>
   <body {% if bodyClass is defined %}class="{{ bodyClass }}"{% endif %}>
+	{% if env == 'production' %}
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{seo.seoAnalytics}}"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	{% endif %}
   {% block loading %}{% endblock %}
 	{% block body %}{% endblock %}
   {% include "default/_includes/global/scripts" %}
