@@ -1,0 +1,21 @@
+contentColumnType: string
+fieldGroup: dfe9b0d4-736b-4fbd-a584-88932d8d56a9
+handle: services
+instructions: ''
+name: Services
+searchable: false
+settings:
+  allowLimit: false
+  allowMultipleSources: false
+  branchLimit: ''
+  limit: null
+  localizeRelations: false
+  selectionLabel: 'Add a service'
+  source: 'group:50b442c5-e33d-4ed3-ad47-43c76e736c8e'
+  sources: '*'
+  targetSiteId: null
+  validateRelatedElements: ''
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Categories

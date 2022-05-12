@@ -1,0 +1,22 @@
+contentColumnType: text
+fieldGroup: b37424aa-eff2-4e8b-825c-20c18bb4148f
+handle: approach
+instructions: ''
+name: Approach
+searchable: false
+settings:
+  availableTransforms: '*'
+  availableVolumes: '*'
+  cleanupHtml: true
+  columnType: text
+  purifierConfig: ''
+  purifyHtml: '1'
+  redactorConfig: Custom.json
+  removeEmptyTags: '1'
+  removeInlineStyles: '1'
+  removeNbsp: '1'
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

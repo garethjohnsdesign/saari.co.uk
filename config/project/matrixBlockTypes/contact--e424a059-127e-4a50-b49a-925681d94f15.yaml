@@ -1,0 +1,54 @@
+field: 19816479-1914-4bba-a067-c588dfde9af9
+fieldLayouts:
+  9b8fe50d-b722-40f2-a3cb-7309c45cb513:
+    tabs:
+      -
+        fields:
+          cf350098-ba21-4fb1-8b3f-3cab310a0fda:
+            required: false
+            sortOrder: 2
+          ffd3b075-f7e2-4964-8a6a-95d839d5ced0:
+            required: false
+            sortOrder: 1
+        name: Content
+        sortOrder: 1
+fields:
+  cf350098-ba21-4fb1-8b3f-3cab310a0fda:
+    contentColumnType: text
+    fieldGroup: null
+    handle: email
+    instructions: ''
+    name: Email
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  ffd3b075-f7e2-4964-8a6a-95d839d5ced0:
+    contentColumnType: text
+    fieldGroup: null
+    handle: header
+    instructions: ''
+    name: Header
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: contact
+name: Contact
+sortOrder: 1

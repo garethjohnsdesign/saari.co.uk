@@ -1,0 +1,10 @@
+handle: services
+name: Services
+siteSettings:
+  8a2043ba-0ab6-482c-bb78-9c06b90e1891: # Saari
+    hasUrls: true
+    template: ''
+    uriFormat: 'services/{slug}'
+structure:
+  maxLevels: 1
+  uid: 9fd0608c-0bf4-4651-8953-47787fbeb312

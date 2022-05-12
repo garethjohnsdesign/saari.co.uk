@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: projects
+name: Projects
+propagationMethod: all
+siteSettings:
+  8a2043ba-0ab6-482c-bb78-9c06b90e1891: # Saari
+    enabledByDefault: true
+    hasUrls: true
+    template: projects/projects
+    uriFormat: projects
+type: single

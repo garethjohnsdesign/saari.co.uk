@@ -1,0 +1,25 @@
+fieldLayouts:
+  7c635066-4e02-466a-9a7f-4de17802b349:
+    tabs:
+      -
+        fields:
+          1c4d0151-1407-47f3-8ac7-11bf44598233:
+            required: false
+            sortOrder: 1
+          d977e3c9-4f15-497a-b9a5-cc6806a80c25:
+            required: false
+            sortOrder: 2
+        name: 'Tab 1'
+        sortOrder: 1
+handle: uploads
+hasUrls: true
+name: Uploads
+settings:
+  bucket: saari-beta
+  expires: ''
+  keyFileContents: "{\r\n  \"type\": \"service_account\",\r\n  \"project_id\": \"reformation-studio\",\r\n  \"private_key_id\": \"7a11241ee8706fae9be0889842577229d4fa7765\",\r\n  \"private_key\": \"-----BEGIN PRIVATE KEY-----\\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDFHcJ2PaIsKveH\\ndm7VgCQhPyr5sHJSDos9cOnjc+en+nRtLG7nSPjU8QYbcd9AjH2AoPhRX6rR3WmZ\\nz8TRB+E8sIZH2oaa17byEHJ8IfJJ9palNAQqZtVnsHEPhyD9oLJSPrNxNTqEWBZh\\nYSWaTCuIpzm5g8Jz9OTYByv1j9PNlG/CC/gI330H/z1milII/BAIRxd3DI+J99Sg\\nfoTKThxq0pHHnnbYU/qRuauP/+Q6bT0pUHOv7M7ds97G6ItslC4etoQiZ0KFlI2b\\nJxUijLhrsKOLu+2cU1F228A8eotgObVu4RwAfshvI4T/q60tLRrcqno6nlt9e3PX\\nocQgKxOfAgMBAAECggEAAT0m8aJNu7q7Z1anUXoAM1TkmsDxC8xhzXP0hfe+nxYn\\nMPmq0Sy3iT/iJ3FnebR7iqYev9HHm5EPyFkypfoUM5+/M4I1y8RX6hz2jNdgk/Y6\\nS47qCPz9Ecbdaj94EoM18hr8Le9FNZUhWUeIh0TVfM+vc7FWmzvEGNcWsvDn+ZTj\\ng3xI/0eiCp8F2xK7HDjZHGLsMFjqXJN0z8tGxja7SO9VURj86iKGG8nfqUMQM6ZV\\nVvpfRKU42ZzP2UELDa0Jku+phqF1OvPPa9q2dp9RbMWKdVinpDH63Qovxwv87eEU\\ncnlVpCQbNPd5cuk0e8ZQ7+IZbV+LDCFSIPGl9QcdaQKBgQD3ZKz43VXHUYb2v1G2\\nQIRkEFHQQ9/ONw8J90n8yi9xSZcBm2ugQKxhoeTGyR8SAkrS1LW9Z2Az4rsugeYh\\nLV4viaCX7pV1AVlu2p7sdAhtxsXqCe8YdpytR9cflHWZCANs9bbEuCzce2Jtd9fq\\nBi8fRWjbnriQhwjseGdnVwtQxwKBgQDL+U8I4yznte7ACV2pLL4xUr1rc98Pk8iq\\nzvAvUSk8JiGdNIYc7uQLGbuBUCeSUefAVyUn4nDzdj2Tc+BaA31QFCl2LpvhRi3W\\nDrJZMyiW6O5vXm2QEQD/6AKwq6U/vjI6FTzqKRc4qc5h7zaGEgwlW1H1c3SqSa/1\\nplfSRBN+aQKBgQDzUAjvGoDq77wVokTzQrDy2Tod4yOS5YPdAWG7Rf8zJHVoFzva\\n+MCRpXAkMlpkk+yTPrEf/zQW07/VFd0IdF5V0r4nr3c/BHy5EjuLwvMnRIASloKZ\\nRM8DfcyOOq0OPVthJqkDAUDd+Fvt3hh1Cm/+CX3/wjMzshuMtz673Fg8sQKBgQCK\\nLclh3uwzyGcGBxJBIgNyTHfvzB5HYjklpWzG0Tea/MX2xnc4MImiD3ubvZ4hHIVg\\nImkUXO1hsS9DrdNFh2mkDxSLcEW/VZiFk400qliL6x5jqdeVKj/AHP99ibo3tXQ3\\nLt4GT3HgvAAJDlGkf6Nkxzl9iwp0tdiTFG4YDnAaSQKBgQDsQJVsm+YYJ1zBTqlP\\nSFa2OLQhOmUq2vQ1Ab9SzAXSeWftHF1Qd7BZUWfMmYOEfWffEmSDM8J/thvfzBg6\\nnYd2z1NlEJeDuGkj13gWlxqpQqMlDAdklj/EfxBSdFTWqCuPzLyM59+CInURsV5K\\nhahGr04OGViF213vWmF5ekkL2Q==\\n-----END PRIVATE KEY-----\\n\",\r\n  \"client_email\": \"forty-foot-brewery@reformation-studio.iam.gserviceaccount.com\",\r\n  \"client_id\": \"101329168200804152991\",\r\n  \"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\r\n  \"token_uri\": \"https://oauth2.googleapis.com/token\",\r\n  \"auth_provider_x509_cert_url\": \"https://www.googleapis.com/oauth2/v1/certs\",\r\n  \"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x509/forty-foot-brewery%40reformation-studio.iam.gserviceaccount.com\"\r\n}"
+  projectId: reformation-studio
+  subfolder: ''
+sortOrder: 1
+type: craft\googlecloud\Volume
+url: 'http://storage.googleapis.com/saari-beta/'

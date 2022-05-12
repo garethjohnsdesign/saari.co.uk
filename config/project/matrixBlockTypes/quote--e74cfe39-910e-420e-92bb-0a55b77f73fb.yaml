@@ -1,0 +1,54 @@
+field: fbca5cd6-d08e-4296-b334-c307c7be351c
+fieldLayouts:
+  75ce48ae-3f7d-41c6-8bd0-376aa3366362:
+    tabs:
+      -
+        fields:
+          6fee563d-1526-44d9-baa6-cd5114834d3c:
+            required: true
+            sortOrder: 1
+          a1820958-3c19-45cb-916d-bb8f86ee005b:
+            required: true
+            sortOrder: 2
+        name: Content
+        sortOrder: 1
+fields:
+  6fee563d-1526-44d9-baa6-cd5114834d3c:
+    contentColumnType: text
+    fieldGroup: null
+    handle: quote
+    instructions: ''
+    name: Quote
+    searchable: true
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: text
+      initialRows: '4'
+      multiline: ''
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  a1820958-3c19-45cb-916d-bb8f86ee005b:
+    contentColumnType: text
+    fieldGroup: null
+    handle: cite
+    instructions: ''
+    name: Cite
+    searchable: true
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: text
+      initialRows: '4'
+      multiline: ''
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: quote
+name: Quote
+sortOrder: 2

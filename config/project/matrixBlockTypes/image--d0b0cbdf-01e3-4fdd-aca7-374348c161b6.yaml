@@ -1,0 +1,136 @@
+field: fbca5cd6-d08e-4296-b334-c307c7be351c
+fieldLayouts:
+  a48518cd-1782-4900-b6be-32b45de78547:
+    tabs:
+      -
+        fields:
+          7dc6e625-4a8f-4335-adab-ad2c0614900b:
+            required: false
+            sortOrder: 2
+          54d8bb54-b358-40ea-93f4-c8d8ff538dfa:
+            required: false
+            sortOrder: 4
+          84bd057d-0b77-41cf-a2db-13285ab6aa4a:
+            required: false
+            sortOrder: 3
+          be8da595-a5eb-4beb-a9b5-331b4984d67c:
+            required: false
+            sortOrder: 1
+        name: Content
+        sortOrder: 1
+fields:
+  7dc6e625-4a8f-4335-adab-ad2c0614900b:
+    contentColumnType: string
+    fieldGroup: null
+    handle: position
+    instructions: ''
+    name: Position
+    searchable: true
+    settings:
+      default: full
+      options:
+        __assoc__:
+          -
+            - left
+            - '1'
+          -
+            - center
+            - '1'
+          -
+            - right
+            - '1'
+          -
+            - full
+            - '1'
+          -
+            - drop-left
+            - ''
+          -
+            - drop-right
+            - ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: rias\positionfieldtype\fields\Position
+  54d8bb54-b358-40ea-93f4-c8d8ff538dfa:
+    contentColumnType: text
+    fieldGroup: null
+    handle: caption
+    instructions: ''
+    name: Caption
+    searchable: true
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: text
+      initialRows: '4'
+      multiline: ''
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  84bd057d-0b77-41cf-a2db-13285ab6aa4a:
+    contentColumnType: string
+    fieldGroup: null
+    handle: aspectRatio
+    instructions: ''
+    name: 'Aspect Ratio'
+    searchable: true
+    settings:
+      optgroups: true
+      options:
+        -
+          default: '1'
+          label: Default
+          value: default
+        -
+          default: ''
+          label: Portrait
+          value: portrait
+        -
+          default: ''
+          label: Square
+          value: square
+        -
+          default: ''
+          label: Panorama
+          value: panorama
+        -
+          default: ''
+          label: Hero
+          value: hero
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Dropdown
+  be8da595-a5eb-4beb-a9b5-331b4984d67c:
+    contentColumnType: string
+    fieldGroup: null
+    handle: image
+    instructions: ''
+    name: Image
+    searchable: true
+    settings:
+      allowedKinds:
+        - image
+      defaultUploadLocationSource: 'volume:244f7440-a428-4998-8c23-00991784b369'
+      defaultUploadLocationSubpath: ''
+      limit: '1'
+      localizeRelations: false
+      restrictFiles: '1'
+      selectionLabel: 'Add an image'
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: true
+      singleUploadLocationSource: 'volume:244f7440-a428-4998-8c23-00991784b369'
+      singleUploadLocationSubpath: ''
+      source: null
+      sources: '*'
+      targetSiteId: null
+      useSingleFolder: true
+      validateRelatedElements: ''
+      viewMode: list
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+handle: image
+name: Image
+sortOrder: 3

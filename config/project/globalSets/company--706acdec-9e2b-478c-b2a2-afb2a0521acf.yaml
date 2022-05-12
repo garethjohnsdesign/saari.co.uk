@@ -1,0 +1,25 @@
+fieldLayouts:
+  6672a71c-c3ee-4dd9-9ad0-e4997b88b223:
+    tabs:
+      -
+        fields:
+          9ccc8465-065e-43d4-a80c-3659fb4e3376:
+            required: false
+            sortOrder: 3
+          abcc13e7-50ff-4d62-96c9-00831a31d1de:
+            required: false
+            sortOrder: 4
+          e749f839-9bf1-45c4-95a0-85b305edeaa0:
+            required: false
+            sortOrder: 2
+          e328788e-cf79-4e16-88e8-5f2c83ffb2bc:
+            required: false
+            sortOrder: 1
+          f2113043-2f19-4158-a546-5ec83ad38e23:
+            required: false
+            sortOrder: 5
+        name: 'Tab 1'
+        sortOrder: 1
+handle: company
+name: Company
+sortOrder: 1

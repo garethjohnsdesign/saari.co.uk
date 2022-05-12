@@ -1,0 +1,25 @@
+fieldLayouts:
+  f45ef9bc-b6f4-460a-a876-f0ea2cfc701b:
+    tabs:
+      -
+        elements:
+          -
+            instructions: null
+            label: Title
+            type: craft\fieldlayoutelements\EntryTitleField
+          -
+            fieldUid: 04ab3c60-f325-48ea-bf96-347befb870e0
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: b9e40fd7-ff0f-4a8b-b667-c4d3d61743c5
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+        name: 'Music Project'
+        sortOrder: 1
+handle: musicProjects
+hasTitleField: true
+name: 'Music Projects'
+section: 61ec0ad3-3914-4cd3-aa68-9eec2ff33186 # Music Projects
+sortOrder: 1
+titleFormat: ''

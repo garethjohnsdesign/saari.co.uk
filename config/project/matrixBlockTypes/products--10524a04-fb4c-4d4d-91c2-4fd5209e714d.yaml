@@ -1,0 +1,34 @@
+field: fbca5cd6-d08e-4296-b334-c307c7be351c
+fieldLayouts:
+  80ed0016-b820-40a8-9807-1e726b83992b:
+    tabs:
+      -
+        fields:
+          caf3cbea-8fce-4e0e-96ed-a06314a589a0:
+            required: false
+            sortOrder: 1
+        name: Content
+        sortOrder: 1
+fields:
+  caf3cbea-8fce-4e0e-96ed-a06314a589a0:
+    contentColumnType: string
+    fieldGroup: null
+    handle: products
+    instructions: ''
+    name: Products
+    searchable: true
+    settings:
+      limit: ''
+      localizeRelations: false
+      selectionLabel: 'Add a product'
+      source: null
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: ''
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries
+handle: products
+name: Products
+sortOrder: 4

@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: services
+name: Services
+propagationMethod: all
+siteSettings:
+  8a2043ba-0ab6-482c-bb78-9c06b90e1891: # Saari
+    enabledByDefault: true
+    hasUrls: true
+    template: services/services
+    uriFormat: services
+type: single

@@ -1,0 +1,17 @@
+contentColumnType: text
+fieldGroup: f9763f83-f761-44e9-9179-c2ecbcb9d5e6
+handle: company
+instructions: 'Company Name'
+name: Company
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

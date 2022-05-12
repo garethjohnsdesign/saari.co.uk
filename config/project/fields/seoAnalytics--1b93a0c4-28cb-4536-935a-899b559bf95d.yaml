@@ -1,0 +1,17 @@
+contentColumnType: text
+fieldGroup: ce97b294-fcb7-4d2e-beaf-0027be256fd1
+handle: seoAnalytics
+instructions: ''
+name: 'SEO Analytics'
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: text
+  initialRows: '4'
+  multiline: ''
+  placeholder: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

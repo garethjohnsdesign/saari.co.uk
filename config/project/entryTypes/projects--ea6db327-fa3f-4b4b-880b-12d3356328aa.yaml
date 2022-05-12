@@ -1,0 +1,69 @@
+fieldLayouts:
+  aac0284e-60c7-4c83-bc97-f34eedc02e58:
+    tabs:
+      -
+        elements:
+          -
+            instructions: null
+            label: Title
+            type: craft\fieldlayoutelements\EntryTitleField
+          -
+            fieldUid: 04ab3c60-f325-48ea-bf96-347befb870e0
+            required: true
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: aacca6de-ab2c-4c8c-aa85-b0d6a2cc37c3
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: b9e40fd7-ff0f-4a8b-b667-c4d3d61743c5
+            required: true
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: 1ae65232-656e-4968-945b-5804fb14a5aa
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: fe6dcb1f-1917-4f66-b2ac-e4a615ae7732
+            required: true
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: 2648ac39-aa16-47e8-8d7b-83762575421e
+            required: true
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: bd3b81ce-b211-4656-9d00-0982d55c9690
+            required: true
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: 5611fdb0-74db-4755-be8e-24cd32b55beb
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: d0a2a4df-8ecd-40eb-a9fb-da3c62271b45
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+        name: Project
+        sortOrder: 1
+      -
+        elements:
+          -
+            fieldUid: dfb201c1-5d86-40c2-8ef8-8a447a607828
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: fe83906d-6f96-4f77-9151-41326628a78d
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+          -
+            fieldUid: 1abe3543-0a12-4298-ad7d-1a93ca2d280c
+            required: false
+            type: craft\fieldlayoutelements\CustomField
+        name: SEO
+        sortOrder: 2
+handle: projects
+hasTitleField: true
+name: Projects
+section: 32174234-e8c3-40d4-9725-77ff2bd2366a # Primary Projects
+sortOrder: 1
+titleFormat: ''

@@ -1,0 +1,19 @@
+contentColumnType: string
+fieldGroup: 0bc79f55-6994-456e-ba59-5ccb144fdd29
+handle: projectsMusic
+instructions: ''
+name: 'Projects Music'
+searchable: false
+settings:
+  limit: ''
+  localizeRelations: false
+  selectionLabel: ''
+  source: null
+  sources:
+    - 'section:61ec0ad3-3914-4cd3-aa68-9eec2ff33186' # Music Projects
+  targetSiteId: null
+  validateRelatedElements: ''
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Entries

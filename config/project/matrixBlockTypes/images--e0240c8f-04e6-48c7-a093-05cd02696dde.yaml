@@ -1,0 +1,78 @@
+field: fbca5cd6-d08e-4296-b334-c307c7be351c
+fieldLayouts:
+  7a0bc9ed-d19f-4c35-ba74-2452d91ae0a1:
+    tabs:
+      -
+        fields:
+          377c7b42-2db8-4a98-b777-f42b915f1d76:
+            required: false
+            sortOrder: 1
+          b4612cc8-9da3-4258-91df-3b42ae3cdb6a:
+            required: false
+            sortOrder: 2
+        name: Content
+        sortOrder: 1
+fields:
+  377c7b42-2db8-4a98-b777-f42b915f1d76:
+    contentColumnType: string
+    fieldGroup: null
+    handle: images
+    instructions: ''
+    name: Images
+    searchable: true
+    settings:
+      allowedKinds: null
+      defaultUploadLocationSource: 'volume:244f7440-a428-4998-8c23-00991784b369'
+      defaultUploadLocationSubpath: ''
+      limit: '2'
+      localizeRelations: false
+      restrictFiles: ''
+      selectionLabel: 'Add an image'
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      singleUploadLocationSource: 'volume:244f7440-a428-4998-8c23-00991784b369'
+      singleUploadLocationSubpath: ''
+      source: null
+      sources: '*'
+      targetSiteId: null
+      useSingleFolder: false
+      validateRelatedElements: ''
+      viewMode: list
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Assets
+  b4612cc8-9da3-4258-91df-3b42ae3cdb6a:
+    contentColumnType: string
+    fieldGroup: null
+    handle: position
+    instructions: ''
+    name: Position
+    searchable: true
+    settings:
+      default: center
+      options:
+        __assoc__:
+          -
+            - left
+            - '1'
+          -
+            - center
+            - '1'
+          -
+            - right
+            - '1'
+          -
+            - full
+            - ''
+          -
+            - drop-left
+            - ''
+          -
+            - drop-right
+            - ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: rias\positionfieldtype\fields\Position
+handle: images
+name: Images
+sortOrder: 5

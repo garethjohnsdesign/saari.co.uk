@@ -1,0 +1,28 @@
+contentColumnType: string
+fieldGroup: dfe9b0d4-736b-4fbd-a584-88932d8d56a9
+handle: clientsMusic
+instructions: ''
+name: Clients
+searchable: false
+settings:
+  allowedKinds:
+    - image
+  defaultUploadLocationSource: 'volume:244f7440-a428-4998-8c23-00991784b369'
+  defaultUploadLocationSubpath: ''
+  limit: ''
+  localizeRelations: false
+  restrictFiles: '1'
+  selectionLabel: 'Add a client'
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  singleUploadLocationSource: 'volume:244f7440-a428-4998-8c23-00991784b369'
+  singleUploadLocationSubpath: ''
+  source: null
+  sources: '*'
+  targetSiteId: null
+  useSingleFolder: false
+  validateRelatedElements: ''
+  viewMode: large
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Assets

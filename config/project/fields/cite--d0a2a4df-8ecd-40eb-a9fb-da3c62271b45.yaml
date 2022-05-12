@@ -1,0 +1,17 @@
+contentColumnType: text
+fieldGroup: b37424aa-eff2-4e8b-825c-20c18bb4148f
+handle: cite
+instructions: ''
+name: Cite
+searchable: true
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,131 @@
+dateModified: 1652365362
+email:
+  fromEmail: info@garethjohnsdesign.com
+  fromName: '40ft Brewery'
+  transportType: craft\mail\transportadapters\Sendmail
+graphql:
+  publicToken:
+    enabled: false
+    expiryDate: null
+meta:
+  __names__:
+    1ec2a87c-017f-4647-8f1e-0d21e61cc0fd: Socials # Socials
+    5e307858-bcf8-4027-8967-901d6d783f99: Music # Music
+    8a2043ba-0ab6-482c-bb78-9c06b90e1891: Saari # Saari
+    8ae5cd1b-a7ec-4968-94f8-e41aec2b241d: Home # Home
+    55d9d512-7f65-4622-9249-4b060f040a05: Projects # Projects
+    59ce7d3b-d81e-4a44-b046-d0e433c678de: 'Music Projects' # Music Projects
+    61ec0ad3-3914-4cd3-aa68-9eec2ff33186: 'Music Projects' # Music Projects
+    90f9271a-e759-4cb5-b190-63a383235d11: Contact # Contact
+    706acdec-9e2b-478c-b2a2-afb2a0521acf: Company # Company
+    988e0807-e76b-4064-8f2f-905c8828097c: Home # Home
+    1539d7f9-42e2-4a45-9452-d72dd007cc4f: Profile # Profile
+    05857c3a-0daf-412c-a320-780824b26ff5: 'Privacy Policy' # Privacy Policy
+    5926d150-6d22-486b-90c3-8696871445d9: Music # Music
+    32174234-e8c3-40d4-9725-77ff2bd2366a: 'Primary Projects' # Primary Projects
+    a107392e-6bfa-4c3c-aee9-6abe5b17e9e7: SEO # SEO
+    abe9fce8-89a7-4e45-8d7f-2141e766916d: Projects # Projects
+    b90c1a49-ccce-4075-8492-a2c3ee7419ec: Terms # Terms
+    bfd25865-7cb2-4b7e-b56a-35c35441ba10: Contact # Contact
+    bfd43785-517b-421f-b68e-a7411a40fe44: Terms # Terms
+    c900038a-ee1d-4ba1-afc1-e44173a44418: 'Privacy Policy' # Privacy Policy
+    de5b0e74-9873-49f7-b384-1dad088ea164: Profile # Profile
+    e4b66247-7ff5-4e1b-89d2-8e2881aa851e: Services # Services
+    e678316f-4dc2-4db6-93fc-330846a93e75: Services # Services
+    ea6db327-fa3f-4b4b-880b-12d3356328aa: Projects # Projects
+plugins:
+  contact-form:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  contact-form-honeypot:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  field-manager:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  google-cloud:
+    edition: standard
+    enabled: true
+    schemaVersion: '1.1'
+  imager:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.0
+  minify:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  position-fieldtype:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+  seo:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.2.0
+    settings:
+      description: 'London-based digital strategy, marketing, brand and business development consultancy run by Nikke Osterback, delivering increased market awareness and growth for our clients.'
+      facebookAppId: ''
+      metaTemplate: ''
+      removeAlternateUrls: ''
+      robots:
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+      robotsTxt: "{# Sitemap URL #}\r\nSitemap: {{ url(seo.sitemapName ~ '.xml') }}\r\n\r\n{# Disallows #}\r\n{% if craft.app.config.env != 'production' %}\r\n\r\n{# Disallow access to everything when NOT in production #}\r\nUser-agent: *\r\nDisallow: /\r\n\r\n{% else %}\r\n\r\n{# Disallow access to cpresources/ when live #}\r\nUser-agent: *\r\nDisallow: /cpresources/\r\n\r\n{% endif %}"
+      sitemapLimit: '1000'
+      sitemapName: sitemap
+      socialImage:
+        - '812'
+      title:
+        -
+          __assoc__:
+            -
+              - key
+              - '1'
+            -
+              - locked
+              - '0'
+            -
+              - template
+              - '{title}'
+        -
+          __assoc__:
+            -
+              - key
+              - '2'
+            -
+              - locked
+              - '1'
+            -
+              - template
+              - ' - {{ siteName }}'
+      titleSuffix: null
+      twitterHandle: saariltd
+  simplemap:
+    edition: lite
+    enabled: true
+    schemaVersion: 3.4.2
+system:
+  edition: solo
+  live: true
+  name: $SITE_NAME
+  retryDuration: null
+  schemaVersion: 3.7.33
+  timeZone: Europe/London
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: ''
+  photoVolumeUid: null
+  requireEmailVerification: true

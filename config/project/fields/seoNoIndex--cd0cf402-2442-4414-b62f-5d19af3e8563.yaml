@@ -1,0 +1,11 @@
+contentColumnType: boolean
+fieldGroup: ce97b294-fcb7-4d2e-beaf-0027be256fd1
+handle: seoNoIndex
+instructions: ''
+name: 'SEO No Index'
+searchable: true
+settings:
+  default: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Lightswitch

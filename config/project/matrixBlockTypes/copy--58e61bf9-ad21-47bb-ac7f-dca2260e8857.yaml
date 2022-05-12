@@ -1,0 +1,125 @@
+field: fbca5cd6-d08e-4296-b334-c307c7be351c
+fieldLayouts:
+  39bcb0cd-2168-4ac1-aab4-8ac1a1a47372:
+    tabs:
+      -
+        fields:
+          4beff40b-8879-4485-b04b-7a4560701ee6:
+            required: false
+            sortOrder: 3
+          595263f9-5693-4448-9ee8-f08a46d3748e:
+            required: false
+            sortOrder: 2
+          b2bf7ade-6924-4024-aacc-308a6c982f61:
+            required: true
+            sortOrder: 1
+          c8208a2b-74e7-4ff4-a5e4-de2d3048a179:
+            required: true
+            sortOrder: 4
+        name: Content
+        sortOrder: 1
+fields:
+  4beff40b-8879-4485-b04b-7a4560701ee6:
+    contentColumnType: string
+    fieldGroup: null
+    handle: page
+    instructions: ''
+    name: Page
+    searchable: true
+    settings:
+      limit: '1'
+      localizeRelations: false
+      selectionLabel: ''
+      source: null
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: ''
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries
+  595263f9-5693-4448-9ee8-f08a46d3748e:
+    contentColumnType: string
+    fieldGroup: null
+    handle: position
+    instructions: ''
+    name: Position
+    searchable: true
+    settings:
+      default: center
+      options:
+        __assoc__:
+          -
+            - left
+            - '1'
+          -
+            - center
+            - '1'
+          -
+            - right
+            - '1'
+          -
+            - full
+            - '1'
+          -
+            - drop-left
+            - ''
+          -
+            - drop-right
+            - ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: rias\positionfieldtype\fields\Position
+  b2bf7ade-6924-4024-aacc-308a6c982f61:
+    contentColumnType: text
+    fieldGroup: null
+    handle: copy
+    instructions: ''
+    name: Copy
+    searchable: true
+    settings:
+      availableTransforms: '*'
+      availableVolumes: '*'
+      cleanupHtml: true
+      columnType: text
+      purifierConfig: ''
+      purifyHtml: '1'
+      redactorConfig: ''
+      removeEmptyTags: '1'
+      removeInlineStyles: '1'
+      removeNbsp: '1'
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\redactor\Field
+  c8208a2b-74e7-4ff4-a5e4-de2d3048a179:
+    contentColumnType: string
+    fieldGroup: null
+    handle: background
+    instructions: ''
+    name: Background
+    searchable: true
+    settings:
+      optgroups: true
+      options:
+        -
+          default: '1'
+          label: White
+          value: white
+        -
+          default: ''
+          label: Light
+          value: light
+        -
+          default: ''
+          label: Primary
+          value: primary
+        -
+          default: ''
+          label: Secondary
+          value: secondary
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Dropdown
+handle: copy
+name: Copy
+sortOrder: 1

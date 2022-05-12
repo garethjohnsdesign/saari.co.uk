@@ -1,0 +1,49 @@
+field: 9077aec3-15f3-4b0d-bd7c-cce9aa875cdc
+fieldLayouts:
+  65769860-a5e8-4e89-a642-84993611b17c:
+    tabs:
+      -
+        fields:
+          562de896-c61c-45e9-b680-991e4b682608:
+            required: false
+            sortOrder: 2
+          cf268fda-d5ea-4ab5-bfd7-91877c381774:
+            required: false
+            sortOrder: 1
+        name: Content
+        sortOrder: 1
+fields:
+  562de896-c61c-45e9-b680-991e4b682608:
+    contentColumnType: string(255)
+    fieldGroup: null
+    handle: domain
+    instructions: ''
+    name: Domain
+    searchable: false
+    settings:
+      maxLength: '255'
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Url
+  cf268fda-d5ea-4ab5-bfd7-91877c381774:
+    contentColumnType: text
+    fieldGroup: null
+    handle: header
+    instructions: ''
+    name: Header
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+handle: client
+name: Client
+sortOrder: 1

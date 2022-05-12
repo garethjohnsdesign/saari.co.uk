@@ -50,10 +50,6 @@ return [
 
     // Development environment settings
     'dev' => [
-       'siteUrl' => [
-          'default' => 'https://saari.test',
-        ],
-
         // Dev Mode (see https://craftcms.com/support/dev-mode)
         'devMode' => true,
         'allowUpdates' => true,
@@ -64,12 +60,6 @@ return [
 
     // Staging environment settings
     'staging' => [
-
-        'siteUrl' => [
-            'default' => 'https://saari-stage.frb.io',
-        ],
-
-
         'devMode' => true,
         'enableTemplateCaching' => false,
         'allowUpdates' => true,
@@ -79,11 +69,6 @@ return [
 
     // Production environment settings
     'production' => [
-
-        'siteUrl' => [
-            'default' => 'https://www.saari.co.uk',
-        ],
-
         'devMode' => false,
         'enableTemplateCaching' => true,
         'allowUpdates' => false,

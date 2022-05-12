@@ -1,0 +1,28 @@
+field: 177d26d8-196e-40fa-80c8-8dc29f7a4139
+fieldLayouts:
+  ece9a411-76a6-4636-ba4a-9a1e9f70761a:
+    tabs:
+      -
+        fields:
+          205dd009-5a5d-42e4-b808-8e2db84f5bdb:
+            required: true
+            sortOrder: 1
+        name: Content
+        sortOrder: 1
+fields:
+  205dd009-5a5d-42e4-b808-8e2db84f5bdb:
+    contentColumnType: string(255)
+    fieldGroup: null
+    handle: socialLink
+    instructions: ''
+    name: Link
+    searchable: true
+    settings:
+      maxLength: '255'
+      placeholder: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Url
+handle: twitter
+name: Twitter
+sortOrder: 3
